@@ -1,0 +1,20 @@
+MCODE Plugin Results
+Date: May 31, 2010 1:55:47 PM
+
+Parameters:
+   Network Scoring:
+      Include Loops: false  Degree Cutoff: 2
+   Cluster Finding:
+      Node Score Cutoff: 0.2  Haircut: true  Fluff: false  K-Core: 2  Max. Depth from Seed: 100
+
+Cluster	Score (Density*#Nodes)	Nodes	Edges	Node IDs
+1	1.25	4	5	YER112W, YOL149W, YBL026W, YLR264W
+2	1.2	5	6	YMR095C, YMR096W, YFL060C, YFL059W, YMR322C
+3	1	3	5	YLR328W, YLR438W, YGR010W
+4	1	3	4	YDR311W, YOL082W, YKL103C
+5	1	3	3	YGL198W, YGL161C, YDR084C
+6	1	3	3	YDR308C, YOR174W, YOL135C
+7	1	3	3	YPL059W, YNL047C, YIL105C
+8	1	3	3	YLR368W, YDL132W, YDR328C
+9	1	3	4	YDL246C, YJR159W, YML064C
+10	1	4	4	YLR435W, YGL189C, YLL027W, YER131W
