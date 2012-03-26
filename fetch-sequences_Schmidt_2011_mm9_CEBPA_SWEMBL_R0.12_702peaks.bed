@@ -11,7 +11,7 @@
 #Quality cutoff	0.000000
 #Result cutoff	0.000000
 #Penalty factor	2.740832
-Region	Start pos.	End pos.	Count	Length	Unique pos.	Score	Ref. count	Max. Coverage	Summit
+#Region	Start pos.	End pos.	Count	Length	Unique pos.	Score	Ref. count	Max. Coverage	Summit
 chr1	8862954	8863208	610	255	200	307.185706	3	184.000000	8863090
 chr1	9611720	9611982	633	263	213	329.202207	0	194.000000	9611844
 chr1	21310404	21310630	591	227	181	338.492744	0	157.000000	21310458
