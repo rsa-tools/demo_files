@@ -1,0 +1,128 @@
+; compare-matrices  -v 2 -mode scores -format tf -file $RSAT/public_html/demo_files/matrix-clustering_demo_peak-motifs_result.tf -DR -sort cor -return matrix_id,matrix_label,strand,offset,cor,Ncor,logoDP,NIcor,NSW,match_rank,width,consensus,matrix_desc,logos -labels name,consensus -o results/peakmo_clustering/peakmo_example_pairwise_compa.tab
+; Program version       	1.118
+; Input files
+;	file2 	/no_backup/rsat/public_html/demo_files/matrix-clustering_demo_peak-motifs_result.tf
+;	file1 	/no_backup/rsat/public_html/demo_files/matrix-clustering_demo_peak-motifs_result.tf
+; Output files
+;	match_table_txt	results/peakmo_clustering/peakmo_example_pairwise_compa.tab
+;	matrix_desc  	results/peakmo_clustering/peakmo_example_pairwise_compa_matrix_descriptions.tab
+;	html_index   	results/peakmo_clustering/peakmo_example_pairwise_compa_index.html
+;	match_table_html	results/peakmo_clustering/peakmo_example_pairwise_compa.html
+;	prefix       	results/peakmo_clustering/peakmo_example_pairwise_compa
+; Matrices
+;	file1	10 matrices	/no_backup/rsat/public_html/demo_files/matrix-clustering_demo_peak-motifs_result.tf
+;		file1	1	16	226	tsatATGCAAATgwry
+;		file1	2	20	155	cyhcATTTGCATAACAAwrr
+;		file1	3	12	159	wtATGCTAATww
+;		file1	4	15	253	TtTGCATgACAATrr
+;		file1	5	15	404	ccCCCCCACCCCcmc
+;		file1	6	24	54	kkcyTTTGTTATGCAAATGvarkc
+;		file1	7	24	18	hrydcATTTGCATATGcAAATgwr
+;		file1	8	24	4	dbhYTbvTTATGCATAAbvARdvh
+;		file1	9	24	27	ygsATATGCGCATATGCArATrwr
+;		file1	10	22	73	byATTGTcATGCAAATGcaaky
+;	file2	10 matrices	/no_backup/rsat/public_html/demo_files/matrix-clustering_demo_peak-motifs_result.tf
+;		file2		1		16		226		tsatATGCAAATgwry
+;		file2		2		20		155		cyhcATTTGCATAACAAwrr
+;		file2		3		12		159		wtATGCTAATww
+;		file2		4		15		253		TtTGCATgACAATrr
+;		file2		5		15		404		ccCCCCCACCCCcmc
+;		file2		6		24		54		kkcyTTTGTTATGCAAATGvarkc
+;		file2		7		24		18		hrydcATTTGCATATGcAAATgwr
+;		file2		8		24		4		dbhYTbvTTATGCATAAbvARdvh
+;		file2		9		24		27		ygsATATGCGCATATGCArATrwr
+;		file2		10		22		73		byATTGTcATGCAAATGcaaky
+; Column content
+;	1	id1          	Identifier of the first matrix
+;	2	id2          	Identifier of the second matrix
+;	3	name1        	Name of the first matrix
+;	4	name2        	Name of the second matrix
+;	5	label1       	Label of the first matrix
+;	6	label2       	Label of the second matrix
+;	7	cor          	Pearson coefficient of correlation between frequency matrices
+;	8	Ncor         	Normalized correlation. Ncor = cor * Wr
+;	9	logoDP       	Dot product between the logo matrices.
+;	10	NIcor        	Normalized Pearson correlation between the information content matrices. NIcor = Icor * Wr
+;	11	NSW          	Normalized Sandelin-Wasserman similarity. NSW = SW/w
+;	12	w1           	Width of the first matrix
+;	13	w2           	Width of the second matrix
+;	14	w            	Alignment length (number of overlapping columns between matrix 1 and matrix 2, as a function of the offset)
+;	15	W            	Total alignment length (overlapping + non-overlapping columns). W = w1 + w2 - w
+;	16	Wr           	Relative alignment length (overlap divided by the total alignemnt length). Wr = w/W
+;	17	wr1          	Alignment length relative to the width of the first matrix. wr1 = w/w1
+;	18	wr2          	Alignment length relative to the width of the second matrix. wr2 = w/w2
+;	19	strand       	"strand", i.e. orientation of matrix 2 relative to matrix 1 (D=direct;  R=reverse)
+;	20	offset       	shift of the second matrix relative to the first matrix (negative:left; positive: right)
+;	21	consensus1   	IUPAC consensus of matrix 1 (dots represent non-aligned columns)
+;	22	consensus2   	IUPAC consensus of matrix 2 (dots represent non-aligned columns)
+;	23	rcor         	Matching rank for cor
+;	24	rNcor        	Matching rank for Ncor
+;	25	rlogoDP      	Matching rank for logoDP
+;	26	rNIcor       	Matching rank for NIcor
+;	27	rNSW         	Matching rank for NSW
+;	28	rank_mean    	Mean of the matching ranks on all selected metrics
+;	29	match_rank   	Rank of the match (sorting by rank_mean)
+#id1	id2	name1	name2	label1	label2	cor	Ncor	logoDP	NIcor	NSW	w1	w2	w	W	Wr	wr1	wr2	strand	offset	consensus1	consensus2	rcor	rNcor	rlogoDP	rNIcor	rNSW	rank_mean	match_rank
+positions_7nt_m3	positions_7nt_m3	positions_7nt_m3	positions_7nt_m3	positions_7nt_m3_dbhYTbvTTATGCATAAbvARdvh	positions_7nt_m3_dbhYTbvTTATGCATAAbvARdvh	1.000	1.000	24.361	1.000	1.000	24	24	24	24	1.0000	1.0000	1.0000	D	0	dbhYTbvTTATGCATAAbvARdvh	dbhYTbvTTATGCATAAbvARdvh	1	1	1	1	1	1.0000	1
+positions_7nt_m2	positions_7nt_m2	positions_7nt_m2	positions_7nt_m2	positions_7nt_m2_hrydcATTTGCATATGcAAATgwr	positions_7nt_m2_hrydcATTTGCATATGcAAATgwr	1.000	1.000	16.241	1.000	1.000	24	24	24	24	1.0000	1.0000	1.0000	D	0	hrydcATTTGCATATGcAAATgwr	hrydcATTTGCATATGcAAATgwr	1	1	2	1	1	1.2000	2
+positions_7nt_m4	positions_7nt_m4	positions_7nt_m4	positions_7nt_m4	positions_7nt_m4_ygsATATGCGCATATGCArATrwr	positions_7nt_m4_ygsATATGCGCATATGCArATrwr	1.000	1.000	14.531	1.000	1.000	24	24	24	24	1.0000	1.0000	1.0000	D	0	ygsATATGCGCATATGCArATrwr	ygsATATGCGCATATGCArATrwr	1	1	3	1	1	1.4000	3
+positions_7nt_m1	positions_7nt_m1	positions_7nt_m1	positions_7nt_m1	positions_7nt_m1_kkcyTTTGTTATGCAAATGvarkc	positions_7nt_m1_kkcyTTTGTTATGCAAATGvarkc	1.000	1.000	14.058	1.000	1.000	24	24	24	24	1.0000	1.0000	1.0000	D	0	kkcyTTTGTTATGCAAATGvarkc	kkcyTTTGTTATGCAAATGvarkc	1	1	4	1	1	1.6000	4
+positions_7nt_m5	positions_7nt_m5	positions_7nt_m5	positions_7nt_m5	positions_7nt_m5_byATTGTcATGCAAATGcaaky	positions_7nt_m5_byATTGTcATGCAAATGcaaky	1.000	1.000	12.901	1.000	1.000	22	22	22	22	1.0000	1.0000	1.0000	D	0	  byATTGTcATGCAAATGcaaky	byATTGTcATGCAAATGcaaky  	1	1	8	1	1	2.4000	5
+oligos_7nt_mkv4_m2	oligos_7nt_mkv4_m2	oligos_7nt_mkv4_m2	oligos_7nt_mkv4_m2	oligos_7nt_mkv4_m2_cyhcATTTGCATAACAAwrr	oligos_7nt_mkv4_m2_cyhcATTTGCATAACAAwrr	1.000	1.000	11.893	1.000	1.000	20	20	20	20	1.0000	1.0000	1.0000	D	0	cyhcATTTGCATAACAAwrr	cyhcATTTGCATAACAAwrr    	1	1	10	1	1	2.8000	6
+oligos_7nt_mkv4_m4	oligos_7nt_mkv4_m4	oligos_7nt_mkv4_m4	oligos_7nt_mkv4_m4	oligos_7nt_mkv4_m4_TtTGCATgACAATrr	oligos_7nt_mkv4_m4_TtTGCATgACAATrr	1.000	1.000	11.787	1.000	1.000	15	15	15	15	1.0000	1.0000	1.0000	D	0	     TtTGCATgACAATrr	TtTGCATgACAATrr         	1	1	11	1	1	3.0000	7
+oligos_7nt_mkv4_m1	oligos_7nt_mkv4_m1	oligos_7nt_mkv4_m1	oligos_7nt_mkv4_m1	oligos_7nt_mkv4_m1_tsatATGCAAATgwry	oligos_7nt_mkv4_m1_tsatATGCAAATgwry	1.000	1.000	10.981	1.000	1.000	16	16	16	16	1.0000	1.0000	1.0000	D	0	tsatATGCAAATgwry	tsatATGCAAATgwry	1	1	13	1	1	3.4000	8
+oligos_7nt_mkv4_m3	oligos_7nt_mkv4_m3	oligos_7nt_mkv4_m3	oligos_7nt_mkv4_m3	oligos_7nt_mkv4_m3_wtATGCTAATww	oligos_7nt_mkv4_m3_wtATGCTAATww	1.000	1.000	10.503	1.000	1.000	12	12	12	12	1.0000	1.0000	1.0000	D	0	        wtATGCTAATww	wtATGCTAATww            	1	1	16	1	1	4.0000	9
+oligos_7nt_mkv4_m5	oligos_7nt_mkv4_m5	oligos_7nt_mkv4_m5	oligos_7nt_mkv4_m5	oligos_7nt_mkv4_m5_ccCCCCCACCCCcmc	oligos_7nt_mkv4_m5_ccCCCCCACCCCcmc	1.000	1.000	7.854	1.000	1.000	15	15	15	15	1.0000	1.0000	1.0000	D	0	     ccCCCCCACCCCcmc	ccCCCCCACCCCcmc         	1	1	23	1	1	5.4000	10
+positions_7nt_m1	positions_7nt_m5	positions_7nt_m1	positions_7nt_m5	positions_7nt_m1_kkcyTTTGTTATGCAAATGvarkc	positions_7nt_m5_byATTGTcATGCAAATGcaaky	0.916	0.839	12.946	0.830	0.967	24	22	22	24	0.9167	0.9167	1.0000	D	2	..cyTTTGTTATGCAAATGvarkc	byATTGTcATGCAAATGcaaky  	23	11	7	11	27	15.8000	11
+oligos_7nt_mkv4_m2	oligos_7nt_mkv4_m4	oligos_7nt_mkv4_m2	oligos_7nt_mkv4_m4	oligos_7nt_mkv4_m2_cyhcATTTGCATAACAAwrr	oligos_7nt_mkv4_m4_TtTGCATgACAATrr	0.937	0.702	10.714	0.688	0.970	20	15	15	20	0.7500	0.7500	1.0000	D	5	.....TTTGCATAACAAwrr	TtTGCATgACAATrr         	19	13	15	12	25	16.8000	12
+oligos_7nt_mkv4_m4	positions_7nt_m5	oligos_7nt_mkv4_m4	positions_7nt_m5	oligos_7nt_mkv4_m4_TtTGCATgACAATrr	positions_7nt_m5_byATTGTcATGCAAATGcaaky	0.969	0.661	4.559	0.193	0.985	15	22	15	22	0.6818	1.0000	0.6818	R	-7	     TtTGCATgACAATrr	.......TTTGCATGACAATRV  	14	14	27	26	17	19.6000	13
+oligos_7nt_mkv4_m1	positions_7nt_m5	oligos_7nt_mkv4_m1	positions_7nt_m5	oligos_7nt_mkv4_m1_tsatATGCAAATgwry	positions_7nt_m5_byATTGTcATGCAAATGcaaky	0.852	0.620	10.251	0.607	0.937	16	22	16	22	0.7273	1.0000	0.7273	D	-4	tsatATGCAAATgwry	....TGTcATGCAAATGcaa..  	30	16	17	14	40	23.4000	14
+oligos_7nt_mkv4_m1	positions_7nt_m1	oligos_7nt_mkv4_m1	positions_7nt_m1	oligos_7nt_mkv4_m1_tsatATGCAAATgwry	positions_7nt_m1_kkcyTTTGTTATGCAAATGvarkc	0.860	0.573	9.663	0.558	0.939	16	24	16	24	0.6667	1.0000	0.6667	D	-6	tsatATGCAAATgwry	......TGTTATGCAAATGvar..	29	19	19	16	39	24.4000	15
+positions_7nt_m1	positions_7nt_m3	positions_7nt_m1	positions_7nt_m3	positions_7nt_m1_kkcyTTTGTTATGCAAATGvarkc	positions_7nt_m3_dbhYTbvTTATGCATAAbvARdvh	0.693	0.637	13.841	0.629	0.866	24	24	23	25	0.9200	0.9583	0.9583	D	1	.kcyTTTGTTATGCAAATGvarkc	dbhYTbvTTATGCATAAbvARdv.	45	15	5	13	47	25.0000	16
+oligos_7nt_mkv4_m1	positions_7nt_m2	oligos_7nt_mkv4_m1	positions_7nt_m2	oligos_7nt_mkv4_m1_tsatATGCAAATgwry	positions_7nt_m2_hrydcATTTGCATATGcAAATgwr	0.890	0.594	5.412	0.098	0.953	16	24	16	24	0.6667	1.0000	0.6667	R	-7	tsatATGCAAATgwry	.......GCATATGCAAATGHRY.	26	18	25	27	36	26.4000	17
+positions_7nt_m3	positions_7nt_m5	positions_7nt_m3	positions_7nt_m5	positions_7nt_m3_dbhYTbvTTATGCATAAbvARdvh	positions_7nt_m5_byATTGTcATGCAAATGcaaky	0.653	0.599	13.285	0.586	0.847	24	22	22	24	0.9167	0.9167	1.0000	D	1	.bhYTbvTTATGCATAAbvARdv.	byATTGTcATGCAAATGcaaky  	49	17	6	15	51	27.6000	18
+oligos_7nt_mkv4_m4	positions_7nt_m3	oligos_7nt_mkv4_m4	positions_7nt_m3	oligos_7nt_mkv4_m4_TtTGCATgACAATrr	positions_7nt_m3_dbhYTbvTTATGCATAAbvARdvh	0.730	0.456	11.591	0.434	0.861	15	24	15	24	0.6250	1.0000	0.6250	D	-8	     TtTGCATgACAATrr	........TATGCATAAbvARdv.	42	23	12	19	49	29.0000	19
+oligos_7nt_mkv4_m2	positions_7nt_m3	oligos_7nt_mkv4_m2	positions_7nt_m3	oligos_7nt_mkv4_m2_cyhcATTTGCATAACAAwrr	positions_7nt_m3_dbhYTbvTTATGCATAAbvARdvh	0.672	0.560	12.641	0.551	0.846	20	24	20	24	0.8333	1.0000	0.8333	D	-3	cyhcATTTGCATAACAAwrr	...YTbvTTATGCATAAbvARdv.	47	20	9	17	52	29.0000	20
+oligos_7nt_mkv4_m2	oligos_7nt_mkv4_m3	oligos_7nt_mkv4_m2	oligos_7nt_mkv4_m3	oligos_7nt_mkv4_m2_cyhcATTTGCATAACAAwrr	oligos_7nt_mkv4_m3_wtATGCTAATww	0.825	0.495	4.833	0.201	0.920	20	12	12	20	0.6000	0.6000	1.0000	R	2	..hcATTTGCATAA......	WWATTAGCATAW            	33	22	26	25	42	29.6000	21
+oligos_7nt_mkv4_m3	positions_7nt_m1	oligos_7nt_mkv4_m3	positions_7nt_m1	oligos_7nt_mkv4_m3_wtATGCTAATww	positions_7nt_m1_kkcyTTTGTTATGCAAATGvarkc	0.799	0.400	8.409	0.383	0.904	12	24	12	24	0.5000	1.0000	0.5000	D	-8	        wtATGCTAATww	........TTATGCAAATGv....	34	26	22	22	44	29.6000	22
+oligos_7nt_mkv4_m5	positions_7nt_m1	oligos_7nt_mkv4_m5	positions_7nt_m1	oligos_7nt_mkv4_m5_ccCCCCCACCCCcmc	positions_7nt_m1_kkcyTTTGTTATGCAAATGvarkc	0.946	0.025	0.002	0.026	0.991	15	24	1	38	0.0263	0.0667	0.0417	D	-23	     c..............	.......................c	17	40	43	34	14	29.6000	23
+oligos_7nt_mkv4_m3	positions_7nt_m5	oligos_7nt_mkv4_m3	positions_7nt_m5	oligos_7nt_mkv4_m3_wtATGCTAATww	positions_7nt_m5_byATTGTcATGCAAATGcaaky	0.768	0.419	8.763	0.412	0.890	12	22	12	22	0.5455	1.0000	0.5455	D	-6	        wtATGCTAATww	......TcATGCAAATGc....  	38	24	21	20	45	29.6000	24
+oligos_7nt_mkv4_m2	oligos_7nt_mkv4_m5	oligos_7nt_mkv4_m2	oligos_7nt_mkv4_m5	oligos_7nt_mkv4_m2_cyhcATTTGCATAACAAwrr	oligos_7nt_mkv4_m5_ccCCCCCACCCCcmc	0.974	0.029	0.000	0.029	0.989	20	15	1	34	0.0294	0.0500	0.0667	D	-14	c...................	..............c         	13	36	51	33	15	29.6000	25
+oligos_7nt_mkv4_m1	oligos_7nt_mkv4_m2	oligos_7nt_mkv4_m1	oligos_7nt_mkv4_m2	oligos_7nt_mkv4_m1_tsatATGCAAATgwry	oligos_7nt_mkv4_m2_cyhcATTTGCATAACAAwrr	0.899	0.719	1.686	-0.018	0.959	16	20	16	20	0.8000	1.0000	0.8000	R	-4	tsatATGCAAATgwry	....TGTTATGCAAATGDRG	24	12	28	55	33	30.4000	26
+oligos_7nt_mkv4_m2	positions_7nt_m2	oligos_7nt_mkv4_m2	positions_7nt_m2	oligos_7nt_mkv4_m2_cyhcATTTGCATAACAAwrr	positions_7nt_m2_hrydcATTTGCATATGcAAATgwr	0.655	0.545	10.182	0.520	0.850	20	24	20	24	0.8333	1.0000	0.8333	D	-1	cyhcATTTGCATAACAAwrr	.rydcATTTGCATATGcAAAT...	48	21	18	18	50	31.0000	27
+oligos_7nt_mkv4_m2	positions_7nt_m1	oligos_7nt_mkv4_m2	positions_7nt_m1	oligos_7nt_mkv4_m2_cyhcATTTGCATAACAAwrr	positions_7nt_m1_kkcyTTTGTTATGCAAATGvarkc	0.975	0.023	0.001	0.016	0.996	20	24	1	43	0.0233	0.0500	0.0417	R	19	...................r	G.......................	12	45	50	40	11	31.6000	28
+oligos_7nt_mkv4_m4	positions_7nt_m1	oligos_7nt_mkv4_m4	positions_7nt_m1	oligos_7nt_mkv4_m4_TtTGCATgACAATrr	positions_7nt_m1_kkcyTTTGTTATGCAAATGvarkc	0.933	0.025	0.001	0.016	0.995	15	24	1	38	0.0263	0.0667	0.0417	R	14	     ..............r	G.......................	20	41	47	39	12	31.8000	29
+oligos_7nt_mkv4_m1	positions_7nt_m3	oligos_7nt_mkv4_m1	positions_7nt_m3	oligos_7nt_mkv4_m1_tsatATGCAAATgwry	positions_7nt_m3_dbhYTbvTTATGCATAAbvARdvh	0.612	0.408	10.776	0.410	0.809	16	24	16	24	0.6667	1.0000	0.6667	D	-5	tsatATGCAAATgwry	.....bvTTATGCATAAbvAR...	50	25	14	21	53	32.6000	30
+oligos_7nt_mkv4_m4	positions_7nt_m4	oligos_7nt_mkv4_m4	positions_7nt_m4	oligos_7nt_mkv4_m4_TtTGCATgACAATrr	positions_7nt_m4_ygsATATGCGCATATGCArATrwr	0.698	0.058	0.129	0.064	0.954	15	24	3	36	0.0833	0.2000	0.1250	D	12	     ............Trr	ygs.....................	44	29	30	28	35	33.2000	31
+oligos_7nt_mkv4_m2	positions_7nt_m5	oligos_7nt_mkv4_m2	positions_7nt_m5	oligos_7nt_mkv4_m2_cyhcATTTGCATAACAAwrr	positions_7nt_m5_byATTGTcATGCAAATGcaaky	0.956	0.023	0.002	-0.008	0.992	20	22	1	41	0.0244	0.0500	0.0455	R	19	...................r	R.....................  	16	44	42	51	13	33.2000	32
+oligos_7nt_mkv4_m1	oligos_7nt_mkv4_m3	oligos_7nt_mkv4_m1	oligos_7nt_mkv4_m3	oligos_7nt_mkv4_m1_tsatATGCAAATgwry	oligos_7nt_mkv4_m3_wtATGCTAATww	0.869	0.032	0.000	0.031	0.972	16	12	1	27	0.0370	0.0625	0.0833	D	-11	t...............	...........w        	27	33	52	30	24	33.2000	33
+oligos_7nt_mkv4_m3	positions_7nt_m4	oligos_7nt_mkv4_m3	positions_7nt_m4	oligos_7nt_mkv4_m3_wtATGCTAATww	positions_7nt_m4_ygsATATGCGCATATGCArATrwr	0.692	0.346	5.893	0.333	0.864	12	24	12	24	0.5000	1.0000	0.5000	D	-11	        wtATGCTAATww	...........ATATGCArATrw.	46	27	24	23	48	33.6000	34
+positions_7nt_m2	positions_7nt_m3	positions_7nt_m2	positions_7nt_m3	positions_7nt_m2_hrydcATTTGCATATGcAAATgwr	positions_7nt_m3_dbhYTbvTTATGCATAAbvARdvh	0.943	0.020	0.007	0.015	0.979	24	24	1	47	0.0213	0.0417	0.0417	D	-23	h.......................	.......................h	18	50	37	41	22	33.6000	35
+positions_7nt_m2	positions_7nt_m4	positions_7nt_m2	positions_7nt_m4	positions_7nt_m2_hrydcATTTGCATATGcAAATgwr	positions_7nt_m4_ygsATATGCGCATATGCArATrwr	0.773	0.034	0.016	0.021	0.966	24	24	2	46	0.0435	0.0833	0.0833	D	-22	hr......................	......................wr	37	32	33	37	29	33.6000	36
+oligos_7nt_mkv4_m1	oligos_7nt_mkv4_m5	oligos_7nt_mkv4_m1	oligos_7nt_mkv4_m5	oligos_7nt_mkv4_m1_tsatATGCAAATgwry	oligos_7nt_mkv4_m5_ccCCCCCACCCCcmc	0.918	0.031	0.000	0.030	0.969	16	15	1	30	0.0333	0.0625	0.0667	D	15	...............y	c..............     	22	34	55	32	26	33.8000	37
+oligos_7nt_mkv4_m5	positions_7nt_m5	oligos_7nt_mkv4_m5	positions_7nt_m5	oligos_7nt_mkv4_m5_ccCCCCCACCCCcmc	positions_7nt_m5_byATTGTcATGCAAATGcaaky	0.869	0.024	0.001	0.025	0.983	15	22	1	36	0.0278	0.0667	0.0455	D	-21	     c..............	.....................y  	28	42	46	35	19	34.0000	38
+oligos_7nt_mkv4_m2	positions_7nt_m4	oligos_7nt_mkv4_m2	positions_7nt_m4	oligos_7nt_mkv4_m2_cyhcATTTGCATAACAAwrr	positions_7nt_m4_ygsATATGCGCATATGCArATrwr	0.603	0.044	0.093	0.054	0.948	20	24	3	41	0.0732	0.1500	0.1250	D	17	.................wrr	ygs.....................	51	30	31	29	37	35.6000	39
+positions_7nt_m3	positions_7nt_m4	positions_7nt_m3	positions_7nt_m4	positions_7nt_m3_dbhYTbvTTATGCATAAbvARdvh	positions_7nt_m4_ygsATATGCGCATATGCArATrwr	0.400	0.286	9.487	0.282	0.713	24	24	20	28	0.7143	0.8333	0.8333	D	-4	dbhYTbvTTATGCATAAbvA....	....TATGCGCATATGCArATrwr	53	28	20	24	54	35.8000	40
+positions_7nt_m2	positions_7nt_m5	positions_7nt_m2	positions_7nt_m5	positions_7nt_m2_hrydcATTTGCATATGcAAATgwr	positions_7nt_m5_byATTGTcATGCAAATGcaaky	0.919	0.020	0.003	-0.017	0.984	24	22	1	45	0.0222	0.0417	0.0455	R	23	.......................r	R.....................  	21	48	41	54	18	36.4000	41
+oligos_7nt_mkv4_m1	positions_7nt_m4	oligos_7nt_mkv4_m1	positions_7nt_m4	oligos_7nt_mkv4_m1_tsatATGCAAATgwry	positions_7nt_m4_ygsATATGCGCATATGCArATrwr	0.988	0.025	0.000	0.016	0.933	16	24	1	39	0.0256	0.0625	0.0417	R	15	...............y	Y.......................	11	39	54	38	41	36.6000	42
+positions_7nt_m4	positions_7nt_m5	positions_7nt_m4	positions_7nt_m5	positions_7nt_m4_ygsATATGCGCATATGCArATrwr	positions_7nt_m5_byATTGTcATGCAAATGcaaky	0.968	0.022	0.007	-0.011	0.960	24	22	1	45	0.0222	0.0417	0.0455	R	23	.......................r	R.....................  	15	47	38	53	32	37.0000	43
+oligos_7nt_mkv4_m4	positions_7nt_m2	oligos_7nt_mkv4_m4	positions_7nt_m2	oligos_7nt_mkv4_m4_TtTGCATgACAATrr	positions_7nt_m2_hrydcATTTGCATATGcAAATgwr	0.709	0.038	0.024	0.015	0.945	15	24	2	37	0.0541	0.1333	0.0833	R	-22	     Tt.............	......................YD	43	31	32	42	38	37.2000	44
+oligos_7nt_mkv4_m4	oligos_7nt_mkv4_m5	oligos_7nt_mkv4_m4	oligos_7nt_mkv4_m5	oligos_7nt_mkv4_m4_TtTGCATgACAATrr	oligos_7nt_mkv4_m5_ccCCCCCACCCCcmc	0.758	0.026	0.004	-0.011	0.986	15	15	1	29	0.0345	0.0667	0.0667	R	14	     ..............r	G..............         	41	38	40	52	16	37.4000	45
+positions_7nt_m1	positions_7nt_m4	positions_7nt_m1	positions_7nt_m4	positions_7nt_m1_kkcyTTTGTTATGCAAATGvarkc	positions_7nt_m4_ygsATATGCGCATATGCArATrwr	0.891	0.019	0.006	0.008	0.965	24	24	1	47	0.0213	0.0417	0.0417	R	23	.......................c	Y.......................	25	51	39	43	30	37.6000	46
+oligos_7nt_mkv4_m1	oligos_7nt_mkv4_m4	oligos_7nt_mkv4_m1	oligos_7nt_mkv4_m4	oligos_7nt_mkv4_m1_tsatATGCAAATgwry	oligos_7nt_mkv4_m4_TtTGCATgACAATrr	0.839	0.028	0.000	0.006	0.979	16	15	1	30	0.0333	0.0625	0.0667	R	15	...............y	Y..............     	32	37	53	44	23	37.8000	47
+oligos_7nt_mkv4_m3	positions_7nt_m2	oligos_7nt_mkv4_m3	positions_7nt_m2	oligos_7nt_mkv4_m3_wtATGCTAATww	positions_7nt_m2_hrydcATTTGCATATGcAAATgwr	0.763	0.022	0.007	-0.002	0.983	12	24	1	35	0.0286	0.0833	0.0417	R	-23	        w...........	.......................D	40	46	36	48	20	38.0000	48
+oligos_7nt_mkv4_m3	positions_7nt_m3	oligos_7nt_mkv4_m3	positions_7nt_m3	oligos_7nt_mkv4_m3_wtATGCTAATww	positions_7nt_m3_dbhYTbvTTATGCATAAbvARdvh	0.844	0.024	0.001	0.023	0.956	12	24	1	35	0.0286	0.0833	0.0417	D	11	        ...........w	d.......................	31	43	48	36	34	38.4000	49
+oligos_7nt_mkv4_m3	oligos_7nt_mkv4_m4	oligos_7nt_mkv4_m3	oligos_7nt_mkv4_m4	oligos_7nt_mkv4_m3_wtATGCTAATww	oligos_7nt_mkv4_m4_TtTGCATgACAATrr	0.776	0.030	0.001	0.030	0.870	12	15	1	26	0.0385	0.0833	0.0667	D	11	        ...........w	T..............         	36	35	45	31	46	38.6000	50
+oligos_7nt_mkv4_m5	positions_7nt_m4	oligos_7nt_mkv4_m5	positions_7nt_m4	oligos_7nt_mkv4_m5_ccCCCCCACCCCcmc	positions_7nt_m4_ygsATATGCGCATATGCArATrwr	0.765	0.020	0.010	0.004	0.964	15	24	1	38	0.0263	0.0667	0.0417	R	14	     ..............c	Y.......................	39	49	35	45	31	39.8000	51
+positions_7nt_m1	positions_7nt_m2	positions_7nt_m1	positions_7nt_m2	positions_7nt_m1_kkcyTTTGTTATGCAAATGvarkc	positions_7nt_m2_hrydcATTTGCATATGcAAATgwr	0.782	0.017	0.001	0.001	0.982	24	24	1	47	0.0213	0.0417	0.0417	R	23	.......................c	Y.......................	35	52	49	47	21	40.8000	52
+oligos_7nt_mkv4_m5	positions_7nt_m2	oligos_7nt_mkv4_m5	positions_7nt_m2	oligos_7nt_mkv4_m5_ccCCCCCACCCCcmc	positions_7nt_m2_hrydcATTTGCATATGcAAATgwr	0.527	0.014	0.002	0.004	0.966	15	24	1	38	0.0263	0.0667	0.0417	R	14	     ..............c	Y.......................	52	53	44	46	28	44.6000	53
+oligos_7nt_mkv4_m5	positions_7nt_m3	oligos_7nt_mkv4_m5	positions_7nt_m3	oligos_7nt_mkv4_m5_ccCCCCCACCCCcmc	positions_7nt_m3_dbhYTbvTTATGCATAAbvARdvh	0.142	0.004	0.013	-0.008	0.912	15	24	1	38	0.0263	0.0667	0.0417	D	-23	     c..............	.......................h	54	54	34	50	43	47.0000	54
+oligos_7nt_mkv4_m3	oligos_7nt_mkv4_m5	oligos_7nt_mkv4_m3	oligos_7nt_mkv4_m5	oligos_7nt_mkv4_m3_wtATGCTAATww	oligos_7nt_mkv4_m5_ccCCCCCACCCCcmc	-0.009	-0.005	1.306	-0.002	0.524	12	15	10	17	0.5882	0.8333	0.6667	D	-5	        wtATGCTAAT..	.....CCACCCCcmc         	55	55	29	49	55	48.6000	55
+; Host name	caminante.local
+; Job started	2014-04-04.165143
+; Job done	2014-04-04.165145
+; Seconds	1.16
+;	user	1.16
+;	system	0.05
+;	cuser	1.38
+;	csystem	0.18
