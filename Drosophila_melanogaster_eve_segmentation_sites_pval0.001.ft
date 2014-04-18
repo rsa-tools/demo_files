@@ -1,0 +1,51 @@
+; crer-Scan  -i /filer/etudiants/g1/a800422/Bureau/Projet_PIB/sites/matrix-scan_2014-03_segmentation_DEMO1.ft -s -in_format ft -lth_crer_size 30 -uth_crer_size 500 -lth_crer_sites 2 -uth_crer_sites 1000 -lth_crer_sites_distance 1 -uth_crer_sites_distances 1000 -uth_crer_eval 0.0001 -uth_crer_pval 0.0001 -lth_crer_sig 2 -uth_site_pval 0.0001 -lth_score 0 -uth_score 1000 -uth_overlap 1 - return_limits_filtered -o /filer/etudiants/g1/a800422/Bureau/Projet_PIB/results/Drosophila_melanogaster_eve_segmentation_sitespval0.001_crer_(-1free).ft -v 3 
+; Input file
+;	input	/filer/etudiants/g1/a800422/Bureau/Projet_PIB/sites/matrix-scan_2014-03_segmentation_DEMO1.ft
+; File format	ft
+;Thresholds	lower	upper
+;	crer_size	30	500
+;	crer_sites	2	1000
+;	crer_sites_distance	1	1000
+;	crer_pval	0.0001
+;	crer_sig	2
+;	crer_eval	0.0001
+;	site_pval	Na	0.0001
+;	site_score	0	1000
+; Output columns
+;	1	seq_id
+;	2	ft_type
+;	3	ft_name
+;	4	strand
+;	5	start = starting position of the crer, which corresponds to the start position of the leftmost site
+;	6	end = end position of the crer, which corresponds to the end position of the rightmost site
+;	7	hit_sum
+;	8	crer_sig
+;	9	crer_eval
+;	10	crer_pval
+;	11	hit_pval_product
+;	12	weight_sum
+;	13	crer_size
+;	14	crer_center_size = size taken in consideration for the p-value computation -> from center of the leftmost site to the center of the rightmost site (this size thus differs from the difference between crer_start and crer_end).
+#seq_id	ft_type	ft_name	strand	start	end	hit_sum	crer_sig	crer_eval	crer_pval	hit_pval_product	weight_sum	crer_size	crer_center_size
+chr2R	limit	START_END	D	5861246	5866745	.	0	0	0	0	0	0	0
+chr2R	CRER	crer	DR	5863045	5863332	6	4.4e+03	9.36e-04	7.2e-05	2.8e-29	48	288	281
+chr2R	CRER	crer	DR	5866126	5866613	8	1.4e+04	3.38e-04	2.6e-05	2.8e-36	64	488	478
+chr2R	CRER	crer	DR	5866219	5866644	7	4.2e+03	9.88e-04	7.6e-05	6.4e-33	59	426	412
+chr2R	CRER	crer	DR	5866219	5866690	8	1.8e+04	2.60e-04	2e-05	6.1e-37	66	472	461
+chr2R	CRER	crer	DR	5866219	5866700	9	1.5e+05	3.64e-05	2.8e-06	2.4e-44	79	482	468
+chr2R	CRER	crer	DR	5866230	5866644	7	4.8e+03	8.71e-04	6.7e-05	2.9e-33	58	415	404
+chr2R	CRER	crer	DR	5866230	5866690	8	2e+04	2.34e-04	1.8e-05	2.7e-37	66	461	453
+chr2R	CRER	crer	DR	5866230	5866700	9	1.8e+05	3.12e-05	2.4e-06	1.1e-44	78	471	460
+chr2R	CRER	crer	DR	5866257	5866690	7	3.5e+03	1.16e-03	8.9e-05	1.6e-32	58	434	423
+chr2R	CRER	crer	DR	5866257	5866700	8	3.2e+04	1.56e-04	1.2e-05	6.3e-40	71	444	430
+chr2R	CRER	crer	DR	5866361	5866700	7	1.9e+04	2.47e-04	1.9e-05	6.4e-36	63	340	329
+chr2R	CRER	crer	DR	5866551	5866700	5	1.4e+04	3.38e-04	2.6e-05	3.8e-27	48	150	140
+chr2R	CRER	crer	DR	5866565	5866700	5	2.3e+04	2.08e-04	1.6e-05	3.8e-27	48	136	126
+; Number of sites scanned	32
+; Sum of sequence lengths	5500
+; Number of Crer	13
+; Number of binomial	100
+; Maximal number of binomial	125250
+; Job started	2014-07-04.16:39:55
+; Job done	2014-07-04.16:39:55
+; Seconds	0.133913
