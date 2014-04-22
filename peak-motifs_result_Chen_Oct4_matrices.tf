@@ -384,3 +384,82 @@ CC  consensus.regexp: [cgt][ct]ATTGTcATGCAAATGcaa[gt][ct]
 CC  consensus.regexp.rc: [AG][AC]TTGCATTTGCATGACAAT[AG][ACG]
 XX
 //
+AC  MA0079.3
+XX
+ID  SP1
+XX
+DE  MA0079.3 SP1; from JASPAR
+PO       A     C     G     T
+1      857  1786  4271  1820
+2        0  6215   642  1877
+3       99  6703     0  1932
+4        0  8734     0     0
+5        0  8661     0    73
+6     1359     0  4624  2751
+7        0  8734     0     0
+8        0  8734     0     0
+9        0  6679     0  2055
+10    1054  6357     0  1323
+11     652  4969   734  2379
+XX
+CC  program: jaspar
+CC  matrix.nb: 243
+CC  min.prior: 0.25
+CC  alphabet.size: 4
+CC  max.bits: 2
+CC  total.information: 9.22897315885212
+CC  information.per.column: 0.838997559895647
+CC  max.possible.info.per.col: 1.38629436111989
+CC  consensus.strict: gCCCCgCCCCc
+CC  consensus.strict.rc: GGGGGCGGGGC
+CC  consensus.IUPAC: gCCCCkCCCCy
+CC  consensus.IUPAC.rc: RGGGGMGGGGC
+CC  consensus.regexp: gCCCC[gt]CCCC[ct]
+CC  consensus.regexp.rc: [AG]GGGG[AC]GGGGC
+CC  residues.content.crude.freq: a:0.0419|c:0.7033|g:0.1069|t:0.1479
+CC  G+C.content.crude.freq: 0.810240023315361
+CC  residues.content.corrected.freq: a:0.0419|c:0.7033|g:0.1069|t:0.1479
+CC  G+C.content.corrected.freq: 0.810204506426601
+XX
+//
+AC  MA0162.2
+XX
+ID  EGR1
+XX
+DE  MA0162.2 EGR1; from JASPAR
+PO       A     C     G     T
+1     1098  5728  3083  2347
+2     1506  6847  1359  2544
+3     1160  6049  2250  2797
+4     1335 10431     0   490
+5      233 11574     0   449
+6     2911     0  6840  2505
+7        0 12256     0     0
+8        0 11852     0   404
+9        0 10154   611  1491
+10    3652  8361     0   243
+11       0 11952     0   304
+12    2368     0  6599  3289
+13       0  9849  1420   987
+14    3026  5595  1913  1722
+XX
+CC  program: jaspar
+CC  matrix.nb: 222
+CC  min.prior: 0.25
+CC  alphabet.size: 4
+CC  max.bits: 2
+CC  total.information: 9.6228979082673
+CC  information.per.column: 0.687349850590521
+CC  max.possible.info.per.col: 1.38629436111989
+CC  consensus.strict: cccCCgCCCCCgCc
+CC  consensus.strict.rc: GGCGGGGGCGGGGG
+CC  consensus.IUPAC: sccCCgCCCMCkCc
+CC  consensus.IUPAC.rc: GGMGKGGGCGGGGS
+CC  consensus.regexp: [cg]ccCCgCCC[AC]C[gt]Cc
+CC  consensus.regexp.rc: GG[AC]G[GT]GGGCGGGG[CG]
+CC  residues.content.crude.freq: a:0.1008|c:0.6449|g:0.1403|t:0.1141
+CC  G+C.content.crude.freq: 0.785172277135397
+CC  residues.content.corrected.freq: a:0.1008|c:0.6448|g:0.1403|t:0.1141
+CC  G+C.content.corrected.freq: 0.785149011060735
+XX
+//
