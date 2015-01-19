@@ -1,0 +1,3364 @@
+AC  M0852_0.90.txt_1
+XX
+ID  ALX3
+XX
+DE  taattrr
+P0       A     C     G     T
+1    0.144397 0.120611 0.119411 0.615582
+2    0.64421 0.107557 0.134025 0.114208
+3    0.733858 0.0223833 0.0926024 0.151156
+4    0.0805425 0.104458 0.116604 0.698395
+5    0.170686 0.157563 0.174135 0.497616
+6    0.375164 0.124881 0.304102 0.195853
+7    0.313095 0.175301 0.329148 0.182456
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0852_0.90.txt_1
+CC  AC: M0852_0.90.txt_1
+CC  id: ARX_ALX4_PHOX2B_PRRX1_RAX_ALX3_UNCX_PHOX2A_DRGX_ISX_ALX1_DMBX1
+CC  name: ARX_ALX4_PHOX2B_PRRX1_RAX_ALX3_UNCX_PHOX2A_DRGX_ISX_ALX1_DMBX1
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: taattag
+CC  consensus.strict.rc: CTAATTA
+CC  consensus.IUPAC: taattrr
+CC  consensus.IUPAC.rc: YYAATTA
+CC  consensus.regexp: taatt[ag][ag]
+CC  consensus.regexp.rc: [CT][CT]AATTA
+XX
+//
+AC  M0115_0.90.txt_1
+XX
+ID  ARID3A
+XX
+DE  yratyaaa
+P0       A     C     G     T
+1    0.245252 0.271045 0.215355 0.268348
+2    0.30832 0.196593 0.254968 0.24012
+3    0.941882 0.000248548 0.000593262 0.0572759
+4    0.0517629 0.0350464 0.000248248 0.912942
+5    0.191668 0.309749 0.0887446 0.409838
+6    0.562171 0.100666 0.162683 0.174479
+7    0.502612 0.159145 0.175883 0.16236
+8    0.416728 0.148775 0.23567 0.198827
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0115_0.90.txt_1
+CC  AC: M0115_0.90.txt_1
+CC  id: ARID3A_ARID3B_ARID3C
+CC  name: ARID3A_ARID3B_ARID3C
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: caattaaa
+CC  consensus.strict.rc: TTTAATTG
+CC  consensus.IUPAC: yratyaaa
+CC  consensus.IUPAC.rc: TTTRATYR
+CC  consensus.regexp: [ct][ag]at[ct]aaa
+CC  consensus.regexp.rc: TTT[AG]AT[CT][AG]
+XX
+//
+AC  M0101_0.90.txt_1
+XX
+ID  ARID3B
+XX
+DE  ydatyaaaw
+P0       A     C     G     T
+1    0.196725 0.270916 0.204754 0.327605
+2    0.403679 0.0815014 0.259984 0.254836
+3    0.999299 9.50887e-05 0.000187693 0.000417719
+4    0.000504388 0.00124059 0.000417108 0.997838
+5    0.165827 0.376511 0.0331468 0.424515
+6    0.732498 0.0533279 0.119876 0.094298
+7    0.66103 0.0931116 0.113727 0.132132
+8    0.510165 0.0989618 0.174991 0.215882
+9    0.335782 0.227343 0.14496 0.291915
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0101_0.90.txt_1
+CC  AC: M0101_0.90.txt_1
+CC  id: ARID3A_ARID3B
+CC  name: ARID3A_ARID3B
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: taattaaaa
+CC  consensus.strict.rc: TTTTAATTA
+CC  consensus.IUPAC: ydatyaaaw
+CC  consensus.IUPAC.rc: WTTTRATHR
+CC  consensus.regexp: [ct][agt]at[ct]aaa[at]
+CC  consensus.regexp.rc: [AT]TTT[AG]AT[ACT][AG]
+XX
+//
+AC  M1013_0.90.txt_1
+XX
+ID  BSX
+XX
+DE  swtaatkrsy
+P0       A     C     G     T
+1    0.209338 0.253142 0.321807 0.215713
+2    0.269176 0.231682 0.207548 0.291594
+3    0.108996 0.124128 0.0381418 0.728735
+4    0.818862 0.0183186 0.138091 0.0247275
+5    0.925508 0.028799 0.000527473 0.0451659
+6    0.0900565 0.159244 0.124019 0.62668
+7    0.0974972 0.244649 0.314135 0.343719
+8    0.322285 0.084389 0.452794 0.140532
+9    0.20456 0.257459 0.351027 0.186954
+10   0.179474 0.298877 0.181278 0.34037
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1013_0.90.txt_1
+CC  AC: M1013_0.90.txt_1
+CC  id: BARX1_BSX
+CC  name: BARX1_BSX
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: gttaattggt
+CC  consensus.strict.rc: ACCAATTAAC
+CC  consensus.IUPAC: swtaatkrsy
+CC  consensus.IUPAC.rc: RSYMATTAWS
+CC  consensus.regexp: [cg][at]taat[gt][ag][cg][ct]
+CC  consensus.regexp.rc: [AG][CG][CT][AC]ATTA[AT][CG]
+XX
+//
+AC  M1003_0.90.txt_1
+XX
+ID  BARX1
+XX
+DE  ytaatkgsy
+P0       A     C     G     T
+1    0.216255 0.291914 0.188003 0.303827
+2    0.122741 0.0946395 0.00977741 0.772842
+3    0.761923 0.034669 0.124692 0.0787159
+4    0.882288 0.0510353 0.0209579 0.0457192
+5    0.105084 0.144714 0.127072 0.623131
+6    0.137056 0.221492 0.314312 0.32714
+7    0.245596 0.134786 0.443053 0.176565
+8    0.197276 0.300247 0.266295 0.236182
+9    0.162824 0.308792 0.20699 0.321394
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1003_0.90.txt_1
+CC  AC: M1003_0.90.txt_1
+CC  id: BARX2_BARX1
+CC  name: BARX2_BARX1
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: ttaattgct
+CC  consensus.strict.rc: AGCAATTAA
+CC  consensus.IUPAC: ytaatkgsy
+CC  consensus.IUPAC.rc: RSCMATTAR
+CC  consensus.regexp: [ct]taat[gt]g[cg][ct]
+CC  consensus.regexp.rc: [AG][CG]C[AC]ATTA[AG]
+XX
+//
+AC  M0301_0.90.txt_1
+XX
+ID  CEBPA
+XX
+DE  rttdcghaay
+P0       A     C     G     T
+1    0.417594 0.193373 0.28985 0.0991821
+2    0.0709263 0.105762 0.0691028 0.75421
+3    0.0759791 0.0460031 0.22847 0.649548
+4    0.348495 0.0375061 0.334665 0.279334
+5    0.126578 0.520621 0.107184 0.245617
+6    0.245617 0.107184 0.520621 0.126578
+7    0.279334 0.334665 0.0375061 0.348495
+8    0.649548 0.22847 0.0460031 0.0759791
+9    0.75421 0.0691028 0.105762 0.0709263
+10   0.0991821 0.28985 0.193373 0.417594
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0301_0.90.txt_1
+CC  AC: M0301_0.90.txt_1
+CC  id: CEBPE_CEBPB_CEBPD_CEBPA
+CC  name: CEBPE_CEBPB_CEBPD_CEBPA
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: attacgtaat
+CC  consensus.strict.rc: ATTACGTAAT
+CC  consensus.IUPAC: rttdcghaay
+CC  consensus.IUPAC.rc: RTTDCGHAAY
+CC  consensus.regexp: [ag]tt[agt]cg[act]aa[ct]
+CC  consensus.regexp.rc: [AG]TT[AGT]CG[ACT]AA[CT]
+XX
+//
+AC  M0311_0.90.txt_1
+XX
+ID  CEBPB
+XX
+DE  rttrcrhmay
+P0       A     C     G     T
+1    0.386668 0.216495 0.289329 0.107508
+2    0.0601234 0.033328 0.0208301 0.885718
+3    0.0039141 0.0356798 0.0762933 0.884113
+4    0.322782 0.00185332 0.481535 0.193829
+5    0.0844481 0.739621 0.0619382 0.113993
+6    0.338556 0.120867 0.413513 0.127064
+7    0.295659 0.292717 0.0646642 0.346959
+8    0.463925 0.368604 0.0660045 0.101466
+9    0.702944 0.0990155 0.0980303 0.100011
+10   0.145396 0.307804 0.196264 0.350536
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0311_0.90.txt_1
+CC  AC: M0311_0.90.txt_1
+CC  id: CEBPE_CEBPB_CEBPD_CEBPA
+CC  name: CEBPE_CEBPB_CEBPD_CEBPA
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: attgcgtaat
+CC  consensus.strict.rc: ATTACGCAAT
+CC  consensus.IUPAC: rttrcrhmay
+CC  consensus.IUPAC.rc: RTKDYGYAAY
+CC  consensus.regexp: [ag]tt[ag]c[ag][act][ac]a[ct]
+CC  consensus.regexp.rc: [AG]T[GT][AGT][CT]G[CT]AA[CT]
+XX
+//
+AC  M0274_0.90.txt_1
+XX
+ID  CEBPD
+XX
+DE  rttrcrhma
+P0       A     C     G     T
+1    0.449938 0.179309 0.295631 0.0751218
+2    0.10017 0.0712979 0.0347044 0.793828
+3    0.0943096 0.063853 0.144978 0.696859
+4    0.306584 0.00639485 0.46661 0.220411
+5    0.119374 0.591264 0.0824559 0.206906
+6    0.26761 0.138315 0.441214 0.152861
+7    0.265499 0.311566 0.0986533 0.324281
+8    0.474847 0.265866 0.121874 0.137413
+9    0.554946 0.149735 0.131482 0.163837
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0274_0.90.txt_1
+CC  AC: M0274_0.90.txt_1
+CC  id: CEBPE_CEBPB_CEBPD_CEBPA
+CC  name: CEBPE_CEBPB_CEBPD_CEBPA
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: attgcgtaa
+CC  consensus.strict.rc: TTACGCAAT
+CC  consensus.IUPAC: rttrcrhma
+CC  consensus.IUPAC.rc: TKDYGYAAY
+CC  consensus.regexp: [ag]tt[ag]c[ag][act][ac]a
+CC  consensus.regexp.rc: T[GT][AGT][CT]G[CT]AA[CT]
+XX
+//
+AC  M0647_0.90.txt_1
+XX
+ID  ELK4
+XX
+DE  ccggaagt
+P0       A     C     G     T
+1    0.00142045 0.995739 0.00142045 0.00142045
+2    0.00110619 0.996681 0.00110619 0.00110619
+3    0.00110619 0.00110619 0.996681 0.00110619
+4    0.00110619 0.00110619 0.996681 0.00110619
+5    0.996681 0.00110619 0.00110619 0.00110619
+6    0.886062 0.00110619 0.00110619 0.111726
+7    0.222345 0.00110619 0.775442 0.00110619
+8    0.00165563 0.167219 0.00165563 0.82947
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0647_0.90.txt_1
+CC  AC: M0647_0.90.txt_1
+CC  id: ETV1_ETV2_ELK3_ETV3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ETV5
+CC  name: ETV1_ETV2_ELK3_ETV3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ETV5
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: ccggaagt
+CC  consensus.strict.rc: ACTTCCGG
+CC  consensus.IUPAC: ccggaagt
+CC  consensus.IUPAC.rc: ACTTCCGG
+CC  consensus.regexp: ccggaagt
+CC  consensus.regexp.rc: ACTTCCGG
+XX
+//
+AC  M0649_0.90.txt_1
+XX
+ID  ETV1_ETV2_ERF_ELK3_ETV3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ENSG00000235187_ETV5
+XX
+DE  ccggaary
+P0       A     C     G     T
+1    0.00124378 0.996269 0.00124378 0.00124378
+2    0.000996016 0.997012 0.000996016 0.000996016
+3    0.000996016 0.000996016 0.997012 0.000996016
+4    0.000996016 0.000996016 0.997012 0.000996016
+5    0.997012 0.000996016 0.000996016 0.000996016
+6    0.89741 0.000996016 0.000996016 0.100598
+7    0.332965 0.00110619 0.664823 0.00110619
+8    0.00142045 0.285511 0.00142045 0.711648
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0649_0.90.txt_1
+CC  AC: M0649_0.90.txt_1
+CC  id: ETV1_ETV2_ERF_ELK3_ETV3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ENSG00000235187_ETV5
+CC  name: ETV1_ETV2_ERF_ELK3_ETV3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ENSG00000235187_ETV5
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: ccggaagt
+CC  consensus.strict.rc: ACTTCCGG
+CC  consensus.IUPAC: ccggaary
+CC  consensus.IUPAC.rc: RYTTCCGG
+CC  consensus.regexp: ccggaa[ag][ct]
+CC  consensus.regexp.rc: [AG][CT]TTCCGG
+XX
+//
+AC  M0631_0.90.txt_1
+XX
+ID  ELK1
+XX
+DE  rrccggaagy
+P0       A     C     G     T
+1    0.309868 0.222771 0.251174 0.216187
+2    0.457429 0.125917 0.274684 0.141971
+3    0.105811 0.679702 0.144265 0.0702215
+4    0.0827824 0.903446 0.010657 0.00311496
+5    0.000362019 0.000111241 0.996194 0.00333323
+6    0.00127234 0.00256218 0.993129 0.00303697
+7    0.976431 0.00387252 0.00657914 0.0131169
+8    0.816923 0.0267235 0.00561558 0.150738
+9    0.219085 0.152851 0.58961 0.0384539
+10   0.105478 0.283865 0.0829717 0.527685
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0631_0.90.txt_1
+CC  AC: M0631_0.90.txt_1
+CC  id: ETV1_ETV2_ERF_ELK3_ETV3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ETV5
+CC  name: ETV1_ETV2_ERF_ELK3_ETV3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ETV5
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: aaccggaagt
+CC  consensus.strict.rc: ACTTCCGGTT
+CC  consensus.IUPAC: rrccggaagy
+CC  consensus.IUPAC.rc: RCTTCCGGYY
+CC  consensus.regexp: [ag][ag]ccggaag[ct]
+CC  consensus.regexp.rc: [AG]CTTCCGG[CT][CT]
+XX
+//
+AC  M0643_0.90.txt_1
+XX
+ID  ETS1
+XX
+DE  rrcmggawry
+P0       A     C     G     T
+1    0.278377 0.23252 0.251886 0.237217
+2    0.400904 0.166288 0.271435 0.161373
+3    0.188699 0.48792 0.235133 0.0882481
+4    0.287618 0.608887 0.0976737 0.00582193
+5    0.0298864 2.96758e-07 0.970106     0
+6    0.0137703 0.000214921 0.975074 0.010941
+7    0.969811 0.0048409 0.0117882 0.0135597
+8    0.548525 0.0953194 0.0267687 0.329387
+9    0.376063 0.0908996 0.473312 0.0597253
+10   0.144105 0.281615 0.119169 0.455111
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0643_0.90.txt_1
+CC  AC: M0643_0.90.txt_1
+CC  id: ETV1_ETV2_ERF_ELK3_ETV3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ENSG00000235187_ETV5
+CC  name: ETV1_ETV2_ERF_ELK3_ETV3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ENSG00000235187_ETV5
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: aaccggaagt
+CC  consensus.strict.rc: ACTTCCGGTT
+CC  consensus.IUPAC: rrcmggawry
+CC  consensus.IUPAC.rc: RYWTCCKGYY
+CC  consensus.regexp: [ag][ag]c[ac]gga[at][ag][ct]
+CC  consensus.regexp.rc: [AG][CT][AT]TCC[GT]G[CT][CT]
+XX
+//
+AC  M0625_0.90.txt_1
+XX
+ID  ETV3
+XX
+DE  aacmggawry
+P0       A     C     G     T
+1    0.313334 0.205875 0.241597 0.239193
+2    0.387641 0.160787 0.247171 0.2044
+3    0.197818 0.349795 0.246496 0.205891
+4    0.265919 0.499293 0.148888 0.0859007
+5    0.0485184 0.00272357 0.908635 0.0401228
+6    0.0605657 0.0225048 0.883356 0.0335732
+7    0.952353 0.00193273 0.000611975 0.0451024
+8    0.571191 0.0898124 0.0223701 0.316627
+9    0.381171 0.136081 0.408809 0.0739395
+10   0.17341 0.277455 0.131061 0.418074
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0625_0.90.txt_1
+CC  AC: M0625_0.90.txt_1
+CC  id: ETV2_ERF_ETV3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ENSG00000235187
+CC  name: ETV2_ERF_ETV3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ENSG00000235187
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: aaccggaagt
+CC  consensus.strict.rc: ACTTCCGGTT
+CC  consensus.IUPAC: aacmggawry
+CC  consensus.IUPAC.rc: RYWTCCKGTT
+CC  consensus.regexp: aac[ac]gga[at][ag][ct]
+CC  consensus.regexp.rc: [AG][CT][AT]TCC[GT]GTT
+XX
+//
+AC  M0626_0.90.txt_1
+XX
+ID  ETV1
+XX
+DE  vrccggawry
+P0       A     C     G     T
+1    0.259502 0.251832 0.278318 0.210348
+2    0.409997 0.140632 0.261426 0.187945
+3    0.135358 0.582846 0.20601 0.0757867
+4    0.163979 0.772583 0.0355073 0.027931
+5    0.0398747 0.03793 0.876329 0.0458668
+6    0.0475174 0.0128212 0.91699 0.0226712
+7    0.910702 0.0168477 0.052679 0.019771
+8    0.580099 0.0842003 0.0418126 0.293888
+9    0.279024 0.153131 0.498347 0.0694979
+10   0.147561 0.282659 0.122027 0.447753
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0626_0.90.txt_1
+CC  AC: M0626_0.90.txt_1
+CC  id: ETV1_ETV2_ELK3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ETV5
+CC  name: ETV1_ETV2_ELK3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ETV5
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: gaccggaagt
+CC  consensus.strict.rc: ACTTCCGGTC
+CC  consensus.IUPAC: vrccggawry
+CC  consensus.IUPAC.rc: RYWTCCGGYB
+CC  consensus.regexp: [acg][ag]ccgga[at][ag][ct]
+CC  consensus.regexp.rc: [AG][CT][AT]TCCGG[CT][CGT]
+XX
+//
+AC  M0639_0.90.txt_1
+XX
+ID  ELK4
+XX
+DE  arccggawry
+P0       A     C     G     T
+1    0.292662 0.237228 0.244452 0.225658
+2    0.396424 0.15641 0.290756 0.15641
+3    0.143761 0.549031 0.188322 0.118885
+4    0.120828 0.832447 0.0329295 0.0137959
+5    0.000257874 9.87382e-05 0.996966 0.00267705
+6    0.00648557 0.00610788 0.981989 0.00541721
+7    0.92925 0.0102203 0.0292061 0.0313238
+8    0.638426 0.0707396 0.0206767 0.270158
+9    0.35335 0.140817 0.431582 0.0742515
+10   0.13654 0.294896 0.110678 0.457886
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0639_0.90.txt_1
+CC  AC: M0639_0.90.txt_1
+CC  id: ETV1_ETV2_ERF_ELK3_ETV3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ENSG00000235187_ETV5
+CC  name: ETV1_ETV2_ERF_ELK3_ETV3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ENSG00000235187_ETV5
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: aaccggaagt
+CC  consensus.strict.rc: ACTTCCGGTT
+CC  consensus.IUPAC: arccggawry
+CC  consensus.IUPAC.rc: RYWTCCGGYT
+CC  consensus.regexp: a[ag]ccgga[at][ag][ct]
+CC  consensus.regexp.rc: [AG][CT][AT]TCCGG[CT]T
+XX
+//
+AC  M0628_0.90.txt_1
+XX
+ID  ELK3
+XX
+DE  vrccggaary
+P0       A     C     G     T
+1    0.276546 0.25785 0.250229 0.215374
+2    0.410218 0.140708 0.306951 0.142122
+3    0.125944 0.623803 0.164982 0.0852711
+4    0.111066 0.862749 0.0198881 0.00629732
+5    0.00223397 9.47778e-05 0.996033 0.0016385
+6    0.00203799 0.00111847 0.994227 0.00261683
+7    0.960448 0.00474646 0.00856257 0.026243
+8    0.75769 0.0438281 0.0153371 0.183144
+9    0.262154 0.154305 0.52266 0.0608816
+10   0.128267 0.297113 0.103971 0.470649
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0628_0.90.txt_1
+CC  AC: M0628_0.90.txt_1
+CC  id: ETV1_ETV2_ELK3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ETV5
+CC  name: ETV1_ETV2_ELK3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ETV5
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: aaccggaagt
+CC  consensus.strict.rc: ACTTCCGGTT
+CC  consensus.IUPAC: vrccggaary
+CC  consensus.IUPAC.rc: RYTTCCGGYB
+CC  consensus.regexp: [acg][ag]ccggaa[ag][ct]
+CC  consensus.regexp.rc: [AG][CT]TTCCGG[CT][CGT]
+XX
+//
+AC  M0645_0.90.txt_1
+XX
+ID  ERG
+XX
+DE  racmggawry
+P0       A     C     G     T
+1    0.281573 0.23285 0.257339 0.228239
+2    0.414866 0.149598 0.249125 0.186411
+3    0.179962 0.494103 0.211187 0.114749
+4    0.259489 0.638239 0.0855168 0.0167553
+5    0.00479825 0.0014744 0.980684 0.013043
+6    0.00873329 0.0032777 0.979598 0.00839086
+7    0.916015 0.0153334 0.027386 0.0412657
+8    0.617614 0.0756308 0.0320041 0.274751
+9    0.365042 0.122733 0.437035 0.0751896
+10   0.145434 0.289954 0.127705 0.436908
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0645_0.90.txt_1
+CC  AC: M0645_0.90.txt_1
+CC  id: ETV1_ETV2_ERF_ELK3_ETV3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ENSG00000235187_ETV5
+CC  name: ETV1_ETV2_ERF_ELK3_ETV3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ENSG00000235187_ETV5
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: aaccggaagt
+CC  consensus.strict.rc: ACTTCCGGTT
+CC  consensus.IUPAC: racmggawry
+CC  consensus.IUPAC.rc: RYWTCCKGTY
+CC  consensus.regexp: [ag]ac[ac]gga[at][ag][ct]
+CC  consensus.regexp.rc: [AG][CT][AT]TCC[GT]GT[CT]
+XX
+//
+AC  M0668_0.90.txt_1
+XX
+ID  FOXC2
+XX
+DE  wrwrtmaaya
+P0       A     C     G     T
+1    0.359371 0.149061 0.09041 0.401158
+2    0.421728 0.136232 0.263581 0.178459
+3    0.287711 0.194796 0.208921 0.308572
+4    0.387293 0.104499 0.432326 0.0758821
+5    0.213252 0.166081 0.0581181 0.562548
+6    0.555669 0.284341 0.0489193 0.111071
+7    0.768444 0.0969667 0.0511298 0.08346
+8    0.771861 0.058487 0.0899096 0.0797426
+9    0.0628246 0.561351 0.0519533 0.323871
+10   0.748482 0.0720995 0.0685832 0.110835
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0668_0.90.txt_1
+CC  AC: M0668_0.90.txt_1
+CC  id: FOXC1_FOXJ2_FOXF1_FOXA2_FOXA1_FOXJ1_FOXF2_FOXK2_FOXQ1_FOXK1_FOXI1_FOXD4_FOXA3_FOXB1_FOXG1_FOXL1_FOXC2_FOXE1_FOXS1_FOXL2_FOXD4L1_FOXD4L4_FOXD2_FOXI2_FOXE3_FOXD3_FOXD4L3_FOXJ3_FOXB2_FOXD4L5_FOXD4L6_FOXD4L2_KIAA0415_FOXD1
+CC  name: FOXC1_FOXJ2_FOXF1_FOXA2_FOXA1_FOXJ1_FOXF2_FOXK2_FOXQ1_FOXK1_FOXI1_FOXD4_FOXA3_FOXB1_FOXG1_FOXL1_FOXC2_FOXE1_FOXS1_FOXL2_FOXD4L1_FOXD4L4_FOXD2_FOXI2_FOXE3_FOXD3_FOXD4L3_FOXJ3_FOXB2_FOXD4L5_FOXD4L6_FOXD4L2_KIAA0415_FOXD1
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: tatgtaaaca
+CC  consensus.strict.rc: TGTTTACATA
+CC  consensus.IUPAC: wrwrtmaaya
+CC  consensus.IUPAC.rc: TRTTKAYWYW
+CC  consensus.regexp: [at][ag][at][ag]t[ac]aa[ct]a
+CC  consensus.regexp.rc: T[AG]TT[GT]A[CT][AT][CT][AT]
+XX
+//
+AC  M0635_0.90.txt_1
+XX
+ID  FLI1
+XX
+DE  rrcmggawry
+P0       A     C     G     T
+1    0.285712 0.231594 0.253404 0.22929
+2    0.408828 0.148903 0.252976 0.189293
+3    0.179923 0.493996 0.20904 0.117041
+4    0.256626 0.637542 0.087149 0.0186831
+5    0.00606681 0.00110831 0.985189 0.00763569
+6    0.00955188 0.00380661 0.979202 0.00743902
+7    0.918135 0.0150646 0.0258509 0.0409497
+8    0.621584 0.076117 0.0312579 0.271041
+9    0.366912 0.123362 0.434903 0.0748228
+10   0.146891 0.29286 0.127701 0.432548
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0635_0.90.txt_1
+CC  AC: M0635_0.90.txt_1
+CC  id: ETV1_ETV2_ERF_ELK3_ETV3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ENSG00000235187_ETV5
+CC  name: ETV1_ETV2_ERF_ELK3_ETV3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ENSG00000235187_ETV5
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: aaccggaagt
+CC  consensus.strict.rc: ACTTCCGGTT
+CC  consensus.IUPAC: rrcmggawry
+CC  consensus.IUPAC.rc: RYWTCCKGYY
+CC  consensus.regexp: [ag][ag]c[ac]gga[at][ag][ct]
+CC  consensus.regexp.rc: [AG][CT][AT]TCC[GT]G[CT][CT]
+XX
+//
+AC  M0634_0.90.txt_1
+XX
+ID  ETV5
+XX
+DE  rccggawry
+P0       A     C     G     T
+1    0.459522 0.123988 0.257286 0.159204
+2    0.115659 0.639476 0.18139 0.0634752
+3    0.147216 0.822129 0.0258393 0.00481578
+4    0.00082141 0.00121321 0.995522 0.0024431
+5    0.00111876 0.00119988 0.994484 0.00319704
+6    0.964413 0.00587978 0.00979155 0.0199159
+7    0.635432 0.0576451 0.0325998 0.274323
+8    0.279102 0.122925 0.545432 0.0525402
+9    0.125096 0.281205 0.101401 0.492298
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0634_0.90.txt_1
+CC  AC: M0634_0.90.txt_1
+CC  id: ETV1_ETV2_ELK3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ETV5
+CC  name: ETV1_ETV2_ELK3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ETV5
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: accggaagt
+CC  consensus.strict.rc: ACTTCCGGT
+CC  consensus.IUPAC: rccggawry
+CC  consensus.IUPAC.rc: RYWTCCGGY
+CC  consensus.regexp: [ag]ccgga[at][ag][ct]
+CC  consensus.regexp.rc: [AG][CT][AT]TCCGG[CT]
+XX
+//
+AC  M0650_0.90.txt_1
+XX
+ID  ENSG00000235187
+XX
+DE  aacmggawry
+P0       A     C     G     T
+1    0.31791 0.196718 0.242686 0.242686
+2    0.410724 0.145172 0.244184 0.199921
+3    0.176615 0.381448 0.240802 0.201135
+4    0.268249 0.562233 0.109062 0.060456
+5    0.0553218 0.00204044 0.909748 0.03289
+6    0.0578668 1.05749e-06 0.942131     0
+7    0.950314 3.40263e-06 0.0149811 0.0347018
+8    0.635026 0.0516074 0.0073424 0.306025
+9    0.406386 0.0992165 0.427222 0.0671752
+10   0.15288 0.289934 0.102479 0.454707
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0650_0.90.txt_1
+CC  AC: M0650_0.90.txt_1
+CC  id: ETV2_ERF_ETV3_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ENSG00000235187
+CC  name: ETV2_ERF_ETV3_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ENSG00000235187
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: aaccggaagt
+CC  consensus.strict.rc: ACTTCCGGTT
+CC  consensus.IUPAC: aacmggawry
+CC  consensus.IUPAC.rc: RYWTCCKGTT
+CC  consensus.regexp: aac[ac]gga[at][ag][ct]
+CC  consensus.regexp.rc: [AG][CT][AT]TCC[GT]GTT
+XX
+//
+AC  M0084_0.90.txt_1
+XX
+ID  TFAP2B
+XX
+DE  tcsccysagg
+P0       A     C     G     T
+1    0.163199 0.129667 0.108307 0.598826
+2    0.203446 0.349115 0.246017 0.201422
+3    0.00130116 0.331377 0.667311     0
+4    4.49451e-05 0.99993 1.07558e-05     0
+5    0.0002132 0.948115 2.2697e-05 0.0516492
+6    0.0200372 0.286458 0.155647 0.537857
+7    0.106547 0.394882 0.390953 0.107618
+8    0.565281 0.177208 0.234469 0.0230421
+9    0.100634 9.26882e-05 0.899183     0
+10   0.000119741 3.75373e-05 0.999823     0
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0084_0.90.txt_1
+CC  AC: M0084_0.90.txt_1
+CC  id: TFAP2B_TFAP2D_TFAP2C_TFAP2E_TFAP2A
+CC  name: TFAP2B_TFAP2D_TFAP2C_TFAP2E_TFAP2A
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: tcgcctcagg
+CC  consensus.strict.rc: CCTGAGGCGA
+CC  consensus.IUPAC: tcsccysagg
+CC  consensus.IUPAC.rc: CCTSRGGSGA
+CC  consensus.regexp: tc[cg]cc[ct][cg]agg
+CC  consensus.regexp.rc: CCT[CG][AG]GG[CG]GA
+XX
+//
+AC  M0410_0.90.txt_1
+XX
+ID  ZFP161
+XX
+DE  srcgygcmy
+P0       A     C     G     T
+1    0.218335 0.335636 0.256218 0.189811
+2    0.281737 0.194605 0.347572 0.176086
+3    0.0377214 0.820757 0.0235759 0.117946
+4    0.059238 0.0452211 0.863991 0.0315497
+5    0.137689 0.500193 0.106165 0.255953
+6    0.131295 0.0614025 0.683653 0.123649
+7    0.179495 0.539231 0.125229 0.156045
+8    0.387566 0.270396 0.135624 0.206414
+9    0.199182 0.377744 0.137582 0.285493
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0410_0.90.txt_1
+CC  AC: M0410_0.90.txt_1
+CC  id: ZFP161
+CC  name: ZFP161
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: cgcgcgcac
+CC  consensus.strict.rc: GTGCGCGCG
+CC  consensus.IUPAC: srcgygcmy
+CC  consensus.IUPAC.rc: RKGCRCGYS
+CC  consensus.regexp: [cg][ag]cg[ct]gc[ac][ct]
+CC  consensus.regexp.rc: [AG][GT]GC[AG]CG[CT][CG]
+XX
+//
+AC  M0817_0.90.txt_1
+XX
+ID  ZFHX2
+XX
+DE  vytaattarb
+P0       A     C     G     T
+1    0.26256 0.259184 0.264823 0.213433
+2    0.182568 0.295311 0.189654 0.332466
+3    0.134883 0.130814 0.0341354 0.700168
+4    0.629656 0.102034 0.180585 0.0877244
+5    0.92651 0.0224883 0.0314627 0.0195389
+6    0.0195389 0.0314627 0.0224883 0.92651
+7    0.0877244 0.180585 0.102034 0.629656
+8    0.700168 0.0341354 0.130814 0.134883
+9    0.332466 0.189654 0.295311 0.182568
+10   0.213433 0.264823 0.259184 0.26256
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0817_0.90.txt_1
+CC  AC: M0817_0.90.txt_1
+CC  id: ZFHX2
+CC  name: ZFHX2
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: gttaattaac
+CC  consensus.strict.rc: GTTAATTAAC
+CC  consensus.IUPAC: vytaattarb
+CC  consensus.IUPAC.rc: VYTAATTARB
+CC  consensus.regexp: [acg][ct]taatta[ag][cgt]
+CC  consensus.regexp.rc: [ACG][CT]TAATTA[AG][CGT]
+XX
+//
+AC  M0420_0.90.txt_1
+XX
+ID  ZBTB3
+XX
+DE  crctgcayk
+P0       A     C     G     T
+1    0.199381 0.604994 0.0449351 0.150689
+2    0.62411 0.00846827 0.329088 0.0383336
+3    0.0319924 0.850223 0.105162 0.0126227
+4    0.0112051 4.20826e-11 0.000117228 0.988678
+5    0.0208606 0.0127797 0.904932 0.0614276
+6    0.0407634 0.571226 0.236935 0.151076
+7    0.506699 0.218747 0.118856 0.155698
+8    0.23248 0.254374 0.234817 0.278329
+9    0.221121 0.249313 0.259488 0.270078
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0420_0.90.txt_1
+CC  AC: M0420_0.90.txt_1
+CC  id: ZBTB3
+CC  name: ZBTB3
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: cactgcatt
+CC  consensus.strict.rc: AATGCAGTG
+CC  consensus.IUPAC: crctgcayk
+CC  consensus.IUPAC.rc: MRTGCAGYG
+CC  consensus.regexp: c[ag]ctgca[ct][gt]
+CC  consensus.regexp.rc: [AC][AG]TGCAG[CT]G
+XX
+//
+AC  M0391_0.90.txt_1
+XX
+ID  ZBTB1
+XX
+DE  rymmcgcahm
+P0       A     C     G     T
+1    0.279683 0.220006 0.282494 0.217817
+2    0.223901 0.305273 0.108985 0.361841
+3    0.265567 0.567855 0.0807911 0.0857869
+4    0.345729 0.558724 0.0619084 0.033638
+5    0.0636277 0.891628 0.0118585 0.0328861
+6    0.0202283 0.000111591 0.97954 0.000119682
+7    0.0252323 0.905174 0.000316044 0.069278
+8    0.715054 0.0413618 0.219721 0.0238637
+9    0.307829 0.304766 0.0945893 0.292816
+10   0.277589 0.300708 0.211906 0.209797
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0391_0.90.txt_1
+CC  AC: M0391_0.90.txt_1
+CC  id: ZBTB1
+CC  name: ZBTB1
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: gtcccgcaac
+CC  consensus.strict.rc: GTTGCGGGAC
+CC  consensus.IUPAC: rymmcgcahm
+CC  consensus.IUPAC.rc: KDTGCGKKRY
+CC  consensus.regexp: [ag][ct][ac][ac]cgca[act][ac]
+CC  consensus.regexp.rc: [GT][AGT]TGCG[GT][GT][AG][CT]
+XX
+//
+AC  M0820_0.90.txt_1
+XX
+ID  VENTX
+XX
+DE  ttaattag
+P0       A     C     G     T
+1    0.0557714 0.0280244 0.139012 0.777192
+2    0.00019984 0.0601519 0.00019984 0.939448
+3    0.999445 0.000185048 0.000185048 0.000185048
+4    0.999445 0.000185048 0.000185048 0.000185048
+5    0.000185048 0.000185048 0.000185048 0.999445
+6    0.00019216 0.0386241 0.134704 0.82648
+7    0.755107 0.000222025 0.244449 0.000222025
+8    0.057363 0.200057 0.542523 0.200057
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0820_0.90.txt_1
+CC  AC: M0820_0.90.txt_1
+CC  id: VENTX
+CC  name: VENTX
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: ttaattag
+CC  consensus.strict.rc: CTAATTAA
+CC  consensus.IUPAC: ttaattag
+CC  consensus.IUPAC.rc: CTAATTAA
+CC  consensus.regexp: ttaattag
+CC  consensus.regexp.rc: CTAATTAA
+XX
+//
+AC  M0896_0.90.txt_1
+XX
+ID  UNCX
+XX
+DE  ytaattrr
+P0       A     C     G     T
+1    0.205661 0.300734 0.189849 0.303757
+2    0.125034 0.0758371 0.0351136 0.764015
+3    0.752473 0.0682628 0.113678 0.0655862
+4    0.947059 0.00056743 0.0207669 0.0316065
+5    0.0526812 0.0785911 0.0690105 0.799717
+6    0.162578 0.134445 0.157773 0.545203
+7    0.352715 0.124669 0.349206 0.17341
+8    0.314813 0.200734 0.31168 0.172773
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0896_0.90.txt_1
+CC  AC: M0896_0.90.txt_1
+CC  id: ARX_ALX4_ALX3_UNCX_SHOX2_OTP_ALX1_SHOX
+CC  name: ARX_ALX4_ALX3_UNCX_SHOX2_OTP_ALX1_SHOX
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: ttaattaa
+CC  consensus.strict.rc: TTAATTAA
+CC  consensus.IUPAC: ytaattrr
+CC  consensus.IUPAC.rc: YYAATTAR
+CC  consensus.regexp: [ct]taatt[ag][ag]
+CC  consensus.regexp.rc: [CT][CT]AATTA[AG]
+XX
+//
+AC  M0086_0.90.txt_1
+XX
+ID  TFAP2E
+XX
+DE  ccksrggcra
+P0       A     C     G     T
+1    0.0375172 0.957955 0.00165665 0.0028714
+2    0.0390545 0.841307 0.0011331 0.118505
+3    0.0597563 0.230506 0.254748 0.45499
+4    0.170862 0.391841 0.31446 0.122837
+5    0.535013 0.13595 0.327763 0.00127416
+6    0.061775 0.000164228 0.937765 0.000296265
+7    0.038397 0.000168298 0.961004 0.000430839
+8    0.0275279 0.753855 0.213834 0.00478363
+9    0.321576 0.134725 0.321576 0.222124
+10   0.474516 0.135951 0.176319 0.213214
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0086_0.90.txt_1
+CC  AC: M0086_0.90.txt_1
+CC  id: TFAP2B_TFAP2D_TFAP2C_TFAP2E_TFAP2A
+CC  name: TFAP2B_TFAP2D_TFAP2C_TFAP2E_TFAP2A
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: cctcaggcaa
+CC  consensus.strict.rc: TTGCCTGAGG
+CC  consensus.IUPAC: ccksrggcra
+CC  consensus.IUPAC.rc: TYGCCYSMGG
+CC  consensus.regexp: cc[gt][cg][ag]ggc[ag]a
+CC  consensus.regexp.rc: T[CT]GCC[CT][CG][AC]GG
+XX
+//
+AC  M0085_0.90.txt_1
+XX
+ID  TFAP2C
+XX
+DE  ysccysaggs
+P0       A     C     G     T
+1    0.194725 0.400049 0.150143 0.255083
+2    0.0896002 0.325498 0.52603 0.0588715
+3    8.60885e-05 0.989917 0.000243563 0.00975345
+4    0.00124809 0.813717 0.0123248 0.17271
+5    0.0706894 0.449572 0.225494 0.254244
+6    0.114154 0.272476 0.444767 0.168603
+7    0.586691 0.182089 0.161499 0.0697208
+8    0.199175 0.00192357 0.791701 0.00720074
+9    0.0193589 0.000265312 0.975696 0.00467931
+10   0.0617475 0.509308 0.305837 0.123107
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0085_0.90.txt_1
+CC  AC: M0085_0.90.txt_1
+CC  id: TFAP2B_TFAP2C_TFAP2E_TFAP2A
+CC  name: TFAP2B_TFAP2C_TFAP2E_TFAP2A
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: cgcccgaggc
+CC  consensus.strict.rc: GCCTCGGGCG
+CC  consensus.IUPAC: ysccysaggs
+CC  consensus.IUPAC.rc: SCCTSRGGSR
+CC  consensus.regexp: [ct][cg]cc[ct][cg]agg[cg]
+CC  consensus.regexp.rc: [CG]CCT[CG][AG]GG[CG][AG]
+XX
+//
+AC  M0083_0.90.txt_1
+XX
+ID  TFAP2A
+XX
+DE  scytsrggcr
+P0       A     C     G     T
+1    0.119865 0.435445 0.349453 0.095237
+2    0.00137598 0.943092 0.00043135 0.0551008
+3    0.0221798 0.651437 0.0247588 0.301624
+4    0.0922497 0.229178 0.248265 0.430307
+5    0.20183 0.329451 0.336106 0.132612
+6    0.385087 0.191229 0.377462 0.0462226
+7    0.108046 0.000323861 0.891193 0.000437167
+8    0.000929455 0.000370406 0.989147 0.00955289
+9    0.0249423 0.669524 0.19375 0.111784
+10   0.342181 0.102037 0.335405 0.220377
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0083_0.90.txt_1
+CC  AC: M0083_0.90.txt_1
+CC  id: TFAP2B_TFAP2D_TFAP2C_TFAP2E_TFAP2A
+CC  name: TFAP2B_TFAP2D_TFAP2C_TFAP2E_TFAP2A
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: ccctgaggca
+CC  consensus.strict.rc: TGCCTCAGGG
+CC  consensus.IUPAC: scytsrggcr
+CC  consensus.IUPAC.rc: YGCCYSARGS
+CC  consensus.regexp: [cg]c[ct]t[cg][ag]ggc[ag]
+CC  consensus.regexp.rc: [CT]GCC[CT][CG]A[AG]G[CG]
+XX
+//
+AC  M0210_0.90.txt_1
+XX
+ID  TCFL5
+XX
+DE  rkcrcgygmy
+P0       A     C     G     T
+1    0.263325 0.202596 0.307948 0.22613
+2    0.113138 0.22668 0.364435 0.295747
+3    0.0581536 0.874211 0.016939 0.0506964
+4    0.372199 0.0644711 0.336403 0.226927
+5    0.00622092 0.903915 0.0185041 0.0713601
+6    0.0713601 0.0185041 0.903915 0.00622092
+7    0.226927 0.336403 0.0644711 0.372199
+8    0.0506964 0.016939 0.874211 0.0581536
+9    0.295747 0.364435 0.22668 0.113138
+10   0.22613 0.307948 0.202596 0.263325
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0210_0.90.txt_1
+CC  AC: M0210_0.90.txt_1
+CC  id: TCFL5
+CC  name: TCFL5
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: ggcacgtgcc
+CC  consensus.strict.rc: GGCACGTGCC
+CC  consensus.IUPAC: rkcrcgygmy
+CC  consensus.IUPAC.rc: RKCRCGYGMY
+CC  consensus.regexp: [ag][gt]c[ag]cg[ct]g[ac][ct]
+CC  consensus.regexp.rc: [AG][GT]C[AG]CG[CT]G[AC][CT]
+XX
+//
+AC  M1476_0.90.txt_1
+XX
+ID  TCF7L2
+XX
+DE  aswtcaaagr
+P0       A     C     G     T
+1    0.487867 0.12903 0.194424 0.188678
+2    0.105157 0.367034 0.405635 0.122175
+3    0.637879 0.0446185 0.0221569 0.295346
+4    0.127896 0.0366428 0.0138907 0.82157
+5    0.117054 0.666899 0.135998 0.080049
+6    0.875401 0.0139389 0.0136629 0.0969972
+7    0.81883 0.0464268 0.0854453 0.0492977
+8    0.728316 0.0197023 0.107849 0.144133
+9    0.179802 0.178013 0.562199 0.0799863
+10   0.267968 0.186955 0.403779 0.141298
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1476_0.90.txt_1
+CC  AC: M1476_0.90.txt_1
+CC  id: TCF7_LEF1_TCF7L2_TCF7L1
+CC  name: TCF7_LEF1_TCF7L2_TCF7L1
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: agatcaaagg
+CC  consensus.strict.rc: CCTTTGATCT
+CC  consensus.IUPAC: aswtcaaagr
+CC  consensus.IUPAC.rc: YCTTTGAWST
+CC  consensus.regexp: a[cg][at]tcaaag[ag]
+CC  consensus.regexp.rc: [CT]CTTTGA[AT][CG]T
+XX
+//
+AC  M1524_0.90.txt_1
+XX
+ID  TBX3
+XX
+DE  aggtgtba
+P0       A     C     G     T
+1    0.997863 0.000712251 0.000712251 0.000712251
+2    0.000586854 0.000586854 0.880869 0.117958
+3    0.000586854 0.000586854 0.998239 0.000586854
+4    0.000586854 0.000586854 0.000586854 0.998239
+5    0.0592723 0.000586854 0.939554 0.000586854
+6    0.0592723 0.000586854 0.000586854 0.939554
+7    0.000712251 0.428063 0.285613 0.285613
+8    0.797809 0.000996016 0.200199 0.000996016
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1524_0.90.txt_1
+CC  AC: M1524_0.90.txt_1
+CC  id: TBX5_TBX2_TBX4_TBX3_TBX20
+CC  name: TBX5_TBX2_TBX4_TBX3_TBX20
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: aggtgtca
+CC  consensus.strict.rc: TGACACCT
+CC  consensus.IUPAC: aggtgtba
+CC  consensus.IUPAC.rc: TVACACCT
+CC  consensus.regexp: aggtgt[cgt]a
+CC  consensus.regexp.rc: T[ACG]ACACCT
+XX
+//
+AC  M1518_0.90.txt_1
+XX
+ID  TBX20
+XX
+DE  raggtgtkaa
+P0       A     C     G     T
+1    0.353916 0.145338 0.298586 0.20216
+2    0.672425 0.0400805 0.179628 0.107866
+3    0.197985 0.109748 0.606795 0.0854721
+4    0.0202757 0.0287725 0.924656 0.0262961
+5    0.00389002 0.0627033 0.000397888 0.933009
+6    0.0113651 0.0143041 0.973157 0.00117415
+7    0.0909809 0.13304 0.018005 0.757974
+8    0.0387793 0.216564 0.449388 0.295269
+9    0.8731 0.0205333 0.0800018 0.0263653
+10   0.522605 0.163829 0.139606 0.17396
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1518_0.90.txt_1
+CC  AC: M1518_0.90.txt_1
+CC  id: TBX18_TBX20_TBX1
+CC  name: TBX18_TBX20_TBX1
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: aaggtgtgaa
+CC  consensus.strict.rc: TTCACACCTT
+CC  consensus.IUPAC: raggtgtkaa
+CC  consensus.IUPAC.rc: TTMACACCTY
+CC  consensus.regexp: [ag]aggtgt[gt]aa
+CC  consensus.regexp.rc: TT[AC]ACACCT[CT]
+XX
+//
+AC  M1511_0.90.txt_1
+XX
+ID  TBX2
+XX
+DE  aggtgtsa
+P0       A     C     G     T
+1    0.87422 0.00031211 0.0627341 0.0627341
+2    0.0751748 0.00024975 0.924326 0.00024975
+3    0.000222025 0.000222025 0.999334 0.000222025
+4    0.000222025 0.000222025 0.000222025 0.999334
+5    0.000217202 0.000217202 0.999348 0.000217202
+6    0.000222025 0.0224245 0.000222025 0.977131
+7    0.000285388 0.314212 0.485445 0.200057
+8    0.878994 0.000399361 0.0802716 0.0403355
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1511_0.90.txt_1
+CC  AC: M1511_0.90.txt_1
+CC  id: TBX5_TBX2_TBX4_TBX3
+CC  name: TBX5_TBX2_TBX4_TBX3
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: aggtgtga
+CC  consensus.strict.rc: TCACACCT
+CC  consensus.IUPAC: aggtgtsa
+CC  consensus.IUPAC.rc: TSACACCT
+CC  consensus.regexp: aggtgt[cg]a
+CC  consensus.regexp.rc: T[CG]ACACCT
+XX
+//
+AC  M1520_0.90.txt_1
+XX
+ID  TBR1
+XX
+DE  daggtgykaw
+P0       A     C     G     T
+1    0.260968 0.111173 0.319416 0.308443
+2    0.661427 0.0492233 0.17352 0.115829
+3    0.20603 0.146969 0.401258 0.245743
+4    0.129177 0.106672 0.580736 0.183415
+5    0.0154734 0.11821 0.000575331 0.865742
+6    0.145778 0.00407261 0.80474 0.04541
+7    0.131166 0.291289 0.0143145 0.563231
+8    0.113376 0.210026 0.380369 0.296229
+9    0.668054 0.117661 0.102865 0.111421
+10   0.40881 0.214108 0.113713 0.263368
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1520_0.90.txt_1
+CC  AC: M1520_0.90.txt_1
+CC  id: TBX21_TBR1_EOMES
+CC  name: TBX21_TBR1_EOMES
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: gaggtgtgaa
+CC  consensus.strict.rc: TTCACACCTC
+CC  consensus.IUPAC: daggtgykaw
+CC  consensus.IUPAC.rc: WTMRCACCTH
+CC  consensus.regexp: [agt]aggtg[ct][gt]a[at]
+CC  consensus.regexp.rc: [AT]T[AC][AG]CACCT[ACT]
+XX
+//
+AC  M0621_0.90.txt_1
+XX
+ID  SPI1
+XX
+DE  wwrvggaast
+P0       A     C     G     T
+1    0.400158 0.141438 0.19284 0.265565
+2    0.346223 0.15402 0.201761 0.297997
+3    0.252726 0.215359 0.384639 0.147276
+4    0.322103 0.282837 0.306394 0.0886656
+5    0.169129 0.0338068 0.742974 0.0540906
+6    0.0487517 0.0239685 0.894926 0.0323541
+7    0.906122 0.00229142 0.00938557 0.0822015
+8    0.833294 0.0379165 0.000358935 0.12843
+9    0.17048 0.307544 0.432083 0.0898928
+10   0.185625 0.226723 0.117182 0.470469
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0621_0.90.txt_1
+CC  AC: M0621_0.90.txt_1
+CC  id: SPI1_SPIB_SPIC
+CC  name: SPI1_SPIB_SPIC
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: aagaggaagt
+CC  consensus.strict.rc: ACTTCCTCTT
+CC  consensus.IUPAC: wwrvggaast
+CC  consensus.IUPAC.rc: ASTTCCBYWW
+CC  consensus.regexp: [at][at][ag][acg]ggaa[cg]t
+CC  consensus.regexp.rc: A[CG]TTCC[CGT][CT][AT][AT]
+XX
+//
+AC  M0638_0.90.txt_1
+XX
+ID  SPDEF
+XX
+DE  rwmcmggawr
+P0       A     C     G     T
+1    0.32234 0.195509 0.263909 0.218242
+2    0.43386 0.124303 0.159608 0.28223
+3    0.311585 0.293439 0.240248 0.154728
+4    0.200253 0.544344 0.186715 0.0686885
+5    0.284306 0.645517 0.0540576 0.0161198
+6    0.0115371 0.000434122 0.98789 0.000138841
+7    0.00686459 0.0145323 0.949918 0.028685
+8    0.874097 0.00896378 0.0599309 0.057008
+9    0.30219 0.165846 0.0580356 0.473929
+10   0.296924 0.248012 0.296924 0.158139
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0638_0.90.txt_1
+CC  AC: M0638_0.90.txt_1
+CC  id: SPDEF
+CC  name: SPDEF
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: aaaccggata
+CC  consensus.strict.rc: TATCCGGTTT
+CC  consensus.IUPAC: rwmcmggawr
+CC  consensus.IUPAC.rc: YWTCCKGKWY
+CC  consensus.regexp: [ag][at][ac]c[ac]gga[at][ag]
+CC  consensus.regexp.rc: [CT][AT]TCC[GT]G[GT][AT][CT]
+XX
+//
+AC  M0380_0.90.txt_1
+XX
+ID  SP4
+XX
+DE  rgkgggcgkg
+P0       A     C     G     T
+1    0.345672 0.14923 0.297523 0.207575
+2    0.236315 0.119721 0.541945 0.10202
+3    0.126852 0.0135045 0.562855 0.296789
+4    0.166514 1.27157e-05 0.833039 0.000433909
+5    3.57011e-05 3.04224e-05 0.99967 0.000263797
+6    0.011649 3.89772e-05 0.987545 0.000767376
+7    0.160079 0.66892 0.0140928 0.156909
+8    0.0356295 0.0248578 0.909753 0.0297602
+9    0.0459858 0.0287413 0.501866 0.423407
+10   0.212327 0.118882 0.458577 0.210214
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0380_0.90.txt_1
+CC  AC: M0380_0.90.txt_1
+CC  id: SP4_SP8_SP2_SP7_SP3_SP1_SP6_SP5_SP9
+CC  name: SP4_SP8_SP2_SP7_SP3_SP1_SP6_SP5_SP9
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: agggggcggg
+CC  consensus.strict.rc: CCCGCCCCCT
+CC  consensus.IUPAC: rgkgggcgkg
+CC  consensus.IUPAC.rc: CMCGCCCMCY
+CC  consensus.regexp: [ag]g[gt]gggcg[gt]g
+CC  consensus.regexp.rc: C[AC]CGCCC[AC]C[CT]
+XX
+//
+AC  M0383_0.90.txt_1
+XX
+ID  KLF4
+XX
+DE  dgggcgkggc
+P0       A     C     G     T
+1    0.3222 0.0771053 0.258571 0.342124
+2    0.17485 0.000228534 0.823801 0.00112067
+3    0.000271748 0.000173274 0.999363 0.000191497
+4    7.40771e-05 0.000241075 0.999596     0
+5    0.100743 0.660217 0.0103044 0.228736
+6    0.0152107 0.000320459 0.974574 0.00989471
+7    0.042318 0.0895871 0.352557 0.515538
+8    0.208085 0.0765501 0.538047 0.177318
+9    0.167365 0.115605 0.497789 0.219242
+10   0.170239 0.414554 0.180766 0.234441
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0383_0.90.txt_1
+CC  AC: M0383_0.90.txt_1
+CC  id: KLF6_KLF8_KLF5_KLF1_KLF3_KLF7_KLF12_KLF2_KLF4
+CC  name: KLF6_KLF8_KLF5_KLF1_KLF3_KLF7_KLF12_KLF2_KLF4
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: tgggcgtggc
+CC  consensus.strict.rc: GCCACGCCCA
+CC  consensus.IUPAC: dgggcgkggc
+CC  consensus.IUPAC.rc: GCCMCGCCCH
+CC  consensus.regexp: [agt]gggcg[gt]ggc
+CC  consensus.regexp.rc: GCC[AC]CGCCC[ACT]
+XX
+//
+AC  M0408_0.90.txt_1
+XX
+ID  ZNF740
+XX
+DE  mrtggggggg
+P0       A     C     G     T
+1    0.251654 0.264556 0.24915 0.23464
+2    0.285098 0.174659 0.299716 0.240527
+3    0.245093 0.200665 0.150151 0.404091
+4    0.0610644 0.00548452 0.872994 0.0604568
+5    0.0174462 0.00285514 0.861883 0.117815
+6    0.0922973 0.0218678 0.841356 0.0444789
+7    0.0567681 0.000747497 0.896927 0.0455575
+8    0.0339871 0.0281059 0.903233 0.0346737
+9    0.0766113 0.0268092 0.670984 0.225596
+10   0.170472 0.107616 0.48715 0.234762
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0408_0.90.txt_1
+CC  AC: M0408_0.90.txt_1
+CC  id: ZNF740
+CC  name: ZNF740
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: cgtggggggg
+CC  consensus.strict.rc: CCCCCCCACG
+CC  consensus.IUPAC: mrtggggggg
+CC  consensus.IUPAC.rc: CCCCCCCAYK
+CC  consensus.regexp: [ac][ag]tggggggg
+CC  consensus.regexp.rc: CCCCCCCA[CT][GT]
+XX
+//
+AC  M0399_0.90.txt_1
+XX
+ID  KLF8
+XX
+DE  drggygkggy
+P0       A     C     G     T
+1    0.272187 0.153929 0.25126 0.322624
+2    0.250959 0.000240579 0.702954 0.0458462
+3    0.000156594 0.000134782 0.968649 0.0310594
+4    0.0144845 0.00013043 0.946792 0.0385933
+5    0.136533 0.495994 3.29278e-05 0.367441
+6    0.0907452 9.80827e-05 0.843918 0.0652389
+7    0.096347 0.120056 0.343077 0.44052
+8    0.203882 0.128707 0.467566 0.199845
+9    0.188128 0.154026 0.418687 0.239158
+10   0.187485 0.362745 0.178341 0.271429
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0399_0.90.txt_1
+CC  AC: M0399_0.90.txt_1
+CC  id: KLF6_KLF8_KLF5_KLF1_KLF3_KLF7_KLF12_KLF2_KLF4
+CC  name: KLF6_KLF8_KLF5_KLF1_KLF3_KLF7_KLF12_KLF2_KLF4
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: tgggcgtggc
+CC  consensus.strict.rc: GCCACGCCCA
+CC  consensus.IUPAC: drggygkggy
+CC  consensus.IUPAC.rc: RCCMCRCCYH
+CC  consensus.regexp: [agt][ag]gg[ct]g[gt]gg[ct]
+CC  consensus.regexp.rc: [AG]CC[AC]C[AG]CC[CT][ACT]
+XX
+//
+AC  M0398_0.90.txt_1
+XX
+ID  ZNF281
+XX
+DE  dkgggggwkg
+P0       A     C     G     T
+1    0.255081 0.0966968 0.354809 0.293413
+2    0.1779 0.0563298 0.403922 0.361848
+3    0.0162386 0.0120298 0.950881 0.0208507
+4    0.0181881 0.00801061 0.954098 0.0197029
+5    0.0190431 0.00138639 0.969428 0.0101422
+6    0.00679476 0.00721493 0.959251 0.0267398
+7    0.0149386 0.0229645 0.928851 0.0332464
+8    0.342873 0.154063 0.0539124 0.449152
+9    0.19609 0.122557 0.419294 0.26206
+10   0.135466 0.130154 0.560438 0.173942
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0398_0.90.txt_1
+CC  AC: M0398_0.90.txt_1
+CC  id: ZNF281_ZNF148
+CC  name: ZNF281_ZNF148
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: gggggggtgg
+CC  consensus.strict.rc: CCACCCCCCC
+CC  consensus.IUPAC: dkgggggwkg
+CC  consensus.IUPAC.rc: CMWCCCCCMH
+CC  consensus.regexp: [agt][gt]ggggg[at][gt]g
+CC  consensus.regexp.rc: C[AC][AT]CCCCC[AC][ACT]
+XX
+//
+AC  M0372_0.90.txt_1
+XX
+ID  PLAGL1
+XX
+DE  rrggggcccc
+P0       A     C     G     T
+1    0.265677 0.200794 0.30256 0.230968
+2    0.297612 0.119796 0.338929 0.243664
+3    0.0404815 0.0305953 0.872049 0.0568744
+4    0.226744 0.0112889 0.752816 0.00915062
+5    0.0075313 0.000170174 0.924328 0.0679701
+6    0.0263046 0.000979948 0.934251 0.0384648
+7    0.0844451 0.553411 0.203589 0.158555
+8    0.164476 0.494112 0.191093 0.150319
+9    0.223285 0.423455 0.170451 0.18281
+10   0.249629 0.327005 0.214858 0.208508
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0372_0.90.txt_1
+CC  AC: M0372_0.90.txt_1
+CC  id: PLAGL1
+CC  name: PLAGL1
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: ggggggcccc
+CC  consensus.strict.rc: GGGGCCCCCC
+CC  consensus.IUPAC: rrggggcccc
+CC  consensus.IUPAC.rc: GGGGCCCCYY
+CC  consensus.regexp: [ag][ag]ggggcccc
+CC  consensus.regexp.rc: GGGGCCCC[CT][CT]
+XX
+//
+AC  M1150_0.90.txt_1
+XX
+ID  POU3F2
+XX
+DE  wwykmatwaw
+P0       A     C     G     T
+1    0.27997 0.193385 0.191461 0.335185
+2    0.313862 0.210388 0.208295 0.267456
+3    0.143452 0.309822 0.128509 0.418217
+4    0.192116 0.0916611 0.414925 0.301298
+5    0.383233 0.364543 0.0964132 0.155811
+6    0.905822 0.00752961 0.0518753 0.0347731
+7    0.0339247 0.0115207 0.0161859 0.938369
+8    0.334158 0.0546863 0.0546863 0.55647
+9    0.617199 0.0941785 0.0704703 0.218152
+10   0.298019 0.160318 0.191935 0.349728
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1150_0.90.txt_1
+CC  AC: M1150_0.90.txt_1
+CC  id: POU3F2_POU3F1_POU3F4_POU3F3
+CC  name: POU3F2_POU3F1_POU3F4_POU3F3
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: tatgaattat
+CC  consensus.strict.rc: ATAATTCATA
+CC  consensus.IUPAC: wwykmatwaw
+CC  consensus.IUPAC.rc: WTWATKMRWW
+CC  consensus.regexp: [at][at][ct][gt][ac]at[at]a[at]
+CC  consensus.regexp.rc: [AT]T[AT]AT[GT][AC][AG][AT][AT]
+XX
+//
+AC  M1159_0.90.txt_1
+XX
+ID  POU3F1
+XX
+DE  ykmattawy
+P0       A     C     G     T
+1    0.200918 0.348241 0.162861 0.287981
+2    0.173093 0.112598 0.253111 0.461198
+3    0.411376 0.361227 0.123904 0.103493
+4    0.722042 0.0623076 0.121764 0.0938862
+5    0.112712 0.0133944 0.105092 0.768802
+6    0.157371 0.115423 0.000439818 0.726766
+7    0.644889 0.0424819 0.136876 0.175753
+8    0.307543 0.175671 0.206152 0.310634
+9    0.238239 0.263295 0.245495 0.252971
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1159_0.90.txt_1
+CC  AC: M1159_0.90.txt_1
+CC  id: POU3F2_POU3F1_POU3F4_POU3F3
+CC  name: POU3F2_POU3F1_POU3F4_POU3F3
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: ctaattatc
+CC  consensus.strict.rc: GATAATTAG
+CC  consensus.IUPAC: ykmattawy
+CC  consensus.IUPAC.rc: RWTAATKMR
+CC  consensus.regexp: [ct][gt][ac]atta[at][ct]
+CC  consensus.regexp.rc: [AG][AT]TAAT[GT][AC][AG]
+XX
+//
+AC  M1160_0.90.txt_1
+XX
+ID  POU2F3
+XX
+DE  awtwwgmata
+P0       A     C     G     T
+1    0.348424 0.217766 0.193141 0.240669
+2    0.495795 0.102121 0.127251 0.274833
+3    0.15448 0.113303 0.0603444 0.671872
+4    0.314533 0.129165 0.0479946 0.508308
+5    0.323971 0.0622186 0.0351862 0.578624
+6    0.235938 0.0842316 0.484719 0.195111
+7    0.299163 0.596446 0.0408942 0.0634967
+8    0.689749 0.0952331 0.11288 0.102138
+9    0.0596767 0.0805551 0.0954824 0.764286
+10   0.490694 0.113957 0.205577 0.189772
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1160_0.90.txt_1
+CC  AC: M1160_0.90.txt_1
+CC  id: POU2F2_POU2F3_POU2F1_POU3F2_POU3F4_POU3F3
+CC  name: POU2F2_POU2F3_POU2F1_POU3F2_POU3F4_POU3F3
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: aatttgcata
+CC  consensus.strict.rc: TATGCAAATT
+CC  consensus.IUPAC: awtwwgmata
+CC  consensus.IUPAC.rc: TATKCWWAWT
+CC  consensus.regexp: a[at]t[at][at]g[ac]ata
+CC  consensus.regexp.rc: TAT[GT]C[AT][AT]A[AT]T
+XX
+//
+AC  M1148_0.90.txt_1
+XX
+ID  POU2F1
+XX
+DE  mwwatkmrwa
+P0       A     C     G     T
+1    0.292536 0.251788 0.22556 0.230117
+2    0.261116 0.168168 0.127099 0.443618
+3    0.393187 0.128289 0.0969586 0.381566
+4    0.82712 0.0411799 0.0944386 0.0372611
+5    0.109655 0.140799 0.0727724 0.676773
+6    0.0983914 0.149748 0.387205 0.364656
+7    0.325906 0.346058 0.109575 0.218461
+8    0.383482 0.155912 0.281264 0.179342
+9    0.260474 0.240448 0.233342 0.265736
+10   0.317384 0.217047 0.232784 0.232784
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1148_0.90.txt_1
+CC  AC: M1148_0.90.txt_1
+CC  id: POU2F2_POU2F3_POU2F1_POU3F2_POU3F1_POU3F4_POU3F3
+CC  name: POU2F2_POU2F3_POU2F1_POU3F2_POU3F1_POU3F4_POU3F3
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: ataatgcata
+CC  consensus.strict.rc: TATGCATTAT
+CC  consensus.IUPAC: mwwatkmrwa
+CC  consensus.IUPAC.rc: TWYKMATWWK
+CC  consensus.regexp: [ac][at][at]at[gt][ac][ag][at]a
+CC  consensus.regexp.rc: T[AT][CT][GT][AC]AT[AT][AT][GT]
+XX
+//
+AC  M1163_0.90.txt_1
+XX
+ID  POU1F1
+XX
+DE  wwtkmatwww
+P0       A     C     G     T
+1    0.254442 0.214663 0.194236 0.336659
+2    0.362141 0.167676 0.190954 0.279229
+3    0.126186 0.236929 0.120032 0.516853
+4    0.14582 0.0569612 0.384664 0.412555
+5    0.548244 0.353089 0.0595442 0.0391234
+6    0.908825 0.0240986 0.0213735 0.0457025
+7    0.00992701 0.00103589 0.00145537 0.987582
+8    0.418499 0.0844936 0.110684 0.386324
+9    0.570966 0.0523174 0.0845488 0.292168
+10   0.258297 0.146073 0.229089 0.366541
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1163_0.90.txt_1
+CC  AC: M1163_0.90.txt_1
+CC  id: POU1F1
+CC  name: POU1F1
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: tattaataat
+CC  consensus.strict.rc: ATTATTAATA
+CC  consensus.IUPAC: wwtkmatwww
+CC  consensus.IUPAC.rc: WWWATKMAWW
+CC  consensus.regexp: [at][at]t[gt][ac]at[at][at][at]
+CC  consensus.regexp.rc: [AT][AT][AT]AT[GT][AC]A[AT][AT]
+XX
+//
+AC  M1401_0.90.txt_1
+XX
+ID  LCOR
+XX
+DE  awwtttggsw
+P0       A     C     G     T
+1    0.315528 0.207316 0.245733 0.231423
+2    0.359436 0.147604 0.207376 0.285584
+3    0.332593 0.0383563 0.102199 0.526852
+4    0.0232408 0.00204605 0.0532986 0.921415
+5    0.0675176 0.0875656 0.00576836 0.839149
+6    0.224763 0.19153 0.248401 0.335306
+7    0.206273 0.0590982 0.632197 0.102432
+8    0.150805 0.143451 0.51594 0.189804
+9    0.242051 0.278424 0.264845 0.21468
+10   0.268784 0.229043 0.19912 0.303053
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1401_0.90.txt_1
+CC  AC: M1401_0.90.txt_1
+CC  id: LCOR
+CC  name: LCOR
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: aattttggct
+CC  consensus.strict.rc: AGCCAAAATT
+CC  consensus.IUPAC: awwtttggsw
+CC  consensus.IUPAC.rc: WSCCAAAWWT
+CC  consensus.regexp: a[at][at]tttgg[cg][at]
+CC  consensus.regexp.rc: [AT][CG]CCAAA[AT][AT]T
+XX
+//
+AC  M0893_0.90.txt_1
+XX
+ID  LHX8
+XX
+DE  sytrattrs
+P0       A     C     G     T
+1    0.244674 0.265052 0.295872 0.194402
+2    0.199546 0.312951 0.189814 0.297688
+3    0.124554 0.0631011 0.0663363 0.746009
+4    0.394226 0.0788009 0.481509 0.0454642
+5    0.92394 0.0011837 0.0407986 0.0340778
+6    0.0319878 0.042324 0.0670443 0.858644
+7    0.0882007 0.075915 0.177614 0.65827
+8    0.401306 0.0690426 0.401306 0.128345
+9    0.206496 0.295977 0.304991 0.192536
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0893_0.90.txt_1
+CC  AC: M0893_0.90.txt_1
+CC  id: LHX6_LHX8
+CC  name: LHX6_LHX8
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: gctgattag
+CC  consensus.strict.rc: CTAATCAGC
+CC  consensus.IUPAC: sytrattrs
+CC  consensus.IUPAC.rc: SYAATYARS
+CC  consensus.regexp: [cg][ct]t[ag]att[ag][cg]
+CC  consensus.regexp.rc: [CG][CT]AAT[CT]A[AG][CG]
+XX
+//
+AC  M1081_0.90.txt_1
+XX
+ID  LHX6
+XX
+DE  sytrattrs
+P0       A     C     G     T
+1    0.246774 0.267327 0.283858 0.202041
+2    0.198827 0.32132 0.171132 0.308721
+3    0.104224 0.0492321 0.0449948 0.801549
+4    0.406515 0.0720687 0.486686 0.0347305
+5    0.94564 0.000364898 0.0321966 0.0217989
+6    0.0212965 0.0308317 0.0602524 0.887619
+7    0.0706178 0.0638976 0.154051 0.711434
+8    0.43259 0.0529734 0.395357 0.119079
+9    0.21267 0.301794 0.298791 0.186745
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1081_0.90.txt_1
+CC  AC: M1081_0.90.txt_1
+CC  id: LHX6_LHX8
+CC  name: LHX6_LHX8
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: gctgattac
+CC  consensus.strict.rc: GTAATCAGC
+CC  consensus.IUPAC: sytrattrs
+CC  consensus.IUPAC.rc: SYAATYARS
+CC  consensus.regexp: [cg][ct]t[ag]att[ag][cg]
+CC  consensus.regexp.rc: [CG][CT]AAT[CT]A[AG][CG]
+XX
+//
+AC  M1016_0.90.txt_1
+XX
+ID  LHX4
+XX
+DE  rsbwrattrg
+P0       A     C     G     T
+1    0.253051 0.238314 0.279665 0.22897
+2    0.242653 0.302365 0.260248 0.194734
+3    0.195915 0.264458 0.272512 0.267116
+4    0.289959 0.184886 0.184886 0.34027
+5    0.35607 0.158401 0.280095 0.205435
+6    0.793922 0.00782235 0.142164 0.0560915
+7    0.130027 0.0757728 0.143702 0.650499
+8    0.108948 0.19265 0.185096 0.513306
+9    0.487798 0.0442521 0.372375 0.0955741
+10   0.230097 0.239487 0.31372 0.216697
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1016_0.90.txt_1
+CC  AC: M1016_0.90.txt_1
+CC  id: LHX5_LHX3_LHX4_LHX1
+CC  name: LHX5_LHX3_LHX4_LHX1
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: gcgtaattag
+CC  consensus.strict.rc: CTAATTACGC
+CC  consensus.IUPAC: rsbwrattrg
+CC  consensus.IUPAC.rc: CYAATYWVSY
+CC  consensus.regexp: [ag][cg][cgt][at][ag]att[ag]g
+CC  consensus.regexp.rc: C[CT]AAT[CT][AT][ACG][CG][CT]
+XX
+//
+AC  M0887_0.90.txt_1
+XX
+ID  LHX3
+XX
+DE  wwytaatta
+P0       A     C     G     T
+1    0.336764 0.194296 0.190449 0.27849
+2    0.293592 0.187202 0.219684 0.299522
+3    0.143147 0.29116 0.156628 0.409065
+4    0.0609209 0.242154 0.0118174 0.685107
+5    0.768466 0.128303 0.0740245 0.0292066
+6    0.95439 0.0185612 0.0169636 0.0100852
+7    0.0355488 0.0162958 0.0128187 0.935337
+8    0.150061 0.196574 0.0745179 0.578848
+9    0.582945 0.0735593 0.135381 0.208115
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0887_0.90.txt_1
+CC  AC: M0887_0.90.txt_1
+CC  id: LHX5_LHX3_LHX4_LHX1
+CC  name: LHX5_LHX3_LHX4_LHX1
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: atttaatta
+CC  consensus.strict.rc: TAATTAAAT
+CC  consensus.IUPAC: wwytaatta
+CC  consensus.IUPAC.rc: TAATTARWW
+CC  consensus.regexp: [at][at][ct]taatta
+CC  consensus.regexp.rc: TAATTA[AG][AT][AT]
+XX
+//
+AC  M0899_0.90.txt_1
+XX
+ID  LHX1
+XX
+DE  wwyyaatta
+P0       A     C     G     T
+1    0.343621 0.177601 0.200244 0.278534
+2    0.293451 0.183408 0.2355 0.287641
+3    0.171737 0.269337 0.191706 0.367221
+4    0.110672 0.349523 0.0487434 0.491062
+5    0.631899 0.155824 0.101365 0.110911
+6    0.903684 0.0284026 0.0368361 0.0310774
+7    0.0651561 0.0357584 0.0130239 0.886062
+8    0.0880016 0.135281 0.0862591 0.690458
+9    0.709395 0.0472008 0.0913238 0.152081
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0899_0.90.txt_1
+CC  AC: M0899_0.90.txt_1
+CC  id: LHX5_LHX3_LHX4_LHX1
+CC  name: LHX5_LHX3_LHX4_LHX1
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: aattaatta
+CC  consensus.strict.rc: TAATTAATT
+CC  consensus.IUPAC: wwyyaatta
+CC  consensus.IUPAC.rc: TAATTRRWW
+CC  consensus.regexp: [at][at][ct][ct]aatta
+CC  consensus.regexp.rc: TAATT[AG][AG][AT][AT]
+XX
+//
+AC  M1478_0.90.txt_1
+XX
+ID  LEF1
+XX
+DE  aswtcaaagr
+P0       A     C     G     T
+1    0.487159 0.134101 0.19221 0.18653
+2    0.103241 0.367628 0.410375 0.118756
+3    0.639521 0.0417091 0.0226627 0.296107
+4    0.118677 0.0350372 0.0121388 0.834147
+5    0.107632 0.677712 0.134118 0.0805374
+6    0.874585 0.0171801 0.0132467 0.0949879
+7    0.809823 0.0589574 0.0862126 0.0450069
+8    0.758453 0.0140312 0.0996118 0.127904
+9    0.182254 0.175107 0.575592 0.0670473
+10   0.284337 0.183124 0.403494 0.129045
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1478_0.90.txt_1
+CC  AC: M1478_0.90.txt_1
+CC  id: TCF7_LEF1_TCF7L2
+CC  name: TCF7_LEF1_TCF7L2
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: agatcaaagg
+CC  consensus.strict.rc: CCTTTGATCT
+CC  consensus.IUPAC: aswtcaaagr
+CC  consensus.IUPAC.rc: YCTTTGAWST
+CC  consensus.regexp: a[cg][at]tcaaag[ag]
+CC  consensus.regexp.rc: [CT]CTTTGA[AT][CG]T
+XX
+//
+AC  M0395_0.90.txt_1
+XX
+ID  EGR1
+XX
+DE  tgmgkgggcg
+P0       A     C     G     T
+1    0.236976 0.197939 0.225419 0.339665
+2    0.197809 0.155602 0.516618 0.12997
+3    0.265569 0.437849 0.192843 0.103739
+4    0.0904196 0.0486407 0.816039 0.0449011
+5    0.0618568 0.0770784 0.439142 0.421923
+6    0.173655 0.0221331 0.770526 0.0336857
+7    0.000703195 0.0194506 0.970566 0.00928017
+8    0.0440727 0.0249243 0.859062 0.0719407
+9    0.190908 0.442213 0.124187 0.242692
+10   0.204131 0.138208 0.497086 0.160575
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0395_0.90.txt_1
+CC  AC: M0395_0.90.txt_1
+CC  id: EGR1_EGR2_EGR4_EGR3
+CC  name: EGR1_EGR2_EGR4_EGR3
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: tgcgggggcg
+CC  consensus.strict.rc: CGCCCCCGCA
+CC  consensus.IUPAC: tgmgkgggcg
+CC  consensus.IUPAC.rc: CGCCCMCKCA
+CC  consensus.regexp: tg[ac]g[gt]gggcg
+CC  consensus.regexp.rc: CGCCC[AC]C[GT]CA
+XX
+//
+AC  M0716_0.90.txt_1
+XX
+ID  GATA5
+XX
+DE  sttatcwsy
+P0       A     C     G     T
+1    0.17189 0.3427 0.266895 0.218515
+2    0.198351 0.175922 0.132959 0.492768
+3    0.208244 0.10445 0.109805 0.577501
+4    0.637884 0.0889573 0.0829433 0.190215
+5    0.109735 0.102316 0.0469022 0.741047
+6    0.0680554 0.678797 0.113332 0.139815
+7    0.31535 0.111462 0.238337 0.334851
+8    0.242574 0.268085 0.265418 0.223924
+9    0.24161 0.25655 0.232136 0.269704
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0716_0.90.txt_1
+CC  AC: M0716_0.90.txt_1
+CC  id: GATA1_GATA3_GATA5_GATA4_GATA6_GATA2
+CC  name: GATA1_GATA3_GATA5_GATA4_GATA6_GATA2
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: cttatctct
+CC  consensus.strict.rc: AGAGATAAG
+CC  consensus.IUPAC: sttatcwsy
+CC  consensus.IUPAC.rc: RSWGATAAS
+CC  consensus.regexp: [cg]ttatc[at][cg][ct]
+CC  consensus.regexp.rc: [AG][CG][AT]GATAA[CG]
+XX
+//
+AC  M1020_0.90.txt_1
+XX
+ID  GSC
+XX
+DE  ytaatccs
+P0       A     C     G     T
+1    0.207448 0.325343 0.141866 0.325343
+2    0.0705002 0.0467874 0.0819095 0.800803
+3    0.823901 0.0414318 0.0649781 0.0696895
+4    0.800902 0.0454103 0.0852628 0.068425
+5    0.0783369 0.0417216 0.0985948 0.781347
+6    0.0849607 0.693803 0.0893167 0.131919
+7    0.101356 0.577459 0.132772 0.188413
+8    0.14888 0.348326 0.299807 0.202987
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1020_0.90.txt_1
+CC  AC: M1020_0.90.txt_1
+CC  id: ALX4_GSC2_GSC_ALX3_ALX1_DMBX1
+CC  name: ALX4_GSC2_GSC_ALX3_ALX1_DMBX1
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: ctaatccc
+CC  consensus.strict.rc: GGGATTAG
+CC  consensus.IUPAC: ytaatccs
+CC  consensus.IUPAC.rc: SGGATTAR
+CC  consensus.regexp: [ct]taatcc[cg]
+CC  consensus.regexp.rc: [CG]GGATTA[AG]
+XX
+//
+AC  M1449_0.90.txt_1
+XX
+ID  GMEB1
+XX
+DE  gkacgtmr
+P0       A     C     G     T
+1    0.181859 0.0607208 0.666414 0.0910055
+2    0.0120181 0.214303 0.309495 0.464184
+3    0.874716 0.000113585 0.125057 0.000113585
+4    0.000113585 0.999659 0.000113585 0.000113585
+5    0.0233612 0.000116225 0.976406 0.000116225
+6    0.000121892 0.0732569 0.0245002 0.902121
+7    0.285694 0.556967 0.100086 0.057253
+8    0.326021 0.152259 0.28258 0.23914
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1449_0.90.txt_1
+CC  AC: M1449_0.90.txt_1
+CC  id: GMEB1
+CC  name: GMEB1
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: gtacgtca
+CC  consensus.strict.rc: TGACGTAC
+CC  consensus.IUPAC: gkacgtmr
+CC  consensus.IUPAC.rc: YKACGTMC
+CC  consensus.regexp: g[gt]acgt[ac][ag]
+CC  consensus.regexp.rc: [CT][GT]ACGT[AC]C
+XX
+//
+AC  M0714_0.90.txt_1
+XX
+ID  GATA6
+XX
+DE  swgataas
+P0       A     C     G     T
+1    0.229267 0.280027 0.26372 0.226986
+2    0.435295 0.191718 0.0406917 0.332295
+3    0.00496794 0.00323169 0.985357 0.00644306
+4    0.991818 0.000570946 7.65003e-05 0.00753485
+5    0.00297107 0.00456729 0.00125724 0.991204
+6    0.755577 0.0204398 0.0117927 0.21219
+7    0.638146 0.080525 0.151195 0.130134
+8    0.180992 0.289586 0.357256 0.172165
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0714_0.90.txt_1
+CC  AC: M0714_0.90.txt_1
+CC  id: GATA1_GATA3_GATA5_GATA4_GATA6_GATA2
+CC  name: GATA1_GATA3_GATA5_GATA4_GATA6_GATA2
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: cagataag
+CC  consensus.strict.rc: CTTATCTG
+CC  consensus.IUPAC: swgataas
+CC  consensus.IUPAC.rc: STTATCWS
+CC  consensus.regexp: [cg][at]gataa[cg]
+CC  consensus.regexp.rc: [CG]TTATC[AT][CG]
+XX
+//
+AC  M0923_0.90.txt_1
+XX
+ID  NKX6-1
+XX
+DE  wwtaatkrs
+P0       A     C     G     T
+1    0.319806 0.179059 0.239299 0.261835
+2    0.326964 0.0891081 0.142572 0.441355
+3    0.104999 0.140324 0.052665 0.702012
+4    0.632389 0.0429272 0.165588 0.159096
+5    0.902412 0.000373466 0.035342 0.0618722
+6    0.0624943 0.00113323 0.0339563 0.902416
+7    0.174093 0.139713 0.298744 0.38745
+8    0.522018 0.0555732 0.301178 0.121231
+9    0.164852 0.331971 0.291502 0.211674
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0923_0.90.txt_1
+CC  AC: M0923_0.90.txt_1
+CC  id: NKX6-2_NKX6-1_NKX6-3
+CC  name: NKX6-2_NKX6-1_NKX6-3
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: attaattac
+CC  consensus.strict.rc: GTAATTAAT
+CC  consensus.IUPAC: wwtaatkrs
+CC  consensus.IUPAC.rc: SYMATTAWW
+CC  consensus.regexp: [at][at]taat[gt][ag][cg]
+CC  consensus.regexp.rc: [CG][CT][AC]ATTA[AT][AT]
+XX
+//
+AC  M1023_0.90.txt_1
+XX
+ID  PITX2
+XX
+DE  ytaatcccy
+P0       A     C     G     T
+1    0.19178 0.272148 0.142074 0.393998
+2    0.173245 0.0548558 0.025912 0.745987
+3    0.740236 0.0482777 0.0962519 0.115234
+4    0.897022 0.00875023 0.0321072 0.0621208
+5    0.0483095 0.0337044 0.177262 0.740724
+6    0.140466 0.702726 0.0537835 0.103024
+7    0.0873533 0.626382 0.0798349 0.20643
+8    0.206494 0.343873 0.223692 0.225941
+9    0.208138 0.289514 0.204017 0.298331
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1023_0.90.txt_1
+CC  AC: M1023_0.90.txt_1
+CC  id: PITX1_PITX3_PITX2
+CC  name: PITX1_PITX3_PITX2
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: ttaatccct
+CC  consensus.strict.rc: AGGGATTAA
+CC  consensus.IUPAC: ytaatcccy
+CC  consensus.IUPAC.rc: RGGGATTAR
+CC  consensus.regexp: [ct]taatccc[ct]
+CC  consensus.regexp.rc: [AG]GGGATTA[AG]
+XX
+//
+AC  M1140_0.90.txt_1
+XX
+ID  PDX1
+XX
+DE  ttaattag
+P0       A     C     G     T
+1    0.129674 0.0371159 0.166698 0.666512
+2    0.00664299 0.105301 6.57722e-05 0.88799
+3    0.862129 0.113805 0.00604646 0.0180196
+4    0.993943 0.00593978 5.88097e-05     0
+5    0.00593978 0.00593978 0.00593978 0.982181
+6    0.0252138 6.28773e-05 0.207558 0.767165
+7    0.745874 7.93399e-05 0.246033 0.00801333
+8    0.0404887 0.161652 0.59582 0.20204
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1140_0.90.txt_1
+CC  AC: M1140_0.90.txt_1
+CC  id: HOXA2_HOXA3_HOXA5_HOXA6_HOXB6_HOXB5_HOXB7_HOXB3_HOXA7_HOXD3_PDX1_HOXD4_AC012531.1_HOXB4_HOXA4_HOXC6_HOXC5_IRF6
+CC  name: HOXA2_HOXA3_HOXA5_HOXA6_HOXB6_HOXB5_HOXB7_HOXB3_HOXA7_HOXD3_PDX1_HOXD4_AC012531.1_HOXB4_HOXA4_HOXC6_HOXC5_IRF6
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: ttaattag
+CC  consensus.strict.rc: CTAATTAA
+CC  consensus.IUPAC: ttaattag
+CC  consensus.IUPAC.rc: CTAATTAA
+CC  consensus.regexp: ttaattag
+CC  consensus.regexp.rc: CTAATTAA
+XX
+//
+AC  M1357_0.90.txt_1
+XX
+ID  NR2E1
+XX
+DE  rragtcaahw
+P0       A     C     G     T
+1    0.296858 0.20505 0.29098 0.207111
+2    0.392281 0.196759 0.273685 0.137274
+3    0.420113 0.172522 0.225998 0.181367
+4    0.19759 0.00145673 0.754605 0.0463487
+5    0.0758157 0.167052 0.0797029 0.677429
+6    0.0625236 0.675561 0.0458577 0.216057
+7    0.683906 0.0242356 0.234586 0.0572725
+8    0.316686 0.234607 0.229961 0.218746
+9    0.257859 0.257859 0.226424 0.257859
+10   0.252243 0.249733 0.232849 0.265175
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1357_0.90.txt_1
+CC  AC: M1357_0.90.txt_1
+CC  id: NR2E1
+CC  name: NR2E1
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: aaagtcaaat
+CC  consensus.strict.rc: ATTTGACTTT
+CC  consensus.IUPAC: rragtcaahw
+CC  consensus.IUPAC.rc: WDTTGACTYY
+CC  consensus.regexp: [ag][ag]agtcaa[act][at]
+CC  consensus.regexp.rc: [AT][AGT]TTGACT[CT][CT]
+XX
+//
+AC  M1072_0.90.txt_1
+XX
+ID  LMX1A
+XX
+DE  wtktaatwwa
+P0       A     C     G     T
+1    0.334982 0.178409 0.201155 0.285453
+2    0.210546 0.23739 0.194359 0.357704
+3    0.134708 0.245455 0.285178 0.334659
+4    0.0279186 0.202207 0.0129267 0.756947
+5    0.872504 0.0783642 0.0245661 0.0245661
+6    0.977176 0.00972468 0.0049762 0.00812274
+7    0.00356511 0.0090358 0.00382361 0.983575
+8    0.424012 0.0707931 0.0365895 0.468606
+9    0.591052 0.0309355 0.0470827 0.330929
+10   0.345635 0.19743 0.218194 0.238742
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1072_0.90.txt_1
+CC  AC: M1072_0.90.txt_1
+CC  id: LMX1B_LMX1A
+CC  name: LMX1B_LMX1A
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: atttaattaa
+CC  consensus.strict.rc: TTAATTAAAT
+CC  consensus.IUPAC: wtktaatwwa
+CC  consensus.IUPAC.rc: TWWATTAMAW
+CC  consensus.regexp: [at]t[gt]taat[at][at]a
+CC  consensus.regexp.rc: T[AT][AT]ATTA[AC]A[AT]
+XX
+//
+AC  M0287_0.90.txt_1
+XX
+ID  MAFK
+XX
+DE  wwwtygctga
+P0       A     C     G     T
+1    0.317998 0.169363 0.21316 0.299479
+2    0.33574 0.132467 0.157014 0.374779
+3    0.31184 0.169439 0.110221 0.4085
+4    0.224835 0.184079 0.193517 0.397568
+5    0.110627 0.253703 0.053848 0.581822
+6    0.121552 0.112207 0.544759 0.221482
+7    0.185362 0.479292 0.124252 0.211095
+8    0.235995 0.224485 0.17309 0.366431
+9    0.225334 0.180834 0.356945 0.236887
+10   0.364404 0.20608 0.225487 0.204029
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0287_0.90.txt_1
+CC  AC: M0287_0.90.txt_1
+CC  id: MAFF_MAFG_MAFK
+CC  name: MAFF_MAFG_MAFK
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: attttgctga
+CC  consensus.strict.rc: TCAGCAAAAT
+CC  consensus.IUPAC: wwwtygctga
+CC  consensus.IUPAC.rc: TCAGCRAWWW
+CC  consensus.regexp: [at][at][at]t[ct]gctga
+CC  consensus.regexp.rc: TCAGC[AG]A[AT][AT][AT]
+XX
+//
+AC  M1275_0.90.txt_1
+XX
+ID  MYPOP
+XX
+DE  kwtwgcgcya
+P0       A     C     G     T
+1    0.200287 0.200287 0.299658 0.299769
+2    0.299179 0.10023 0.10023 0.500361
+3    8.92681e-05 8.92681e-05 8.92681e-05 0.999732
+4    0.300796 8.92681e-05 8.92681e-05 0.699025
+5    8.92681e-05 8.92681e-05 0.999732     0
+6    8.92681e-05 0.999732 8.92681e-05     0
+7    8.92681e-05 8.92681e-05 0.999732     0
+8    8.92681e-05 0.999732 8.92681e-05     0
+9    0.150466 0.549722 0.0498025 0.250009
+10   0.450681 0.149859 0.2496 0.149859
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1275_0.90.txt_1
+CC  AC: M1275_0.90.txt_1
+CC  id: MYPOP
+CC  name: MYPOP
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: ttttgcgcca
+CC  consensus.strict.rc: TGGCGCAAAA
+CC  consensus.IUPAC: kwtwgcgcya
+CC  consensus.IUPAC.rc: TRGCGCWAWM
+CC  consensus.regexp: [gt][at]t[at]gcgc[ct]a
+CC  consensus.regexp.rc: T[AG]GCGC[AT]A[AT][AC]
+XX
+//
+AC  M0305_0.90.txt_1
+XX
+ID  MAFG
+XX
+DE  wwwygctkac
+P0       A     C     G     T
+1    0.345952 0.155446 0.19177 0.306832
+2    0.331335 0.187379 0.156512 0.324774
+3    0.286886 0.186622 0.206249 0.320244
+4    0.152733 0.259482 0.0493377 0.538447
+5    0.0918819 0.101545 0.720903 0.0856701
+6    0.185857 0.661809 0.017374 0.13496
+7    0.175814 0.143944 0.0847264 0.595515
+8    0.158101 0.0587468 0.530191 0.252961
+9    0.617572 0.127204 0.117425 0.137799
+10   0.145218 0.402717 0.241829 0.210236
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0305_0.90.txt_1
+CC  AC: M0305_0.90.txt_1
+CC  id: MAFF_MAFG_MAFK
+CC  name: MAFF_MAFG_MAFK
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: aattgctgac
+CC  consensus.strict.rc: GTCAGCAATT
+CC  consensus.IUPAC: wwwygctkac
+CC  consensus.IUPAC.rc: GTMAGCRWWW
+CC  consensus.regexp: [at][at][at][ct]gct[gt]ac
+CC  consensus.regexp.rc: GT[AC]AGC[AG][AT][AT][AT]
+XX
+//
+AC  M0717_0.90.txt_1
+XX
+ID  GATA4
+XX
+DE  cwgatwasr
+P0       A     C     G     T
+1    0.24865 0.261399 0.241301 0.24865
+2    0.392226 0.219607 0.0702344 0.317932
+3    0.0257616 0.0113462 0.942829 0.0200632
+4    0.931184 0.0181099 0.00917476 0.0415317
+5    0.0209101 0.0204961 0.00500398 0.95359
+6    0.65261 0.0667517 0.0282468 0.252391
+7    0.541666 0.11046 0.158325 0.189549
+8    0.19606 0.286696 0.350172 0.167072
+9    0.28613 0.225078 0.309961 0.178832
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0717_0.90.txt_1
+CC  AC: M0717_0.90.txt_1
+CC  id: GATA1_GATA3_GATA5_GATA4_GATA6_GATA2
+CC  name: GATA1_GATA3_GATA5_GATA4_GATA6_GATA2
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: cagataagg
+CC  consensus.strict.rc: CCTTATCTG
+CC  consensus.IUPAC: cwgatwasr
+CC  consensus.IUPAC.rc: YSTWATCWG
+CC  consensus.regexp: c[at]gat[at]a[cg][ag]
+CC  consensus.regexp.rc: [CT][CG]T[AT]ATC[AT]G
+XX
+//
+AC  M1084_0.90.txt_1
+XX
+ID  NKX6-3
+XX
+DE  wwtaatkrs
+P0       A     C     G     T
+1    0.287806 0.198798 0.247717 0.265679
+2    0.306685 0.1198 0.155372 0.418143
+3    0.132401 0.16664 0.0771564 0.623803
+4    0.569683 0.0600442 0.193462 0.176811
+5    0.836303 0.00648175 0.0672886 0.0899264
+6    0.0914379 0.0190232 0.0560173 0.833522
+7    0.170676 0.136971 0.304834 0.38752
+8    0.473486 0.077488 0.323799 0.125226
+9    0.169558 0.321564 0.305881 0.202998
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1084_0.90.txt_1
+CC  AC: M1084_0.90.txt_1
+CC  id: NKX6-2_NKX6-1_NKX6-3_NFKB1
+CC  name: NKX6-2_NKX6-1_NKX6-3_NFKB1
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: attaattac
+CC  consensus.strict.rc: GTAATTAAT
+CC  consensus.IUPAC: wwtaatkrs
+CC  consensus.IUPAC.rc: SYMATTAWW
+CC  consensus.regexp: [at][at]taat[gt][ag][cg]
+CC  consensus.regexp.rc: [CG][CT][AC]ATTA[AT][AT]
+XX
+//
+AC  M0715_0.90.txt_1
+XX
+ID  GATA3
+XX
+DE  wwswgataas
+P0       A     C     G     T
+1    0.268595 0.233506 0.226604 0.271295
+2    0.274182 0.235991 0.229016 0.26081
+3    0.228672 0.255262 0.268349 0.247717
+4    0.424078 0.23744 0.0653604 0.273121
+5    0.0738588 0.0288513 0.873191 0.0240986
+6    0.941711 0.00965715 0.00174665 0.046885
+7    0.0627643 0.0302467 0.0362118 0.870777
+8    0.486794 0.180881 0.0953773 0.236948
+9    0.453949 0.132686 0.190183 0.223182
+10   0.227316 0.258874 0.31619 0.197619
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0715_0.90.txt_1
+CC  AC: M0715_0.90.txt_1
+CC  id: GATA1_GATA3_GATA5_GATA4_GATA6_GATA2
+CC  name: GATA1_GATA3_GATA5_GATA4_GATA6_GATA2
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: tagagataag
+CC  consensus.strict.rc: CTTATCTCTA
+CC  consensus.IUPAC: wwswgataas
+CC  consensus.IUPAC.rc: STTATCWSWW
+CC  consensus.regexp: [at][at][cg][at]gataa[cg]
+CC  consensus.regexp.rc: [CG]TTATC[AT][CG][AT][AT]
+XX
+//
+AC  M0849_0.90.txt_1
+XX
+ID  POU6F1
+XX
+DE  wtaatkagmt
+P0       A     C     G     T
+1    0.359434 0.183925 0.176714 0.279927
+2    0.167167 0.0556449 0.0204706 0.756718
+3    0.870598 0.0116952 0.0469546 0.070752
+4    0.91067 0.0378708 0.00566428 0.0457952
+5    0.0411283 0.0301654 0.0943203 0.834386
+6    0.124232 0.0768724 0.48403 0.314866
+7    0.771054 0.0645705 0.0780819 0.0862938
+8    0.126403 0.131562 0.522946 0.219089
+9    0.261928 0.272617 0.246674 0.218781
+10   0.235732 0.233386 0.193001 0.337881
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0849_0.90.txt_1
+CC  AC: M0849_0.90.txt_1
+CC  id: POU6F1
+CC  name: POU6F1
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: ataatgagct
+CC  consensus.strict.rc: AGCTCATTAT
+CC  consensus.IUPAC: wtaatkagmt
+CC  consensus.IUPAC.rc: AKCTMATTAW
+CC  consensus.regexp: [at]taat[gt]ag[ac]t
+CC  consensus.regexp.rc: A[GT]CT[AC]ATTA[AT]
+XX
+//
+AC  M1464_0.90.txt_1
+XX
+ID  SMAD3
+XX
+DE  ygkckrgwww
+P0       A     C     G     T
+1    0.161347 0.312172 0.137491 0.388991
+2    0.00188037 2.81973e-05 0.917332 0.080759
+3    0.0599483 0.0481097 0.26335 0.628592
+4    0.00578226 0.858163 0.0670068 0.0690475
+5    0.00654629 0.0758606 0.339984 0.577609
+6    0.253754 0.214084 0.390086 0.142077
+7    0.24317 0.19711 0.381367 0.178353
+8    0.290031 0.210606 0.244689 0.254675
+9    0.293113 0.228276 0.210726 0.267885
+10   0.261235 0.234024 0.216031 0.28871
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1464_0.90.txt_1
+CC  AC: M1464_0.90.txt_1
+CC  id: SMAD3_SMAD2
+CC  name: SMAD3_SMAD2
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: tgtctggaat
+CC  consensus.strict.rc: ATTCCAGACA
+CC  consensus.IUPAC: ygkckrgwww
+CC  consensus.IUPAC.rc: WWWCYMGMCR
+CC  consensus.regexp: [ct]g[gt]c[gt][ag]g[at][at][at]
+CC  consensus.regexp.rc: [AT][AT][AT]C[CT][AC]G[AC]C[AG]
+XX
+//
+AC  M0918_0.90.txt_1
+XX
+ID  SIX4
+XX
+DE  wtkaymcch
+P0       A     C     G     T
+1    0.294249 0.222388 0.222388 0.260975
+2    0.18348 0.221873 0.178057 0.416591
+3    0.0759401 0.132946 0.517984 0.273129
+4    0.948766 0.047711 0.00242338 0.00109984
+5    0.114207 0.261913 0.146644 0.477236
+6    0.526111 0.349154 8.50524e-05 0.12465
+7    0.14574 0.556586 0.0824195 0.215255
+8    0.169751 0.41752 0.211523 0.201207
+9    0.257435 0.267941 0.217189 0.257435
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0918_0.90.txt_1
+CC  AC: M0918_0.90.txt_1
+CC  id: SIX4_SIX1_SIX2_SIX5
+CC  name: SIX4_SIX1_SIX2_SIX5
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: atgataccc
+CC  consensus.strict.rc: GGGTATCAT
+CC  consensus.IUPAC: wtkaymcch
+CC  consensus.IUPAC.rc: DGGKRTMAW
+CC  consensus.regexp: [at]t[gt]a[ct][ac]cc[act]
+CC  consensus.regexp.rc: [AGT]GG[GT][AG]T[AC]A[AT]
+XX
+//
+AC  M1418_0.90.txt_1
+XX
+ID  RFX4
+XX
+DE  gthrcyargs
+P0       A     C     G     T
+1    0.146385 0.0411095 0.801302 0.0112036
+2    0.0540323 0.0847396 0.119055 0.742173
+3    0.252056 0.259732 0.0556817 0.43253
+4    0.25156 0.0578401 0.462979 0.227621
+5    0.0619072 0.636278 0.0835659 0.218249
+6    0.0678312 0.496222 0.137968 0.297979
+7    0.411291 0.175792 0.214713 0.198205
+8    0.254958 0.159349 0.340732 0.244961
+9    0.122928 0.139994 0.653013 0.0840656
+10   0.170067 0.25626 0.401896 0.171776
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1418_0.90.txt_1
+CC  AC: M1418_0.90.txt_1
+CC  id: RFX3_RFX2_RFX4_RFX1_RFX5_RFX7_RFX6_RFX8
+CC  name: RFX3_RFX2_RFX4_RFX1_RFX5_RFX7_RFX6_RFX8
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: gttgccaggg
+CC  consensus.strict.rc: CCCTGGCAAC
+CC  consensus.IUPAC: gthrcyargs
+CC  consensus.IUPAC.rc: SCYTRGYDAC
+CC  consensus.regexp: gt[act][ag]c[ct]a[ag]g[cg]
+CC  consensus.regexp.rc: [CG]C[CT]T[AG]G[CT][AGT]AC
+XX
+//
+AC  M1087_0.90.txt_1
+XX
+ID  HESX1
+XX
+DE  ttaattrg
+P0       A     C     G     T
+1    0.157992 0.0528391 0.18428 0.60489
+2    0.000188537 0.113311 0.000188537 0.886312
+3    0.999474 0.000175316 0.000175316 0.000175316
+4    0.999474 0.000175316 0.000175316 0.000175316
+5    0.000175316 0.000175316 0.000175316 0.999474
+6    0.000175316 0.000175316 0.000175316 0.999474
+7    0.691968 0.00019216 0.307648 0.00019216
+8    0.0542657 0.162257 0.594222 0.189255
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1087_0.90.txt_1
+CC  AC: M1087_0.90.txt_1
+CC  id: HESX1
+CC  name: HESX1
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: ttaattag
+CC  consensus.strict.rc: CTAATTAA
+CC  consensus.IUPAC: ttaattrg
+CC  consensus.IUPAC.rc: CYAATTAA
+CC  consensus.regexp: ttaatt[ag]g
+CC  consensus.regexp.rc: C[CT]AATTAA
+XX
+//
+AC  M0858_0.90.txt_1
+XX
+ID  HNF1B
+XX
+DE  yyrgtwar
+P0       A     C     G     T
+1    0.202254 0.30476 0.228041 0.264945
+2    0.209749 0.253638 0.207662 0.328951
+3    0.320859 0.165836 0.3407 0.172604
+4    0.179359 0.0936338 0.691865 0.0351418
+5    0.205774 0.0613612 0.0764607 0.656404
+6    0.275237 0.0889106 0.158798 0.477055
+7    0.466545 0.127148 0.185927 0.22038
+8    0.317313 0.183074 0.259794 0.23982
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0858_0.90.txt_1
+CC  AC: M0858_0.90.txt_1
+CC  id: HNF1B_HNF1A
+CC  name: HNF1B_HNF1A
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: ctggttaa
+CC  consensus.strict.rc: TTAACCAG
+CC  consensus.IUPAC: yyrgtwar
+CC  consensus.IUPAC.rc: YTWACYRR
+CC  consensus.regexp: [ct][ct][ag]gt[at]a[ag]
+CC  consensus.regexp.rc: [CT]T[AT]AC[CT][AG][AG]
+XX
+//
+AC  M0897_0.90.txt_1
+XX
+ID  HNF1A
+XX
+DE  ytaacydr
+P0       A     C     G     T
+1    0.208589 0.259918 0.115627 0.415867
+2    0.174432 0.0695145 0.0271543 0.728899
+3    0.781902 0.0557975 0.0180245 0.144276
+4    0.872713 0.00894959 0.0263537 0.0919833
+5    0.000143365 0.726066 0.0415809 0.23221
+6    0.0950602 0.393275 0.110444 0.40122
+7    0.294001 0.176546 0.268697 0.260756
+8    0.31157 0.204716 0.321059 0.162654
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0897_0.90.txt_1
+CC  AC: M0897_0.90.txt_1
+CC  id: HNF1B_HNF1A
+CC  name: HNF1B_HNF1A
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: ttaactag
+CC  consensus.strict.rc: CTAGTTAA
+CC  consensus.IUPAC: ytaacydr
+CC  consensus.IUPAC.rc: YHRGTTAR
+CC  consensus.regexp: [ct]taac[ct][agt][ag]
+CC  consensus.regexp.rc: [CT][ACT][AG]GTTA[AG]
+XX
+//
+AC  M1165_0.90.txt_1
+XX
+ID  POU3F3
+XX
+DE  ytmattawm
+P0       A     C     G     T
+1    0.191741 0.349375 0.20771 0.251174
+2    0.226396 0.181687 0.23329 0.358627
+3    0.329541 0.275256 0.16529 0.229913
+4    0.712175 0.0907695 0.0805053 0.11655
+5    0.0895543 0.0163601 0.0612427 0.832843
+6    0.00109512 0.0865624 0.0489532 0.863389
+7    0.763216 0.0142612 0.0788495 0.143673
+8    0.309286 0.182047 0.211509 0.297158
+9    0.252482 0.279036 0.23307 0.235412
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1165_0.90.txt_1
+CC  AC: M1165_0.90.txt_1
+CC  id: POU2F1_POU3F2_POU3F1_POU3F4_POU3F3
+CC  name: POU2F1_POU3F2_POU3F1_POU3F4_POU3F3
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: ctaattaac
+CC  consensus.strict.rc: GTTAATTAG
+CC  consensus.IUPAC: ytmattawm
+CC  consensus.IUPAC.rc: KWTAATKAR
+CC  consensus.regexp: [ct]t[ac]atta[at][ac]
+CC  consensus.regexp.rc: [GT][AT]TAAT[GT]A[AG]
+XX
+//
+AC  M1166_0.90.txt_1
+XX
+ID  POU3F2
+XX
+DE  wwykmatwaw
+P0       A     C     G     T
+1    0.289447 0.194022 0.19018 0.326351
+2    0.306926 0.218461 0.199658 0.274955
+3    0.149706 0.30756 0.127571 0.415163
+4    0.198893 0.102798 0.404547 0.293761
+5    0.371286 0.360313 0.103231 0.16517
+6    0.900218 0.0105133 0.0536583 0.0356104
+7    0.0237229 0.0157437 0.0105533 0.94998
+8    0.335175 0.0570914 0.0606217 0.547112
+9    0.604681 0.106134 0.0733103 0.215875
+10   0.297421 0.161604 0.19542 0.345554
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1166_0.90.txt_1
+CC  AC: M1166_0.90.txt_1
+CC  id: POU2F1_POU3F2_POU3F1_POU3F4_POU3F3
+CC  name: POU2F1_POU3F2_POU3F1_POU3F4_POU3F3
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: tatgaattat
+CC  consensus.strict.rc: ATAATTCATA
+CC  consensus.IUPAC: wwykmatwaw
+CC  consensus.IUPAC.rc: WTWATKMRWW
+CC  consensus.regexp: [at][at][ct][gt][ac]at[at]a[at]
+CC  consensus.regexp.rc: [AT]T[AT]AT[GT][AC][AG][AT][AT]
+XX
+//
+AC  M0656_0.90.txt_1
+XX
+ID  FOXM1
+XX
+DE  rwawrcaa
+P0       A     C     G     T
+1    0.613471 0.0796229 0.272717 0.034189
+2    0.482375 0.0176254 0.184234 0.315766
+3    0.71413 0.0756888 0.10089 0.109291
+4    0.630124 0.0504872 0.00848454 0.310904
+5    0.571321 8.40054e-05 0.302503 0.126092
+6    0.00848454 0.840138 0.0924899 0.0588878
+7    0.823337 0.10089 0.0756888     0
+8    0.551585 0.183938 0.0575597 0.206916
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0656_0.90.txt_1
+CC  AC: M0656_0.90.txt_1
+CC  id: FOXM1
+CC  name: FOXM1
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: aaaaacaa
+CC  consensus.strict.rc: TTGTTTTT
+CC  consensus.IUPAC: rwawrcaa
+CC  consensus.IUPAC.rc: TTGYWTWY
+CC  consensus.regexp: [ag][at]a[at][ag]caa
+CC  consensus.regexp.rc: TTG[CT][AT]T[AT][CT]
+XX
+//
+AC  M0520_0.90.txt_1
+XX
+ID  SP1
+XX
+DE  accgcwtc
+P0       A     C     G     T
+1    0.578947 0.0526316 0.210526 0.157895
+2        0     1     0     0
+3        0     1     0     0
+4        0     0     1     0
+5        0     1     0     0
+6    0.269231 0.0384615     0 0.692308
+7        0     0     0     1
+8        0 0.882353 0.0588235 0.0588235
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0520_0.90.txt_1
+CC  AC: M0520_0.90.txt_1
+CC  id: SP4_SP8_SP3_SP1_SP5_SP9
+CC  name: SP4_SP8_SP3_SP1_SP5_SP9
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: accgcttc
+CC  consensus.strict.rc: GAAGCGGT
+CC  consensus.IUPAC: accgcwtc
+CC  consensus.IUPAC.rc: GAWGCGGT
+CC  consensus.regexp: accgc[at]tc
+CC  consensus.regexp.rc: GA[AT]GCGGT
+XX
+//
+AC  M1483_0.90.txt_1
+XX
+ID  SOX3
+XX
+DE  wwwacaat
+P0       A     C     G     T
+1    0.29724 0.233817 0.205314 0.263628
+2    0.292758 0.182975 0.237305 0.286961
+3    0.340887 0.206758 0.194718 0.257637
+4    0.497501 0.11325 0.139714 0.249535
+5    0.0568868 0.556164 0.167513 0.219436
+6    0.732187 0.077172 0.0811287 0.109512
+7    0.588134 0.129925 0.12483 0.157111
+8    0.19248 0.13163 0.0918351 0.584055
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1483_0.90.txt_1
+CC  AC: M1483_0.90.txt_1
+CC  id: SOX3
+CC  name: SOX3
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: aaaacaat
+CC  consensus.strict.rc: ATTGTTTT
+CC  consensus.IUPAC: wwwacaat
+CC  consensus.IUPAC.rc: ATTGTWWW
+CC  consensus.regexp: [at][at][at]acaat
+CC  consensus.regexp.rc: ATTGT[AT][AT][AT]
+XX
+//
+AC  M1479_0.90.txt_1
+XX
+ID  SOX10
+XX
+DE  kwdawcaat
+P0       A     C     G     T
+1    0.230159 0.210349 0.283942 0.27555
+2    0.319141 0.203493 0.216076 0.26129
+3    0.284237 0.183059 0.267684 0.265021
+4    0.449142 0.170262 0.180791 0.199805
+5    0.550439 0.0509434 0.0680822 0.330536
+6    0.0556972 0.544534 0.214848 0.184921
+7    0.795184 0.0693089 0.0473977 0.0881089
+8    0.739025 0.112768 0.113901 0.0343064
+9    0.159169 0.122728 0.0529828 0.66512
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1479_0.90.txt_1
+CC  AC: M1479_0.90.txt_1
+CC  id: SOX8_SOX10_SOX9
+CC  name: SOX8_SOX10_SOX9
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: gaaaacaat
+CC  consensus.strict.rc: ATTGTTTTC
+CC  consensus.IUPAC: kwdawcaat
+CC  consensus.IUPAC.rc: ATTGWTHWM
+CC  consensus.regexp: [gt][at][agt]a[at]caat
+CC  consensus.regexp.rc: ATTG[AT]T[ACT][AT][AC]
+XX
+//
+AC  M1487_0.90.txt_1
+XX
+ID  SOX14
+XX
+DE  waacaatr
+P0       A     C     G     T
+1    0.26087 0.173913 0.130435 0.434783
+2    0.806452 0.0322581 0.0322581 0.129032
+3    0.914286 0.0285714 0.0285714 0.0285714
+4    0.0285714 0.885714 0.0285714 0.0571429
+5    0.914286 0.0285714 0.0285714 0.0285714
+6    0.914286 0.0285714 0.0285714 0.0285714
+7    0.0285714 0.0285714 0.0285714 0.914286
+8     0.32  0.12  0.36   0.2
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1487_0.90.txt_1
+CC  AC: M1487_0.90.txt_1
+CC  id: SOX14_SOX2_SOX1
+CC  name: SOX14_SOX2_SOX1
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: taacaatg
+CC  consensus.strict.rc: CATTGTTA
+CC  consensus.IUPAC: waacaatr
+CC  consensus.IUPAC.rc: YATTGTTW
+CC  consensus.regexp: [at]aacaat[ag]
+CC  consensus.regexp.rc: [CT]ATTGTT[AT]
+XX
+//
+AC  M0681_0.90.txt_1
+XX
+ID  FOXO4
+XX
+DE  wyrtmaayaa
+P0       A     C     G     T
+1    0.259111 0.218603 0.241594 0.280692
+2    0.227954 0.26221 0.239641 0.270195
+3    0.343013 0.10646 0.496592 0.0539344
+4    0.238807 0.129756 0.0440646 0.587372
+5    0.586793 0.294321 0.0410451 0.0778412
+6    0.799746 0.117248 0.0297936 0.0532125
+7    0.86562 0.0300675 0.0500712 0.0542415
+8    0.0337226 0.691019 0.0133054 0.261953
+9    0.852964 0.0388115 0.0395956 0.0686291
+10   0.35557 0.215664 0.195141 0.233626
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0681_0.90.txt_1
+CC  AC: M0681_0.90.txt_1
+CC  id: FOXO3_FOXO1_FOXO4_FOXO6
+CC  name: FOXO3_FOXO1_FOXO4_FOXO6
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: ttgtaaacaa
+CC  consensus.strict.rc: TTGTTTACAA
+CC  consensus.IUPAC: wyrtmaayaa
+CC  consensus.IUPAC.rc: TTRTTKAYRW
+CC  consensus.regexp: [at][ct][ag]t[ac]aa[ct]aa
+CC  consensus.regexp.rc: TT[AG]TT[GT]A[CT][AG][AT]
+XX
+//
+AC  M1485_0.90.txt_1
+XX
+ID  SOX12
+XX
+DE  arrracaawr
+P0       A     C     G     T
+1    0.284212 0.247082 0.249565 0.219142
+2    0.342469 0.205651 0.256257 0.195622
+3    0.312573 0.156779 0.312573 0.218075
+4    0.432854 0.164088 0.293067 0.109991
+5    0.819721 0.0290484 0.0380524 0.113178
+6    0.0229822 0.702551 0.116131 0.158336
+7    0.952308 0.00197169 0.0204685 0.0252516
+8    0.912887 0.0517597 0.0350443 0.000309317
+9    0.303999 0.0705996 0.0372266 0.588175
+10   0.341137 0.0911298 0.348028 0.219705
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1485_0.90.txt_1
+CC  AC: M1485_0.90.txt_1
+CC  id: SOX12
+CC  name: SOX12
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: aaaaacaatg
+CC  consensus.strict.rc: CATTGTTTTT
+CC  consensus.IUPAC: arrracaawr
+CC  consensus.IUPAC.rc: YWTTGTYYYT
+CC  consensus.regexp: a[ag][ag][ag]acaa[at][ag]
+CC  consensus.regexp.rc: [CT][AT]TTGT[CT][CT][CT]T
+XX
+//
+AC  M0669_0.90.txt_1
+XX
+ID  FOXO3
+XX
+DE  rtmaacaa
+P0       A     C     G     T
+1    0.346154 0.0769231 0.557692 0.0192308
+2    0.181818 0.038961 0.012987 0.766234
+3    0.650602 0.277108 0.0240964 0.0481928
+4    0.916667 0.0357143 0.0119048 0.0357143
+5    0.952381 0.0119048 0.0119048 0.0238095
+6    0.0119048 0.845238 0.0119048 0.130952
+7    0.964286 0.0119048 0.0119048 0.0119048
+8    0.571429 0.142857 0.126984 0.15873
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0669_0.90.txt_1
+CC  AC: M0669_0.90.txt_1
+CC  id: FOXO3_FOXO1_FOXO4_FOXO6
+CC  name: FOXO3_FOXO1_FOXO4_FOXO6
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: gtaaacaa
+CC  consensus.strict.rc: TTGTTTAC
+CC  consensus.IUPAC: rtmaacaa
+CC  consensus.IUPAC.rc: TTGTTKAY
+CC  consensus.regexp: [ag]t[ac]aacaa
+CC  consensus.regexp.rc: TTGTT[GT]A[CT]
+XX
+//
+AC  M0630_0.90.txt_1
+XX
+ID  GABPA
+XX
+DE  accggaart
+P0       A     C     G     T
+1    0.635514 0.0770484 0.180266 0.107172
+2    0.154613 0.646083 0.165824 0.0334793
+3    0.148376 0.812201 0.0373281 0.00209541
+4    0.000562956 0.000344882 0.997694 0.00139856
+5    0.00922235 0.00491175 0.984004 0.00186196
+6    0.979651 0.00412554 0.0146904 0.00153295
+7    0.777163 0.0210237 0.00433036 0.197483
+8    0.378533 0.0507192 0.553523 0.017224
+9    0.132095 0.222188 0.053706 0.592011
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0630_0.90.txt_1
+CC  AC: M0630_0.90.txt_1
+CC  id: ETV1_ETV2_ERF_ELK3_ETV3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ENSG00000235187_ETV5
+CC  name: ETV1_ETV2_ERF_ELK3_ETV3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ENSG00000235187_ETV5
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: accggaagt
+CC  consensus.strict.rc: ACTTCCGGT
+CC  consensus.IUPAC: accggaart
+CC  consensus.IUPAC.rc: AYTTCCGGT
+CC  consensus.regexp: accggaa[ag]t
+CC  consensus.regexp.rc: A[CT]TTCCGGT
+XX
+//
+AC  M0629_0.90.txt_1
+XX
+ID  GABPA
+XX
+DE  arccggaart
+P0       A     C     G     T
+1    0.310173 0.23916 0.232091 0.218575
+2    0.515468 0.0999905 0.271802 0.112739
+3    0.100868 0.708969 0.159782 0.0303808
+4    0.125542 0.847793 0.0215988 0.00506643
+5    0.00851127 0.00618045 0.983769 0.0015394
+6    0.00176541 0.00525081 0.990671 0.00231262
+7    0.980239 0.00891555 0.00474835 0.006097
+8    0.784086 0.0209999 0.00538985 0.189525
+9    0.330437 0.0694367 0.57273 0.0273965
+10   0.085838 0.235677 0.0929872 0.585498
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0629_0.90.txt_1
+CC  AC: M0629_0.90.txt_1
+CC  id: ETV1_ETV2_ERF_ELK3_ETV3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ENSG00000235187_ETV5
+CC  name: ETV1_ETV2_ERF_ELK3_ETV3_ELK1_ETS1_FLI1_GABPA_ERG_ETS2_ELK4_FEV_ETV4_ENSG00000235187_ETV5
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: aaccggaagt
+CC  consensus.strict.rc: ACTTCCGGTT
+CC  consensus.IUPAC: arccggaart
+CC  consensus.IUPAC.rc: AYTTCCGGYT
+CC  consensus.regexp: a[ag]ccggaa[ag]t
+CC  consensus.regexp.rc: A[CT]TTCCGG[CT]T
+XX
+//
+AC  M0671_0.90.txt_1
+XX
+ID  FOXO6
+XX
+DE  wbrwmaayaa
+P0       A     C     G     T
+1    0.257065 0.230288 0.239686 0.272961
+2    0.221196 0.262184 0.254436 0.262184
+3    0.300293 0.18957 0.359516 0.15062
+4    0.274149 0.169639 0.143119 0.413093
+5    0.434028 0.299798 0.094927 0.171247
+6    0.539248 0.208549 0.0865027 0.1657
+7    0.654737 0.0542843 0.174903 0.116075
+8    0.0422705 0.580616 0.0770218 0.300092
+9    0.617317 0.0704838 0.158441 0.153758
+10   0.310172 0.220771 0.227495 0.241562
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0671_0.90.txt_1
+CC  AC: M0671_0.90.txt_1
+CC  id: FOXO3_FOXO1_FOXO4_FOXO6
+CC  name: FOXO3_FOXO1_FOXO4_FOXO6
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: tcgtaaacaa
+CC  consensus.strict.rc: TTGTTTACGA
+CC  consensus.IUPAC: wbrwmaayaa
+CC  consensus.IUPAC.rc: TTRTTKWYVW
+CC  consensus.regexp: [at][cgt][ag][at][ac]aa[ct]aa
+CC  consensus.regexp.rc: TT[AG]TT[GT][AT][CT][ACG][AT]
+XX
+//
+AC  M0667_0.90.txt_1
+XX
+ID  FOXO1
+XX
+DE  yrtmaacaa
+P0       A     C     G     T
+1    0.234081 0.261299 0.227163 0.277457
+2    0.341007 0.0824262 0.529484 0.0470826
+3    0.228892 0.0825372 0.0409868 0.647584
+4    0.603148 0.293584 0.0421892 0.0610787
+5    0.822332 0.101712 0.0233862 0.0525699
+6    0.886984 0.0244793 0.0411748 0.0473623
+7    0.032218 0.729621 0.0184032 0.219758
+8    0.84851 0.0325729 0.0363605 0.0825564
+9    0.363227 0.215946 0.191527 0.229299
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0667_0.90.txt_1
+CC  AC: M0667_0.90.txt_1
+CC  id: FOXO3_FOXO1_FOXO4_FOXO6
+CC  name: FOXO3_FOXO1_FOXO4_FOXO6
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: tgtaaacaa
+CC  consensus.strict.rc: TTGTTTACA
+CC  consensus.IUPAC: yrtmaacaa
+CC  consensus.IUPAC.rc: TTGTTKAYR
+CC  consensus.regexp: [ct][ag]t[ac]aacaa
+CC  consensus.regexp.rc: TTGTT[GT]A[CT][AG]
+XX
+//
+AC  M0414_0.90.txt_1
+XX
+ID  ZNF35
+XX
+DE  yarhmaayaa
+P0       A     C     G     T
+1    0.181072 0.320184 0.246878 0.251866
+2    0.418948 0.186372 0.220908 0.173772
+3    0.402973 0.141015 0.251859 0.204153
+4    0.30426 0.267169 0.0889328 0.339638
+5    0.475931 0.303467 0.0869448 0.133657
+6    0.814425 0.0434879 0.0920639 0.050023
+7    0.686845 0.111287 0.077642 0.124227
+8    0.16077 0.387601 0.134287 0.317341
+9    0.822741 0.0164882 0.12062 0.0401508
+10   0.814196 0.0236225 0.054174 0.108008
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0414_0.90.txt_1
+CC  AC: M0414_0.90.txt_1
+CC  id: ZNF35
+CC  name: ZNF35
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: caataaacaa
+CC  consensus.strict.rc: TTGTTTATTG
+CC  consensus.IUPAC: yarhmaayaa
+CC  consensus.IUPAC.rc: TTRTTKDYTR
+CC  consensus.regexp: [ct]a[ag][act][ac]aa[ct]aa
+CC  consensus.regexp.rc: TT[AG]TT[GT][AGT][CT]T[AG]
+XX
+//
+AC  M0310_0.90.txt_1
+XX
+ID  CEBPG
+XX
+DE  krttrcryma
+P0       A     C     G     T
+1    0.231876 0.201583 0.288935 0.277606
+2    0.445882 0.170725 0.317366 0.0660264
+3    0.0641534 0.0421518 0.0470531 0.846642
+4    0.0271768 0.0552775 0.142931 0.774614
+5    0.304859 0.000145127 0.492675 0.20232
+6    0.0875813 0.673554 0.0776777 0.161187
+7    0.302455 0.164339 0.376882 0.156324
+8    0.23488 0.3139 0.134166 0.317055
+9    0.391736 0.281628 0.160869 0.165768
+10   0.46613 0.183913 0.17148 0.178478
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0310_0.90.txt_1
+CC  AC: M0310_0.90.txt_1
+CC  id: CEBPG
+CC  name: CEBPG
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: gattgcgtaa
+CC  consensus.strict.rc: TTACGCAATC
+CC  consensus.IUPAC: krttrcryma
+CC  consensus.IUPAC.rc: TKRYGYAAYM
+CC  consensus.regexp: [gt][ag]tt[ag]c[ag][ct][ac]a
+CC  consensus.regexp.rc: T[GT][AG][CT]G[CT]AA[CT][AC]
+XX
+//
+AC  M0550_0.90.txt_1
+XX
+ID  CXXC1
+XX
+DE  tyascgg
+P0       A     C     G     T
+1    0.240571 0.247897 0.242988 0.268544
+2    0.231338 0.263454 0.205178 0.300029
+3    0.339485 0.227563 0.214311 0.218641
+4    0.123203 0.315398 0.3776 0.183798
+5    0.000637745 0.982581 1.41614e-06 0.0167799
+6    0.0227505 2.91467e-05 0.977099 0.000121795
+7    0.165154 0.13254 0.453448 0.248858
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0550_0.90.txt_1
+CC  AC: M0550_0.90.txt_1
+CC  id: CGBP_CXXC1
+CC  name: CGBP_CXXC1
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: ttagcgg
+CC  consensus.strict.rc: CCGCTAA
+CC  consensus.IUPAC: tyascgg
+CC  consensus.IUPAC.rc: CCGSTRA
+CC  consensus.regexp: t[ct]a[cg]cgg
+CC  consensus.regexp.rc: CCG[CG]T[AG]A
+XX
+//
+AC  M0606_0.90.txt_1
+XX
+ID  E2F3
+XX
+DE  wwwggcgssy
+P0       A     C     G     T
+1    0.328844 0.158473 0.193559 0.319125
+2    0.340062 0.138259 0.138259 0.383419
+3    0.250781 0.152106 0.248285 0.348828
+4    0.146662 0.212328 0.477294 0.163716
+5    0.0491485 0.109382 0.841214 0.000255341
+6    0.0986661 0.881603 9.02047e-06 0.0197221
+7    0.00122809 1.33727e-05 0.977948 0.0208105
+8    0.0225807 0.62459 0.326064 0.026765
+9    0.135566 0.284138 0.36121 0.219085
+10   0.234821 0.292605 0.182879 0.289694
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0606_0.90.txt_1
+CC  AC: M0606_0.90.txt_1
+CC  id: E2F3
+CC  name: E2F3
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: attggcgcgc
+CC  consensus.strict.rc: GCGCGCCAAT
+CC  consensus.IUPAC: wwwggcgssy
+CC  consensus.IUPAC.rc: RSSCGCCWWW
+CC  consensus.regexp: [at][at][at]ggcg[cg][cg][ct]
+CC  consensus.regexp.rc: [AG][CG][CG]CGCC[AT][AT][AT]
+XX
+//
+AC  M0607_0.90.txt_1
+XX
+ID  E2F2
+XX
+DE  wwwggcgssh
+P0       A     C     G     T
+1    0.323791 0.157606 0.184952 0.333651
+2    0.356499 0.123511 0.133798 0.386191
+3    0.252758 0.144378 0.247753 0.355112
+4    0.126742 0.200769 0.545747 0.126742
+5    0.023207 0.0747728 0.901856 0.000164385
+6    0.0697406 0.911218 0.0002242 0.0188174
+7    0.00017554 2.54793e-05 0.982509 0.0172897
+8    0.011409 0.610578 0.359389 0.0186232
+9    0.108464 0.261496 0.386224 0.243817
+10   0.250797 0.271685 0.168114 0.309403
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0607_0.90.txt_1
+CC  AC: M0607_0.90.txt_1
+CC  id: E2F2_E2F3
+CC  name: E2F2_E2F3
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: tttggcgcgt
+CC  consensus.strict.rc: ACGCGCCAAA
+CC  consensus.IUPAC: wwwggcgssh
+CC  consensus.IUPAC.rc: DSSCGCCWWW
+CC  consensus.regexp: [at][at][at]ggcg[cg][cg][act]
+CC  consensus.regexp.rc: [AGT][CG][CG]CGCC[AT][AT][AT]
+XX
+//
+AC  M0556_0.90.txt_1
+XX
+ID  DNMT1
+XX
+DE  ssymgcggsr
+P0       A     C     G     T
+1    0.234138 0.280314 0.297648 0.1879
+2    0.22394 0.268105 0.305326 0.202629
+3    0.172639 0.344193 0.23072 0.252448
+4    0.274855 0.274855 0.248699 0.201591
+5    0.191374 0.164717 0.434514 0.209396
+6    3.13502e-05 0.99971 0.000197398     0
+7    0.000301987 0.209062 0.790471 0.000165734
+8    0.0400612 0.139827 0.773099 0.0470122
+9    0.219725 0.265703 0.276546 0.238026
+10   0.306596 0.201448 0.309678 0.182278
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0556_0.90.txt_1
+CC  AC: M0556_0.90.txt_1
+CC  id: DNMT1
+CC  name: DNMT1
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: ggcagcgggg
+CC  consensus.strict.rc: CCCCGCTGCC
+CC  consensus.IUPAC: ssymgcggsr
+CC  consensus.IUPAC.rc: YSCCGCKRSS
+CC  consensus.regexp: [cg][cg][ct][ac]gcgg[cg][ag]
+CC  consensus.regexp.rc: [CT][CG]CCGC[GT][AG][CG][CG]
+XX
+//
+AC  M0894_0.90.txt_1
+XX
+ID  DMBX1
+XX
+DE  ytaatccsy
+P0       A     C     G     T
+1    0.212858 0.299055 0.164125 0.323962
+2    0.153798 0.0383072 0.0307422 0.777153
+3    0.77778 0.0313886 0.0896976 0.101134
+4    0.945835 0.0144699 0.0146153 0.0250799
+5    0.0454136 0.0281012 0.156932 0.769554
+6    0.119773 0.689246 0.0712075 0.119773
+7    0.0766926 0.566686 0.114412 0.24221
+8    0.157784 0.314576 0.2875 0.240141
+9    0.219437 0.296208 0.221642 0.262713
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0894_0.90.txt_1
+CC  AC: M0894_0.90.txt_1
+CC  id: ARX_ALX4_ALX3_DRGX_ALX1_DMBX1
+CC  name: ARX_ALX4_ALX3_DRGX_ALX1_DMBX1
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: ttaatcccc
+CC  consensus.strict.rc: GGGGATTAA
+CC  consensus.IUPAC: ytaatccsy
+CC  consensus.IUPAC.rc: RSGGATTAR
+CC  consensus.regexp: [ct]taatcc[cg][ct]
+CC  consensus.regexp.rc: [AG][CG]GGATTA[AG]
+XX
+//
+AC  M0307_0.90.txt_1
+XX
+ID  CEBPE
+XX
+DE  ttwygcaa
+P0       A     C     G     T
+1    0.000222025 0.000222025 0.000222025 0.999334
+2    0.112992 0.000161186 0.193585 0.693262
+3    0.314249 0.000142776 0.228584 0.457025
+4    0.000129803 0.597222 0.0390706 0.363577
+5    0.0886893 0.0127783 0.873102 0.0254302
+6    0.0507338 0.809843 0.000126518 0.139297
+7    0.873102 0.126645 0.000126518 0.000126518
+8    0.959076 0.0136413 0.0136413 0.0136413
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0307_0.90.txt_1
+CC  AC: M0307_0.90.txt_1
+CC  id: CEBPE_CEBPB_CEBPD_CEBPA
+CC  name: CEBPE_CEBPB_CEBPD_CEBPA
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: tttcgcaa
+CC  consensus.strict.rc: TTGCGAAA
+CC  consensus.IUPAC: ttwygcaa
+CC  consensus.IUPAC.rc: TTGCRWAA
+CC  consensus.regexp: tt[at][ct]gcaa
+CC  consensus.regexp.rc: TTGC[AG][AT]AA
+XX
+//
+AC  M1519_0.90.txt_1
+XX
+ID  EOMES
+XX
+DE  aggtgtkaam
+P0       A     C     G     T
+1    0.641109 0.0581601 0.180044 0.120687
+2    0.203688 0.114045 0.553682 0.128585
+3    0.0224779 0.0629621 0.847705 0.0668554
+4    0.00527684 0.137459 0.000358197 0.856906
+5    0.00977095 0.000794068 0.981825 0.00760962
+6    0.144062 0.198392 0.0433908 0.614155
+7    0.0721813 0.202185 0.44997 0.275664
+8    0.795423 0.0230779 0.136848 0.0446509
+9    0.435915 0.191991 0.155625 0.216469
+10   0.329786 0.251752 0.188377 0.230084
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M1519_0.90.txt_1
+CC  AC: M1519_0.90.txt_1
+CC  id: TBX21_TBR1_EOMES
+CC  name: TBX21_TBR1_EOMES
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: aggtgtgaaa
+CC  consensus.strict.rc: TTTCACACCT
+CC  consensus.IUPAC: aggtgtkaam
+CC  consensus.IUPAC.rc: KTTMACACCT
+CC  consensus.regexp: aggtgt[gt]aa[ac]
+CC  consensus.regexp.rc: [GT]TT[AC]ACACCT
+XX
+//
+AC  M0311_0.90.txt_1
+XX
+ID  CEBPE_CEBPB_CEBPD_CEBPA
+XX
+DE  rttrcrhmay
+P0       A     C     G     T
+1    0.386668 0.216495 0.289329 0.107508
+2    0.0601234 0.033328 0.0208301 0.885718
+3    0.0039141 0.0356798 0.0762933 0.884113
+4    0.322782 0.00185332 0.481535 0.193829
+5    0.0844481 0.739621 0.0619382 0.113993
+6    0.338556 0.120867 0.413513 0.127064
+7    0.295659 0.292717 0.0646642 0.346959
+8    0.463925 0.368604 0.0660045 0.101466
+9    0.702944 0.0990155 0.0980303 0.100011
+10   0.145396 0.307804 0.196264 0.350536
+XX
+CC  program: cis-bp
+CC  matrix.nb: 1
+CC  accession: M0311_0.90.txt_1
+CC  AC: M0311_0.90.txt_1
+CC  id: CEBPE_CEBPB_CEBPD_CEBPA
+CC  name: CEBPE_CEBPB_CEBPD_CEBPA
+CC  version: 
+CC  matrix.nb: 1
+CC  consensus.strict: attgcgtaat
+CC  consensus.strict.rc: ATTACGCAAT
+CC  consensus.IUPAC: rttrcrhmay
+CC  consensus.IUPAC.rc: RTKDYGYAAY
+CC  consensus.regexp: [ag]tt[ag]c[ag][act][ac]a[ct]
+CC  consensus.regexp.rc: [AG]T[GT][AGT][CT]G[CT]AA[CT]
+XX
+//
