@@ -1,3 +1,3 @@
-/home/jcastro/rsat/public_html/demo_files/peak-motifs_Oct4_matrices.tf	transfac	Oct4_motifs
-/home/jcastro/rsat/public_html/demo_files/peak-motifs_Sox2_matrices.tf	transfac	Sox2_motifs
-/home/jcastro/rsat/public_html/demo_files/peak-motifs_Sox2_vs_Oct4_matrices.tf	transfac	Oct4_vs_Sox2_motifs
+$ENV{RSAT}/public_html/demo_files/peak-motifs_Oct4_matrices.tf	transfac	Oct4_motifs
+$ENV{RSAT}/public_html/demo_files/peak-motifs_Sox2_matrices.tf	transfac	Sox2_motifs
+$ENV{RSAT}/public_html/demo_files/peak-motifs_Sox2_vs_Oct4_matrices.tf	transfac	Oct4_vs_Sox2_motifs
