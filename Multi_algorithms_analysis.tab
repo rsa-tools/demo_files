@@ -1,0 +1,5 @@
+/home/jcastro/Documents/JaimeCastro/PhD/Manuscripts/matrix-clustering/data/Oct4_Chen_combined_meme_chip.tf	tf	MEME_ChIP
+/home/jcastro/Documents/JaimeCastro/PhD/Manuscripts/matrix-clustering/data/Oct4_peaks_Homer_motifs_l13_mis3_hyper.tf	tf	HOMER
+/home/jcastro/Documents/JaimeCastro/PhD/Manuscripts/matrix-clustering/data/peak-motifs_result_Chen_Oct4_matrices.tf	tf	RSAT_peak_motifs
+
+;matrix-clustering -v 2 -file_table /home/jcastro/Documents/JaimeCastro/PhD/Manuscripts/matrix-clustering/data/Multi_algorithms_analysis.tab -title 'Oct4 motifs from RSAT|MEME-ChIP|Homer' -lth Ncor 0.5 -lth cor 0.7 -lth w 5 -hclust_method average -label_in_tree name  -o results/matrix-clustering_results/Oct4_RSAT_MEME_HOMER/average_linkage/Ncor0.4_cor0.6/Oct4_RSAT_MEME_HOMER -metric_build_tree Ncor -return heatmap,align_consensus
