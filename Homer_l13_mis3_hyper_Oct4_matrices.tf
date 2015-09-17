@@ -2,7 +2,7 @@ AC  homer_1
 XX
 ID  homer_1
 XX
-DE  	1-TTSATATGCAAA	7.799049	-1261.097082	0	T:2473.0(26.89%),B:280.0(2.81%),P:1e-547	Tpos:164.0,Tstd:79.8,Bpos:177.0,Bstd:123.3,StrandBias:0.0,Multiplicity:1.15
+DE  TTSATATGCAAA
 P0       A     C     G     T
 1    196.24 170.64 122.29 2354.83
 2    307.15 34.13 870.26 1632.46
@@ -35,7 +35,7 @@ AC  homer_2
 XX
 ID  homer_2
 XX
-DE  	2-AAAAAAAAAAAA	4.952818	-1190.923893	0	T:3825.0(41.59%),B:1130.0(11.33%),P:1e-517	Tpos:189.1,Tstd:130.6,Bpos:166.8,Bstd:115.3,StrandBias:-0.1,Multiplicity:1.41
+DE  AAAAAAAAAAAA
 P0       A     C     G     T
 1    3322.09  5.39 2060.13  5.39
 2    3246.59  5.39 2135.63  5.39
@@ -68,7 +68,7 @@ AC  homer_3
 XX
 ID  homer_3
 XX
-DE  	3-CWGRVBNCAGRG	5.614459	-1190.633370	0	T:6198.0(67.38%),B:3247.0(32.54%),P:1e-517	Tpos:176.5,Tstd:117.7,Bpos:175.4,Bstd:117.7,StrandBias:0.0,Multiplicity:1.73
+DE  CWGRVBNCAGRG
 P0       A     C     G     T
 1    10.72 7827.79 2873.76 10.72
 2    5511.62 10.72 10.72 5189.93
@@ -101,7 +101,7 @@ AC  homer_4
 XX
 ID  homer_4
 XX
-DE  	4-CAGAGGCTGGGA	5.314484	-1161.694035	0	T:6705.0(72.90%),B:3862.0(38.71%),P:1e-504	Tpos:174.0,Tstd:116.4,Bpos:175.0,Bstd:116.4,StrandBias:0.0,Multiplicity:1.69
+DE  CAGAGGCTGGGA
 P0       A     C     G     T
 1    1450.37 6685.29 2708.11 487.23
 2    5858.13 1778.97 1507.02 2186.88
@@ -134,7 +134,7 @@ AC  homer_5
 XX
 ID  homer_5
 XX
-DE  	5-AGGAAGYTGAAG	5.314765	-1139.125475	0	T:6377.0(69.33%),B:3519.0(35.27%),P:1e-494	Tpos:177.4,Tstd:120.2,Bpos:176.6,Bstd:118.3,StrandBias:-0.1,Multiplicity:1.30
+DE  AGGAAGYTGAAG
 P0       A     C     G     T
 1    4410.28 381.34 1401.01 2097.37
 2    1425.88  8.29 6366.72 489.11
@@ -167,7 +167,7 @@ AC  homer_6
 XX
 ID  homer_6
 XX
-DE  	6-CWGCAGAGCAGG	5.170723	-1087.043030	0	T:7026.0(76.39%),B:4368.0(43.78%),P:1e-472	Tpos:177.7,Tstd:118.5,Bpos:180.0,Bstd:119.0,StrandBias:-0.1,Multiplicity:1.63
+DE  CWGCAGAGCAGG
 P0       A     C     G     T
 1    2164.43 5554.22 2416.37 1316.98
 2    5096.14 11.45 790.19 5554.22
@@ -200,7 +200,7 @@ AC  homer_7
 XX
 ID  homer_7
 XX
-DE  	7-TTGTYATGCAAA	7.382387	-1007.526637	0	T:2541.0(27.63%),B:482.0(4.83%),P:1e-437	Tpos:172.9,Tstd:94.8,Bpos:176.5,Bstd:117.9,StrandBias:-0.1,Multiplicity:1.09
+DE  TTGTYATGCAAA
 P0       A     C     G     T
 1    116.34 337.94 102.49 2213.23
 2    191.13  27.7  2.77 2548.4
@@ -233,7 +233,7 @@ AC  homer_8
 XX
 ID  homer_8
 XX
-DE  	8-WYTYCCAGGRAR	5.577719	-884.158301	0	T:4862.0(52.86%),B:2364.0(23.69%),P:1e-383	Tpos:177.7,Tstd:120.8,Bpos:180.2,Bstd:117.6,StrandBias:0.1,Multiplicity:1.29
+DE  WYTYCCAGGRAR
 P0       A     C     G     T
 1    1636.99 1059.97 1166.59 2414.72
 2    326.14 1806.34 1473.92 2665.6
@@ -266,7 +266,7 @@ AC  homer_9
 XX
 ID  homer_9
 XX
-DE  	9-TBTBTBTBTBTK	5.411678	-797.284956	0	T:5003.0(54.39%),B:2633.0(26.39%),P:1e-346	Tpos:189.8,Tstd:129.4,Bpos:172.9,Bstd:116.3,StrandBias:0.0,Multiplicity:1.61
+DE  TBTBTBTBTBTK
 P0       A     C     G     T
 1    354.42 306.09 475.24 6919.24
 2    64.44 2158.74 2698.43 3133.39
@@ -299,7 +299,7 @@ AC  homer_10
 XX
 ID  homer_10
 XX
-DE  	10-DGCHCWGDGCWK	5.328319	-781.625834	0	T:5686.0(61.82%),B:3347.0(33.55%),P:1e-339	Tpos:177.6,Tstd:118.2,Bpos:180.9,Bstd:118.9,StrandBias:-0.0,Multiplicity:1.36
+DE  DGCHCWGDGCWK
 P0       A     C     G     T
 1    2652.42 371.18 2389.5 2319.9
 2    1214.08 1136.75 4206.75 1175.42
@@ -332,7 +332,7 @@ AC  homer_11
 XX
 ID  homer_11
 XX
-DE  	11-WAGAACAAAGGN	6.624259	-755.022810	0	T:3096.0(33.66%),B:1083.0(10.85%),P:1e-327	Tpos:169.2,Tstd:109.1,Bpos:180.4,Bstd:119.3,StrandBias:0.1,Multiplicity:1.11
+DE  WAGAACAAAGGN
 P0       A     C     G     T
 1    1240.76 673.65 680.53 842.06
 2    2502.14 30.93 391.82 512.11
@@ -365,7 +365,7 @@ AC  homer_12
 XX
 ID  homer_12
 XX
-DE  	12-WGCWGCWGCWGC	-4.823374	-594.529632	0	T:4090.0(44.47%),B:2129.0(21.34%),P:1e-258	Tpos:174.7,Tstd:116.4,Bpos:172.5,Bstd:117.9,StrandBias:-0.0,Multiplicity:1.47
+DE  WGCWGCWGCWGC
 P0       A     C     G     T
 1    3360.71  6.01  6.01 2639.27
 2     6.01  6.01 5993.96  6.01
@@ -398,7 +398,7 @@ AC  homer_13
 XX
 ID  homer_13
 XX
-DE  	13-CCCCCCCCCCCC	5.220548	-525.276798	0	T:4974.0(54.08%),B:3105.0(31.12%),P:1e-228	Tpos:179.6,Tstd:119.5,Bpos:165.8,Bstd:113.5,StrandBias:-0.0,Multiplicity:1.52
+DE  CCCCCCCCCCCC
 P0       A     C     G     T
 1    899.64 5549.04 468.72 642.6
 2    771.12 5995.08  7.56 786.24
@@ -431,7 +431,7 @@ AC  homer_14
 XX
 ID  homer_14
 XX
-DE  	14-ARDNTGACCTTG	6.977987	-497.527709	0	T:2270.0(24.68%),B:819.0(8.21%),P:1e-216	Tpos:174.4,Tstd:116.2,Bpos:173.9,Bstd:119.3,StrandBias:-0.0,Multiplicity:1.11
+DE  ARDNTGACCTTG
 P0       A     C     G     T
 1    1262.52 234.36 299.88 723.24
 2    806.4 277.2 975.24 461.16
@@ -464,7 +464,7 @@ AC  homer_15
 XX
 ID  homer_15
 XX
-DE  	15-AGAAATGCAAAT	8.065483	-360.663157	0	T:1058.0(11.50%),B:219.0(2.20%),P:1e-156	Tpos:170.7,Tstd:102.4,Bpos:177.9,Bstd:106.8,StrandBias:0.1,Multiplicity:1.05
+DE  AGAAATGCAAAT
 P0       A     C     G     T
 1    604.38 38.89 231.09 236.64
 2    265.53 232.2 449.96 163.32
@@ -497,7 +497,7 @@ AC  homer_16
 XX
 ID  homer_16
 XX
-DE  	16-VTGCGCATGCGC	9.896785	-219.851694	0	T:493.0(5.36%),B:60.0(0.60%),P:1e-95	Tpos:158.8,Tstd:105.1,Bpos:141.6,Bstd:97.0,StrandBias:0.0,Multiplicity:1.18
+DE  VTGCGCATGCGC
 P0       A     C     G     T
 1    118.73 173.44 194.97 94.87
 2    42.49 154.23 111.16 274.12
@@ -530,7 +530,7 @@ AC  homer_17
 XX
 ID  homer_17
 XX
-DE  	17-TRCATATGCAYA	8.281832	-194.042928	0	T:732.0(7.96%),B:202.0(2.02%),P:1e-84	Tpos:179.4,Tstd:107.4,Bpos:172.8,Bstd:113.1,StrandBias:-0.0,Multiplicity:1.17
+DE  TRCATATGCAYA
 P0       A     C     G     T
 1    107.86 136.96  0.86 610.33
 2    382.63 20.54 421.15 30.82
@@ -563,7 +563,7 @@ AC  homer_18
 XX
 ID  homer_18
 XX
-DE  	18-BKGAGGCAGASK	9.273393	-127.986946	0	T:404.0(4.39%),B:89.0(0.89%),P:1e-55	Tpos:185.6,Tstd:126.2,Bpos:172.2,Bstd:99.8,StrandBias:0.1,Multiplicity:1.00
+DE  BKGAGGCAGASK
 P0       A     C     G     T
 1    11.72 131.7 147.86 112.72
 2    82.42 35.15   162 124.43
@@ -596,7 +596,7 @@ AC  homer_19
 XX
 ID  homer_19
 XX
-DE  	19-GGCGGCGGCGGC	9.509267	-84.696277	0	T:567.0(6.16%),B:247.0(2.48%),P:1e-36	Tpos:168.4,Tstd:118.6,Bpos:156.7,Bstd:100.4,StrandBias:0.1,Multiplicity:1.13
+DE  GGCGGCGGCGGC
 P0       A     C     G     T
 1     0.64  89.1 550.62  0.64
 2    42.95  0.64 596.77  0.64
@@ -629,7 +629,7 @@ AC  homer_20
 XX
 ID  homer_20
 XX
-DE  	20-TRAATAAATGAA	10.373595	-38.380536	0	T:146.0(1.59%),B:41.0(0.41%),P:1e-16	Tpos:178.0,Tstd:118.7,Bpos:171.5,Bstd:97.1,StrandBias:-0.3,Multiplicity:1.04
+DE  TRAATAAATGAA
 P0       A     C     G     T
 1    22.19  0.15 16.42 113.24
 2     83.9  5.32 62.62  0.15
