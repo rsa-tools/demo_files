@@ -1,6 +1,6 @@
-AC  MEME_ChIP_0
+AC  MEME_ChIP_1
 XX
-ID  MEME_ChIP_0
+ID  MEME_ChIP_1
 XX
 DE  ATGYwAA
 P0       A     C     G     T
@@ -14,9 +14,9 @@ P0       A     C     G     T
 XX
 CC  program: meme
 CC  matrix.nb: 1
-CC  id: MEME_ChIP_0
-CC  ac: MEME_ChIP_0
-CC  name: MEME_ChIP_0
+CC  id: convert-matrix_2015-09-24.093426_nMSBIP_input_m1
+CC  ac: 
+CC  name: convert-matrix_2015-09-24.093426_nMSBIP_input_m1
 CC  sites: 1856
 CC  meme.E-value: 4.3e-209
 CC  matrix.nb: 1
@@ -26,44 +26,6 @@ CC  consensus.IUPAC: ATGYwAA
 CC  consensus.IUPAC.rc: TTWRCAT
 CC  consensus.regexp: ATG[CT][at]AA
 CC  consensus.regexp.rc: TT[AT][AG]CAT
-XX
-//
-AC  MEME_ChIP_1
-XX
-ID  MEME_ChIP_1
-XX
-DE  ywTTswtATGCwaAt
-P0       A     C     G     T
-1       17    66     7    47
-2       81     4     2    50
-3        3     6     3   125
-4        4     0    20   113
-5       17    47    65     8
-6       52     0     7    78
-7       21    27    19    70
-8      124     0     1    12
-9        1     1     0   135
-10       4     0   115    18
-11       1   102     1    33
-12      88     1     9    39
-13      87     5    19    26
-14     128     0     4     5
-15      23    13    12    89
-XX
-CC  program: meme
-CC  matrix.nb: 2
-CC  id: MEME_ChIP_1
-CC  ac: MEME_ChIP_1
-CC  name: MEME_ChIP_1
-CC  sites: 137
-CC  meme.E-value: 1.2e-123
-CC  matrix.nb: 2
-CC  consensus.strict: caTTgttATGCaaAt
-CC  consensus.strict.rc: ATTTGCATAACAATG
-CC  consensus.IUPAC: ywTTswtATGCwaAt
-CC  consensus.IUPAC.rc: ATTWGCATAWSAAWR
-CC  consensus.regexp: [ct][at]TT[cg][at]tATGC[at]aAt
-CC  consensus.regexp.rc: ATT[AT]GCATA[AT][CG]AA[AT][AG]
 XX
 //
 AC  MEME_ChIP_2
@@ -83,9 +45,9 @@ P0       A     C     G     T
 XX
 CC  program: meme
 CC  matrix.nb: 3
-CC  id: MEME_ChIP_2
-CC  ac: MEME_ChIP_2
-CC  name: MEME_ChIP_2
+CC  id: 2
+CC  ac: 2
+CC  name: 2
 CC  sites: 1298
 CC  meme.E-value: 3.1e-085
 CC  matrix.nb: 3
@@ -114,9 +76,9 @@ P0       A     C     G     T
 XX
 CC  program: meme
 CC  matrix.nb: 4
-CC  id: MEME_ChIP_3
-CC  ac: MEME_ChIP_3
-CC  name: MEME_ChIP_3
+CC  id: 3
+CC  ac: 3
+CC  name: 3
 CC  sites: 752
 CC  meme.E-value: 6.0e-082
 CC  matrix.nb: 4
@@ -143,9 +105,9 @@ P0       A     C     G     T
 XX
 CC  program: meme
 CC  matrix.nb: 5
-CC  id: MEME_ChIP_4
-CC  ac: MEME_ChIP_4
-CC  name: MEME_ChIP_4
+CC  id: 4
+CC  ac: 4
+CC  name: 4
 CC  sites: 5320
 CC  meme.E-value: 8.7e-060
 CC  matrix.nb: 5
@@ -161,66 +123,6 @@ AC  MEME_ChIP_5
 XX
 ID  MEME_ChIP_5
 XX
-DE  TGmATAw
-P0       A     C     G     T
-1        0     0     0   827
-2        0     0   827     0
-3      351   476     0     0
-4      827     0     0     0
-5        0     0     0   827
-6      827     0     0     0
-7      421     0     0   406
-XX
-CC  program: meme
-CC  matrix.nb: 6
-CC  id: MEME_ChIP_5
-CC  ac: MEME_ChIP_5
-CC  name: MEME_ChIP_5
-CC  sites: 827
-CC  meme.E-value: 1.7e-053
-CC  matrix.nb: 6
-CC  consensus.strict: TGcATAa
-CC  consensus.strict.rc: TTATGCA
-CC  consensus.IUPAC: TGmATAw
-CC  consensus.IUPAC.rc: WTATKCA
-CC  consensus.regexp: TG[ac]ATA[at]
-CC  consensus.regexp.rc: [AT]TAT[GT]CA
-XX
-//
-AC  MEME_ChIP_6
-XX
-ID  MEME_ChIP_6
-XX
-DE  ACAAwrG
-P0       A     C     G     T
-1     1002     0     0     0
-2        0  1002     0     0
-3     1002     0     0     0
-4     1002     0     0     0
-5      651     0     0   351
-6      440     0   562     0
-7        0     0  1002     0
-XX
-CC  program: meme
-CC  matrix.nb: 7
-CC  id: MEME_ChIP_6
-CC  ac: MEME_ChIP_6
-CC  name: MEME_ChIP_6
-CC  sites: 1002
-CC  meme.E-value: 4.1e-039
-CC  matrix.nb: 7
-CC  consensus.strict: ACAAagG
-CC  consensus.strict.rc: CCTTTGT
-CC  consensus.IUPAC: ACAAwrG
-CC  consensus.IUPAC.rc: CYWTTGT
-CC  consensus.regexp: ACAA[at][ag]G
-CC  consensus.regexp.rc: C[CT][AT]TTGT
-XX
-//
-AC  MEME_ChIP_7
-XX
-ID  MEME_ChIP_7
-XX
 DE  TGCGCAkr
 P0       A     C     G     T
 1        0     0     0   307
@@ -234,9 +136,9 @@ P0       A     C     G     T
 XX
 CC  program: meme
 CC  matrix.nb: 8
-CC  id: MEME_ChIP_7
-CC  ac: MEME_ChIP_7
-CC  name: MEME_ChIP_7
+CC  id: 7
+CC  ac: 7
+CC  name: 7
 CC  sites: 307
 CC  meme.E-value: 2.6e-037
 CC  matrix.nb: 8
@@ -248,9 +150,9 @@ CC  consensus.regexp: TGCGCA[gt][ag]
 CC  consensus.regexp.rc: [CT][AC]TGCGCA
 XX
 //
-AC  MEME_ChIP_8
+AC  MEME_ChIP_6
 XX
-ID  MEME_ChIP_8
+ID  MEME_ChIP_6
 XX
 DE  CAAGGTCA
 P0       A     C     G     T
@@ -265,9 +167,9 @@ P0       A     C     G     T
 XX
 CC  program: meme
 CC  matrix.nb: 9
-CC  id: MEME_ChIP_8
-CC  ac: MEME_ChIP_8
-CC  name: MEME_ChIP_8
+CC  id: 8
+CC  ac: 8
+CC  name: 8
 CC  sites: 236
 CC  meme.E-value: 2.3e-024
 CC  matrix.nb: 9
@@ -279,9 +181,9 @@ CC  consensus.regexp: CAAGGTCA
 CC  consensus.regexp.rc: TGACCTTG
 XX
 //
-AC  MEME_ChIP_9
+AC  MEME_ChIP_7
 XX
-ID  MEME_ChIP_9
+ID  MEME_ChIP_7
 XX
 DE  CwGGrA
 P0       A     C     G     T
@@ -294,9 +196,9 @@ P0       A     C     G     T
 XX
 CC  program: meme
 CC  matrix.nb: 10
-CC  id: MEME_ChIP_9
-CC  ac: MEME_ChIP_9
-CC  name: MEME_ChIP_9
+CC  id: 9
+CC  ac: 9
+CC  name: 9
 CC  sites: 3566
 CC  meme.E-value: 1.4e-023
 CC  matrix.nb: 10
@@ -308,9 +210,9 @@ CC  consensus.regexp: C[at]GG[ag]A
 CC  consensus.regexp.rc: T[CT]CC[AT]G
 XX
 //
-AC  MEME_ChIP_10
+AC  MEME_ChIP_8
 XX
-ID  MEME_ChIP_10
+ID  MEME_ChIP_8
 XX
 DE  CCkCCkCC
 P0       A     C     G     T
@@ -325,9 +227,9 @@ P0       A     C     G     T
 XX
 CC  program: meme
 CC  matrix.nb: 11
-CC  id: MEME_ChIP_10
-CC  ac: MEME_ChIP_10
-CC  name: MEME_ChIP_10
+CC  id: 10
+CC  ac: 10
+CC  name: 10
 CC  sites: 714
 CC  meme.E-value: 3.8e-023
 CC  matrix.nb: 11
@@ -339,284 +241,150 @@ CC  consensus.regexp: CC[gt]CC[gt]CC
 CC  consensus.regexp.rc: GG[AC]GG[AC]GG
 XX
 //
+AC  MEME_ChIP_9
+XX
+ID  MEME_ChIP_9
+XX
+DE  CCCCwCCyCCm
+P0       A     C     G     T
+1        1    57     0     0
+2        0    57     0     1
+3        0    58     0     0
+4        8    45     5     0
+5       38     1     2    17
+6        0    58     0     0
+7        0    57     1     0
+8        0    35     3    20
+9        0    47     3     8
+10       0    41     6    11
+11      30    25     3     0
+XX
+CC  program: meme
+CC  matrix.nb: 12
+CC  id: 11
+CC  ac: 11
+CC  name: 11
+CC  sites: 58
+CC  meme.E-value: 2.8e-013
+CC  matrix.nb: 12
+CC  consensus.strict: CCCCaCCcCCa
+CC  consensus.strict.rc: TGGGGGTGGGG
+CC  consensus.IUPAC: CCCCwCCyCCm
+CC  consensus.IUPAC.rc: KGGRGGWGGGG
+CC  consensus.regexp: CCCC[at]CC[ct]CC[ac]
+CC  consensus.regexp.rc: [GT]GG[AG]GG[AT]GGGG
+XX
+//
+AC  MEME_ChIP_10
+XX
+ID  MEME_ChIP_10
+XX
+DE  ywTTswyATGCAaAt
+P0       A     C     G     T
+1       63   847    66   390
+2      579    58    28   701
+3       11    50    36  1269
+4       47    12    79  1228
+5      118   362   823    63
+6      414    18    29   905
+7      206   364   186   611
+8     1232    30    24    80
+9       17     5    15  1329
+10      10    16  1236   104
+11      14  1027   129   196
+12    1051    16    30   269
+13     890    68   316    92
+14    1204    33    75    53
+15     199   119   208   840
+XX
+CC  program: meme
+CC  matrix.nb: 13
+CC  id: 12
+CC  ac: 12
+CC  name: 12
+CC  sites: 1366
+CC  meme.E-value: 0.0e+000
+CC  matrix.nb: 13
+CC  consensus.strict: ctTTgttATGCAaAt
+CC  consensus.strict.rc: ATTTGCATAACAAAG
+CC  consensus.IUPAC: ywTTswyATGCAaAt
+CC  consensus.IUPAC.rc: ATTTGCATRWSAAWR
+CC  consensus.regexp: [ct][at]TT[cg][at][ct]ATGCAaAt
+CC  consensus.regexp.rc: ATTTGCAT[AG][AT][CG]AA[AT][AG]
+XX
+//
 AC  MEME_ChIP_11
 XX
 ID  MEME_ChIP_11
 XX
-DE  CACGTGrb
+DE  wtATGcwAATt
 P0       A     C     G     T
-1        0   215     0     0
-2      215     0     0     0
-3        0   215     0     0
-4        0     0   215     0
-5        0     0     0   215
-6        0     0   215     0
-7      113     0   102     0
-8        0    83    76    56
+1        8     2     4     6
+2        2     3     1    14
+3       20     0     0     0
+4        0     1     0    18
+5        0     0    17     2
+6        1    13     2     4
+7       13     0     0     7
+8       16     0     2     2
+9       19     0     0     1
+10       3     1     2    15
+11       4     4     5     8
 XX
 CC  program: meme
-CC  matrix.nb: 12
-CC  id: MEME_ChIP_11
-CC  ac: MEME_ChIP_11
-CC  name: MEME_ChIP_11
-CC  sites: 215
-CC  meme.E-value: 2.0e-019
-CC  matrix.nb: 12
-CC  consensus.strict: CACGTGac
-CC  consensus.strict.rc: GTCACGTG
-CC  consensus.IUPAC: CACGTGrb
-CC  consensus.IUPAC.rc: VYCACGTG
-CC  consensus.regexp: CACGTG[ag][cgt]
-CC  consensus.regexp.rc: [ACG][CT]CACGTG
+CC  matrix.nb: 14
+CC  id: 13
+CC  ac: 13
+CC  name: 13
+CC  sites: 20
+CC  meme.E-value: 0.0e+000
+CC  matrix.nb: 14
+CC  consensus.strict: atATGcaAATt
+CC  consensus.strict.rc: AATTTGCATAT
+CC  consensus.IUPAC: wtATGcwAATt
+CC  consensus.IUPAC.rc: AATTWGCATAW
+CC  consensus.regexp: [at]tATGc[at]AATt
+CC  consensus.regexp.rc: AATT[AT]GCATA[AT]
 XX
 //
 AC  MEME_ChIP_12
 XX
 ID  MEME_ChIP_12
 XX
-DE  AsAmAG
+DE  awTATGcwAATk
 P0       A     C     G     T
-1     3036     0     0     0
-2        0  1446  1590     0
-3     3036     0     0     0
-4     1587  1449     0     0
-5     3036     0     0     0
-6        0     0  3036     0
+1       10     4     3     4
+2        8     2     3     8
+3        1     2     1    16
+4       20     0     0     0
+5        0     1     0    18
+6        0     0    17     2
+7        0    14     2     4
+8       13     0     0     7
+9       17     0     1     1
+10      19     0     0     0
+11       2     1     1    16
+12       4     3     5     8
 XX
 CC  program: meme
-CC  matrix.nb: 13
-CC  id: MEME_ChIP_12
-CC  ac: MEME_ChIP_12
-CC  name: MEME_ChIP_12
-CC  sites: 3036
-CC  meme.E-value: 1.8e-016
-CC  matrix.nb: 13
-CC  consensus.strict: AgAaAG
-CC  consensus.strict.rc: CTTTCT
-CC  consensus.IUPAC: AsAmAG
-CC  consensus.IUPAC.rc: CTKTST
-CC  consensus.regexp: A[cg]A[ac]AG
-CC  consensus.regexp.rc: CT[GT]T[CG]T
+CC  matrix.nb: 15
+CC  id: 14
+CC  ac: 14
+CC  name: 14
+CC  sites: 20
+CC  meme.E-value: 0.0e+000
+CC  matrix.nb: 15
+CC  consensus.strict: aaTATGcaAATt
+CC  consensus.strict.rc: AATTTGCATATT
+CC  consensus.IUPAC: awTATGcwAATk
+CC  consensus.IUPAC.rc: MATTWGCATAWT
+CC  consensus.regexp: a[at]TATGc[at]AAT[gt]
+CC  consensus.regexp.rc: [AC]ATT[AT]GCATA[AT]T
 XX
 //
 AC  MEME_ChIP_13
 XX
 ID  MEME_ChIP_13
-XX
-DE  TTTrAATr
-P0       A     C     G     T
-1        0     0     0   199
-2        0     0     0   199
-3        0     0     0   199
-4       76     0   123     0
-5      199     0     0     0
-6      199     0     0     0
-7        0     0     0   199
-8       70     0   129     0
-XX
-CC  program: meme
-CC  matrix.nb: 14
-CC  id: MEME_ChIP_13
-CC  ac: MEME_ChIP_13
-CC  name: MEME_ChIP_13
-CC  sites: 199
-CC  meme.E-value: 1.4e-014
-CC  matrix.nb: 14
-CC  consensus.strict: TTTgAATg
-CC  consensus.strict.rc: CATTCAAA
-CC  consensus.IUPAC: TTTrAATr
-CC  consensus.IUPAC.rc: YATTYAAA
-CC  consensus.regexp: TTT[ag]AAT[ag]
-CC  consensus.regexp.rc: [CT]ATT[CT]AAA
-XX
-//
-AC  MEME_ChIP_14
-XX
-ID  MEME_ChIP_14
-XX
-DE  CGCAYGCG
-P0       A     C     G     T
-1        0   125     0     0
-2        0     0   125     0
-3        0   125     0     0
-4      125     0     0     0
-5        0    86     0    39
-6        0     0   125     0
-7        0   125     0     0
-8        0     0   125     0
-XX
-CC  program: meme
-CC  matrix.nb: 15
-CC  id: MEME_ChIP_14
-CC  ac: MEME_ChIP_14
-CC  name: MEME_ChIP_14
-CC  sites: 125
-CC  meme.E-value: 3.5e-011
-CC  matrix.nb: 15
-CC  consensus.strict: CGCACGCG
-CC  consensus.strict.rc: CGCGTGCG
-CC  consensus.IUPAC: CGCAYGCG
-CC  consensus.IUPAC.rc: CGCRTGCG
-CC  consensus.regexp: CGCA[CT]GCG
-CC  consensus.regexp.rc: CGC[AG]TGCG
-XX
-//
-AC  MEME_ChIP_15
-XX
-ID  MEME_ChIP_15
-XX
-DE  CTCCdCCC
-P0       A     C     G     T
-1        0   346     0     0
-2        0     0     0   346
-3        0   346     0     0
-4        0   346     0     0
-5      119     0   126   101
-6        0   346     0     0
-7        0   346     0     0
-8        0   346     0     0
-XX
-CC  program: meme
-CC  matrix.nb: 16
-CC  id: MEME_ChIP_15
-CC  ac: MEME_ChIP_15
-CC  name: MEME_ChIP_15
-CC  sites: 346
-CC  meme.E-value: 4.2e-011
-CC  matrix.nb: 16
-CC  consensus.strict: CTCCgCCC
-CC  consensus.strict.rc: GGGCGGAG
-CC  consensus.IUPAC: CTCCdCCC
-CC  consensus.IUPAC.rc: GGGHGGAG
-CC  consensus.regexp: CTCC[agt]CCC
-CC  consensus.regexp.rc: GGG[ACT]GGAG
-XX
-//
-AC  MEME_ChIP_16
-XX
-ID  MEME_ChIP_16
-XX
-DE  GAATrvA
-P0       A     C     G     T
-1        0     0   631     0
-2      631     0     0     0
-3      631     0     0     0
-4        0     0     0   631
-5      207     0   424     0
-6      188   214   229     0
-7      631     0     0     0
-XX
-CC  program: meme
-CC  matrix.nb: 17
-CC  id: MEME_ChIP_16
-CC  ac: MEME_ChIP_16
-CC  name: MEME_ChIP_16
-CC  sites: 631
-CC  meme.E-value: 6.4e-011
-CC  matrix.nb: 17
-CC  consensus.strict: GAATggA
-CC  consensus.strict.rc: TCCATTC
-CC  consensus.IUPAC: GAATrvA
-CC  consensus.IUPAC.rc: TBYATTC
-CC  consensus.regexp: GAAT[ag][acg]A
-CC  consensus.regexp.rc: T[CGT][CT]ATTC
-XX
-//
-AC  MEME_ChIP_17
-XX
-ID  MEME_ChIP_17
-XX
-DE  ATCTRCAT
-P0       A     C     G     T
-1      129     0     0     0
-2        0     0     0   129
-3        0   129     0     0
-4        0     0     0   129
-5       36     0    93     0
-6        0   129     0     0
-7      129     0     0     0
-8        0     0     0   129
-XX
-CC  program: meme
-CC  matrix.nb: 18
-CC  id: MEME_ChIP_17
-CC  ac: MEME_ChIP_17
-CC  name: MEME_ChIP_17
-CC  sites: 129
-CC  meme.E-value: 3.2e-008
-CC  matrix.nb: 18
-CC  consensus.strict: ATCTGCAT
-CC  consensus.strict.rc: ATGCAGAT
-CC  consensus.IUPAC: ATCTRCAT
-CC  consensus.IUPAC.rc: ATGYAGAT
-CC  consensus.regexp: ATCT[AG]CAT
-CC  consensus.regexp.rc: ATG[CT]AGAT
-XX
-//
-AC  MEME_ChIP_18
-XX
-ID  MEME_ChIP_18
-XX
-DE  TGACGTCA
-P0       A     C     G     T
-1        0     0     0    42
-2        0     0    42     0
-3       42     0     0     0
-4        0    42     0     0
-5        0     0    42     0
-6        0     0     0    42
-7        0    42     0     0
-8       42     0     0     0
-XX
-CC  program: meme
-CC  matrix.nb: 19
-CC  id: MEME_ChIP_18
-CC  ac: MEME_ChIP_18
-CC  name: MEME_ChIP_18
-CC  sites: 42
-CC  meme.E-value: 2.0e-007
-CC  matrix.nb: 19
-CC  consensus.strict: TGACGTCA
-CC  consensus.strict.rc: TGACGTCA
-CC  consensus.IUPAC: TGACGTCA
-CC  consensus.IUPAC.rc: TGACGTCA
-CC  consensus.regexp: TGACGTCA
-CC  consensus.regexp.rc: TGACGTCA
-XX
-//
-AC  MEME_ChIP_19
-XX
-ID  MEME_ChIP_19
-XX
-DE  ATTTvCA
-P0       A     C     G     T
-1      370     0     0     0
-2        0     0     0   370
-3        0     0     0   370
-4        0     0     0   370
-5      107   103   160     0
-6        0   370     0     0
-7      370     0     0     0
-XX
-CC  program: meme
-CC  matrix.nb: 20
-CC  id: MEME_ChIP_19
-CC  ac: MEME_ChIP_19
-CC  name: MEME_ChIP_19
-CC  sites: 370
-CC  meme.E-value: 5.8e-006
-CC  matrix.nb: 20
-CC  consensus.strict: ATTTgCA
-CC  consensus.strict.rc: TGCAAAT
-CC  consensus.IUPAC: ATTTvCA
-CC  consensus.IUPAC.rc: TGBAAAT
-CC  consensus.regexp: ATTT[acg]CA
-CC  consensus.regexp.rc: TG[CGT]AAAT
-XX
-//
-AC  MEME_ChIP_20
-XX
-ID  MEME_ChIP_20
 XX
 DE  twkTATGCWAATkmrm
 P0       A     C     G     T
@@ -638,13 +406,13 @@ P0       A     C     G     T
 16       8     5     4     3
 XX
 CC  program: meme
-CC  matrix.nb: 21
-CC  id: MEME_ChIP_20
-CC  ac: MEME_ChIP_20
-CC  name: MEME_ChIP_20
+CC  matrix.nb: 16
+CC  id: 15
+CC  ac: 15
+CC  name: 15
 CC  sites: 20
 CC  meme.E-value: 0.0e+000
-CC  matrix.nb: 21
+CC  matrix.nb: 16
 CC  consensus.strict: ttgTATGCAAATtaga
 CC  consensus.strict.rc: TCTAATTTGCATACAA
 CC  consensus.IUPAC: twkTATGCWAATkmrm
@@ -653,70 +421,9 @@ CC  consensus.regexp: t[at][gt]TATGC[AT]AAT[gt][ac][ag][ac]
 CC  consensus.regexp.rc: [GT][CT][GT][AC]ATT[AT]GCATA[AC][AT]A
 XX
 //
-AC  MEME_ChIP_21
+AC  MEME_ChIP_14
 XX
-ID  MEME_ChIP_21
-XX
-DE  ACACACmC
-P0       A     C     G     T
-1      191     0     0     0
-2        0   191     0     0
-3      191     0     0     0
-4        0   191     0     0
-5      191     0     0     0
-6        0   191     0     0
-7      129    62     0     0
-8        0   191     0     0
-XX
-CC  program: meme
-CC  matrix.nb: 22
-CC  id: MEME_ChIP_21
-CC  ac: MEME_ChIP_21
-CC  name: MEME_ChIP_21
-CC  sites: 191
-CC  meme.E-value: 3.9e-005
-CC  matrix.nb: 22
-CC  consensus.strict: ACACACaC
-CC  consensus.strict.rc: GTGTGTGT
-CC  consensus.IUPAC: ACACACmC
-CC  consensus.IUPAC.rc: GKGTGTGT
-CC  consensus.regexp: ACACAC[ac]C
-CC  consensus.regexp.rc: G[GT]GTGTGT
-XX
-//
-AC  MEME_ChIP_22
-XX
-ID  MEME_ChIP_22
-XX
-DE  TTGTTTw
-P0       A     C     G     T
-1        0     0     0   325
-2        0     0     0   325
-3        0     0   325     0
-4        0     0     0   325
-5        0     0     0   325
-6        0     0     0   325
-7      109     0     0   216
-XX
-CC  program: meme
-CC  matrix.nb: 23
-CC  id: MEME_ChIP_22
-CC  ac: MEME_ChIP_22
-CC  name: MEME_ChIP_22
-CC  sites: 325
-CC  meme.E-value: 1.1e-004
-CC  matrix.nb: 23
-CC  consensus.strict: TTGTTTt
-CC  consensus.strict.rc: AAAACAA
-CC  consensus.IUPAC: TTGTTTw
-CC  consensus.IUPAC.rc: WAAACAA
-CC  consensus.regexp: TTGTTT[at]
-CC  consensus.regexp.rc: [AT]AAACAA
-XX
-//
-AC  MEME_ChIP_23
-XX
-ID  MEME_ChIP_23
+ID  MEME_ChIP_14
 XX
 DE  ywdTATGCWAATkarm
 P0       A     C     G     T
@@ -738,13 +445,13 @@ P0       A     C     G     T
 16       8     5     4     3
 XX
 CC  program: meme
-CC  matrix.nb: 24
-CC  id: MEME_ChIP_23
-CC  ac: MEME_ChIP_23
-CC  name: MEME_ChIP_23
+CC  matrix.nb: 17
+CC  id: 16
+CC  ac: 16
+CC  name: 16
 CC  sites: 20
 CC  meme.E-value: 0.0e+000
-CC  matrix.nb: 24
+CC  matrix.nb: 17
 CC  consensus.strict: ttgTATGCAAATtaaa
 CC  consensus.strict.rc: TTTAATTTGCATACAA
 CC  consensus.IUPAC: ywdTATGCWAATkarm
@@ -753,69 +460,359 @@ CC  consensus.regexp: [ct][at][agt]TATGC[AT]AAT[gt]a[ag][ac]
 CC  consensus.regexp.rc: [GT][CT]T[AC]ATT[AT]GCATA[ACT][AT][AG]
 XX
 //
+AC  MEME_ChIP_15
+XX
+ID  MEME_ChIP_15
+XX
+DE  TATGCAAAT
+P0       A     C     G     T
+1        0     0     0    19
+2       20     0     0     0
+3        0     0     0    20
+4        0     0    18     2
+5        0    18     0     2
+6       16     0     0     4
+7       18     0     0     2
+8       20     0     0     0
+9        2     0     0    18
+XX
+CC  program: meme
+CC  matrix.nb: 18
+CC  id: 17
+CC  ac: 17
+CC  name: 17
+CC  sites: 20
+CC  meme.E-value: 0.0e+000
+CC  matrix.nb: 18
+CC  consensus.strict: TATGCAAAT
+CC  consensus.strict.rc: ATTTGCATA
+CC  consensus.IUPAC: TATGCAAAT
+CC  consensus.IUPAC.rc: ATTTGCATA
+CC  consensus.regexp: TATGCAAAT
+CC  consensus.regexp.rc: ATTTGCATA
+XX
+//
+AC  MEME_ChIP_16
+XX
+ID  MEME_ChIP_16
+XX
+DE  wTATGywAATkw
+P0       A     C     G     T
+1        7     1     2    10
+2        3     1     1    15
+3       19     0     0     0
+4        0     0     0    19
+5        0     0    18     2
+6        1    12     2     5
+7       11     0     0     8
+8       16     1     1     2
+9       19     0     0     1
+10       2     1     1    17
+11       3     2     5     9
+12       9     3     3     6
+XX
+CC  program: meme
+CC  matrix.nb: 19
+CC  id: 18
+CC  ac: 18
+CC  name: 18
+CC  sites: 20
+CC  meme.E-value: 0.0e+000
+CC  matrix.nb: 19
+CC  consensus.strict: tTATGcaAATta
+CC  consensus.strict.rc: TAATTTGCATAA
+CC  consensus.IUPAC: wTATGywAATkw
+CC  consensus.IUPAC.rc: WMATTWRCATAW
+CC  consensus.regexp: [at]TATG[ct][at]AAT[gt][at]
+CC  consensus.regexp.rc: [AT][AC]ATT[AT][AG]CATA[AT]
+XX
+//
+AC  MEME_ChIP_17
+XX
+ID  MEME_ChIP_17
+XX
+DE  wwTATGcwAATtw
+P0       A     C     G     T
+1       11     1     3     5
+2        7     1     2    10
+3        2     1     1    16
+4       19     0     0     1
+5        0     1     1    18
+6        0     0    18     1
+7        0    14     2     4
+8        9     0     0    11
+9       17     0     1     1
+10      19     0     0     0
+11       1     0     0    18
+12       3     2     3    13
+13       8     1     2     8
+XX
+CC  program: meme
+CC  matrix.nb: 20
+CC  id: 19
+CC  ac: 19
+CC  name: 19
+CC  sites: 20
+CC  meme.E-value: 0.0e+000
+CC  matrix.nb: 20
+CC  consensus.strict: atTATGctAATta
+CC  consensus.strict.rc: TAATTAGCATAAT
+CC  consensus.IUPAC: wwTATGcwAATtw
+CC  consensus.IUPAC.rc: WAATTWGCATAWW
+CC  consensus.regexp: [at][at]TATGc[at]AATt[at]
+CC  consensus.regexp.rc: [AT]AATT[AT]GCATA[AT][AT]
+XX
+//
+AC  MEME_ChIP_18
+XX
+ID  MEME_ChIP_18
+XX
+DE  wTATGcwAATkw
+P0       A     C     G     T
+1        8     1     2     9
+2        2     1     1    17
+3       19     0     0     0
+4        0     0     0    19
+5        0     0    19     1
+6        1    14     2     4
+7       11     0     0     9
+8       19     0     0     1
+9       20     0     0     0
+10       1     0     0    18
+11       2     2     6    11
+12      11     2     2     5
+XX
+CC  program: meme
+CC  matrix.nb: 21
+CC  id: 20
+CC  ac: 20
+CC  name: 20
+CC  sites: 20
+CC  meme.E-value: 0.0e+000
+CC  matrix.nb: 21
+CC  consensus.strict: tTATGcaAATta
+CC  consensus.strict.rc: TAATTTGCATAA
+CC  consensus.IUPAC: wTATGcwAATkw
+CC  consensus.IUPAC.rc: WMATTWGCATAW
+CC  consensus.regexp: [at]TATGc[at]AAT[gt][at]
+CC  consensus.regexp.rc: [AT][AC]ATT[AT]GCATA[AT]
+XX
+//
+AC  MEME_ChIP_19
+XX
+ID  MEME_ChIP_19
+XX
+DE  awTATGcwAATkAg
+P0       A     C     G     T
+1       11     2     3     4
+2        9     1     2     8
+3        2     1     1    16
+4       19     0     0     0
+5        0     1     0    19
+6        0     0    18     2
+7        1    14     1     4
+8       12     0     0     8
+9       18     0     1     1
+10      20     0     0     0
+11       1     0     0    19
+12       2     2     6    10
+13      15     1     1     2
+14       4     2    11     3
+XX
+CC  program: meme
+CC  matrix.nb: 22
+CC  id: 21
+CC  ac: 21
+CC  name: 21
+CC  sites: 20
+CC  meme.E-value: 0.0e+000
+CC  matrix.nb: 22
+CC  consensus.strict: aaTATGcaAATtAg
+CC  consensus.strict.rc: CTAATTTGCATATT
+CC  consensus.IUPAC: awTATGcwAATkAg
+CC  consensus.IUPAC.rc: CTMATTWGCATAWT
+CC  consensus.regexp: a[at]TATGc[at]AAT[gt]Ag
+CC  consensus.regexp.rc: CT[AC]ATT[AT]GCATA[AT]T
+XX
+//
+AC  MEME_ChIP_20
+XX
+ID  MEME_ChIP_20
+XX
+DE  TATGCwAAT
+P0       A     C     G     T
+1        2     1     0    18
+2       20     0     0     0
+3        0     0     0    20
+4        0     0    19     0
+5        0    15     1     4
+6       11     0     0     8
+7       18     1     1     1
+8       19     0     0     0
+9        1     0     0    18
+XX
+CC  program: meme
+CC  matrix.nb: 23
+CC  id: 22
+CC  ac: 22
+CC  name: 22
+CC  sites: 20
+CC  meme.E-value: 0.0e+000
+CC  matrix.nb: 23
+CC  consensus.strict: TATGCaAAT
+CC  consensus.strict.rc: ATTTGCATA
+CC  consensus.IUPAC: TATGCwAAT
+CC  consensus.IUPAC.rc: ATTWGCATA
+CC  consensus.regexp: TATGC[at]AAT
+CC  consensus.regexp.rc: ATT[AT]GCATA
+XX
+//
+AC  MEME_ChIP_21
+XX
+ID  MEME_ChIP_21
+XX
+DE  tATGcwAAT
+P0       A     C     G     T
+1        2     3     1    14
+2       20     0     0     0
+3        0     1     0    18
+4        1     0    16     3
+5        1    13     2     5
+6       13     0     0     7
+7       17     0     2     2
+8       19     0     0     0
+9        3     1     1    15
+XX
+CC  program: meme
+CC  matrix.nb: 24
+CC  id: 23
+CC  ac: 23
+CC  name: 23
+CC  sites: 20
+CC  meme.E-value: 0.0e+000
+CC  matrix.nb: 24
+CC  consensus.strict: tATGcaAAT
+CC  consensus.strict.rc: ATTTGCATA
+CC  consensus.IUPAC: tATGcwAAT
+CC  consensus.IUPAC.rc: ATTWGCATA
+CC  consensus.regexp: tATGc[at]AAT
+CC  consensus.regexp.rc: ATT[AT]GCATA
+XX
+//
+AC  MEME_ChIP_22
+XX
+ID  MEME_ChIP_22
+XX
+DE  mKkTTkyTkTkTttwkwwkG
+P0       A     C     G     T
+1        8    13     5     1
+2        0     0     7    20
+3        1     2    10    14
+4        1     0     5    21
+5        1     2     0    24
+6        1     4     8    14
+7        0    12     5    10
+8        0     0     2    25
+9        2     0     7    18
+10       0     0     0    27
+11       0     0    14    13
+12       0     0     0    27
+13       6     1     6    14
+14       5     5     0    17
+15       9     0     5    13
+16       0     5     7    15
+17      13     0     1    13
+18      10     0     0    17
+19       6     0     9    12
+20       0     3    19     5
+XX
+CC  program: meme
+CC  matrix.nb: 25
+CC  id: 24
+CC  ac: 24
+CC  name: 24
+CC  sites: 27
+CC  meme.E-value: 7.1e-004
+CC  matrix.nb: 25
+CC  consensus.strict: cTtTTtcTtTgTttttattG
+CC  consensus.strict.rc: CAATAAAAACAAAGAAAAAG
+CC  consensus.IUPAC: mKkTTkyTkTkTttwkwwkG
+CC  consensus.IUPAC.rc: CMWWMWAAAMAMARMAAMMK
+CC  consensus.regexp: [ac][GT][gt]TT[gt][ct]T[gt]T[gt]Ttt[at][gt][at][at][gt]G
+CC  consensus.regexp.rc: C[AC][AT][AT][AC][AT]AAA[AC]A[AC]A[AG][AC]AA[AC][AC][GT]
+XX
+//
+AC  MEME_ChIP_23
+XX
+ID  MEME_ChIP_23
+XX
+DE  ykmATTTGCATrw
+P0       A     C     G     T
+1      415   635   402   835
+2      530   266   593   898
+3      605   825   415   442
+4     2016    19     1   251
+5        0     0     0  2287
+6      256     2     0  2029
+7        0     0     0  2287
+8      158     0  1997   132
+9        0  2271     0    16
+10    2257    30     0     0
+11       0     2     0  2285
+12    1159    39   613   476
+13     594   361   107  1225
+XX
+CC  program: meme
+CC  matrix.nb: 26
+CC  id: 25
+CC  ac: 25
+CC  name: 25
+CC  sites: 2287
+CC  meme.E-value: 0.0e+000
+CC  matrix.nb: 26
+CC  consensus.strict: ttcATTTGCATat
+CC  consensus.strict.rc: ATATGCAAATGAA
+CC  consensus.IUPAC: ykmATTTGCATrw
+CC  consensus.IUPAC.rc: WYATGCAAATKMR
+CC  consensus.regexp: [ct][gt][ac]ATTTGCAT[ag][at]
+CC  consensus.regexp.rc: [AT][CT]ATGCAAAT[GT][AC][AG]
+XX
+//
 AC  MEME_ChIP_24
 XX
 ID  MEME_ChIP_24
 XX
-DE  GCAGsCGC
+DE  TATGywAAT
 P0       A     C     G     T
-1        0     0   208     0
-2        0   208     0     0
-3      208     0     0     0
-4        0     0   208     0
-5        0    95   113     0
-6        0   208     0     0
-7        0     0   208     0
-8        0   208     0     0
+1        2     3     1    15
+2       19     0     0     0
+3        1     1     0    18
+4        0     0    16     3
+5        0    13     2     5
+6       13     0     0     7
+7       16     0     2     2
+8       19     0     0     1
+9        2     1     1    16
 XX
 CC  program: meme
-CC  matrix.nb: 25
-CC  id: MEME_ChIP_24
-CC  ac: MEME_ChIP_24
-CC  name: MEME_ChIP_24
-CC  sites: 208
-CC  meme.E-value: 2.9e-004
-CC  matrix.nb: 25
-CC  consensus.strict: GCAGgCGC
-CC  consensus.strict.rc: GCGCCTGC
-CC  consensus.IUPAC: GCAGsCGC
-CC  consensus.IUPAC.rc: GCGSCTGC
-CC  consensus.regexp: GCAG[cg]CGC
-CC  consensus.regexp.rc: GCG[CG]CTGC
+CC  matrix.nb: 27
+CC  id: 26
+CC  ac: 26
+CC  name: 26
+CC  sites: 20
+CC  meme.E-value: 0.0e+000
+CC  matrix.nb: 27
+CC  consensus.strict: TATGcaAAT
+CC  consensus.strict.rc: ATTTGCATA
+CC  consensus.IUPAC: TATGywAAT
+CC  consensus.IUPAC.rc: ATTWRCATA
+CC  consensus.regexp: TATG[ct][at]AAT
+CC  consensus.regexp.rc: ATT[AT][AG]CATA
 XX
 //
 AC  MEME_ChIP_25
 XX
 ID  MEME_ChIP_25
-XX
-DE  GmGGGA
-P0       A     C     G     T
-1        0     0  1151     0
-2      705   446     0     0
-3        0     0  1151     0
-4        0     0  1151     0
-5        0     0  1151     0
-6     1151     0     0     0
-XX
-CC  program: meme
-CC  matrix.nb: 26
-CC  id: MEME_ChIP_25
-CC  ac: MEME_ChIP_25
-CC  name: MEME_ChIP_25
-CC  sites: 1151
-CC  meme.E-value: 4.9e-004
-CC  matrix.nb: 26
-CC  consensus.strict: GaGGGA
-CC  consensus.strict.rc: TCCCTC
-CC  consensus.IUPAC: GmGGGA
-CC  consensus.IUPAC.rc: TCCCKC
-CC  consensus.regexp: G[ac]GGGA
-CC  consensus.regexp.rc: TCCC[GT]C
-XX
-//
-AC  MEME_ChIP_26
-XX
-ID  MEME_ChIP_26
 XX
 DE  waddTATGCATAwkddw
 P0       A     C     G     T
@@ -838,13 +835,13 @@ P0       A     C     G     T
 17      12     1     2     5
 XX
 CC  program: meme
-CC  matrix.nb: 27
-CC  id: MEME_ChIP_26
-CC  ac: MEME_ChIP_26
-CC  name: MEME_ChIP_26
+CC  matrix.nb: 28
+CC  id: 27
+CC  ac: 27
+CC  name: 27
 CC  sites: 20
 CC  meme.E-value: 0.0e+000
-CC  matrix.nb: 27
+CC  matrix.nb: 28
 CC  consensus.strict: aaaaTATGCATAataaa
 CC  consensus.strict.rc: TTTATTATGCATATTTT
 CC  consensus.IUPAC: waddTATGCATAwkddw
@@ -853,203 +850,41 @@ CC  consensus.regexp: [at]a[agt][agt]TATGCATA[at][gt][agt][agt][at]
 CC  consensus.regexp.rc: [AT][ACT][ACT][AC][AT]TATGCATA[ACT][ACT]T[AT]
 XX
 //
-AC  MEME_ChIP_27
+AC  MEME_ChIP_26
 XX
-ID  MEME_ChIP_27
+ID  MEME_ChIP_26
 XX
-DE  CCTGCTGk
+DE  aTtwGCATawsAAwr
 P0       A     C     G     T
-1        0   197     0     0
-2        0   197     0     0
-3        0     0     0   197
-4        0     0   197     0
-5        0   197     0     0
-6        0     0     0   197
-7        0     0   197     0
-8        0     0   111    86
+1       86    13    13    23
+2        5     4     0   126
+3       23    18     6    88
+4       40    11     1    83
+5       31     2   101     1
+6       20   111     0     4
+7      131     0     1     3
+8        9     0     0   126
+9       66    20    27    22
+10      78     7     0    50
+11       7    66    43    19
+12     111    19     0     5
+13     125     3     4     3
+14      46     2     1    86
+15      41     8    69    17
 XX
 CC  program: meme
-CC  matrix.nb: 28
-CC  id: MEME_ChIP_27
-CC  ac: MEME_ChIP_27
-CC  name: MEME_ChIP_27
-CC  sites: 197
-CC  meme.E-value: 3.5e-003
-CC  matrix.nb: 28
-CC  consensus.strict: CCTGCTGg
-CC  consensus.strict.rc: CCAGCAGG
-CC  consensus.IUPAC: CCTGCTGk
-CC  consensus.IUPAC.rc: MCAGCAGG
-CC  consensus.regexp: CCTGCTG[gt]
-CC  consensus.regexp.rc: [AC]CAGCAGG
-XX
-//
-AC  MEME_ChIP_28
-XX
-ID  MEME_ChIP_28
-XX
-DE  ATGGCGRC
-P0       A     C     G     T
-1       60     0     0     0
-2        0     0     0    60
-3        0     0    60     0
-4        0     0    60     0
-5        0    60     0     0
-6        0     0    60     0
-7       15     0    45     0
-8        0    60     0     0
-XX
-CC  program: meme
-CC  matrix.nb: 29
-CC  id: MEME_ChIP_28
-CC  ac: MEME_ChIP_28
-CC  name: MEME_ChIP_28
-CC  sites: 60
-CC  meme.E-value: 5.1e-003
-CC  matrix.nb: 29
-CC  consensus.strict: ATGGCGGC
-CC  consensus.strict.rc: GCCGCCAT
-CC  consensus.IUPAC: ATGGCGRC
-CC  consensus.IUPAC.rc: GYCGCCAT
-CC  consensus.regexp: ATGGCG[AG]C
-CC  consensus.regexp.rc: G[CT]CGCCAT
-XX
-//
-AC  MEME_ChIP_29
-XX
-ID  MEME_ChIP_29
-XX
-DE  AAGGwCA
-P0       A     C     G     T
-1      285     0     0     0
-2      285     0     0     0
-3        0     0   285     0
-4        0     0   285     0
-5      171     0     0   114
-6        0   285     0     0
-7      285     0     0     0
-XX
-CC  program: meme
-CC  matrix.nb: 30
-CC  id: MEME_ChIP_29
-CC  ac: MEME_ChIP_29
-CC  name: MEME_ChIP_29
-CC  sites: 285
-CC  meme.E-value: 1.1e-002
-CC  matrix.nb: 30
-CC  consensus.strict: AAGGaCA
-CC  consensus.strict.rc: TGTCCTT
-CC  consensus.IUPAC: AAGGwCA
-CC  consensus.IUPAC.rc: TGWCCTT
-CC  consensus.regexp: AAGG[at]CA
-CC  consensus.regexp.rc: TG[AT]CCTT
-XX
-//
-AC  MEME_ChIP_30
-XX
-ID  MEME_ChIP_30
-XX
-DE  KTkhywYTTTkTTTTTTdttTwWG
-P0       A     C     G     T
-1        0     0     3     8
-2        2     0     0     9
-3        1     0     3     7
-4        3     4     0     4
-5        2     5     1     3
-6        4     0     0     7
-7        0     3     0     8
-8        0     0     2     9
-9        1     0     0    10
-10       1     0     1     9
-11       0     1     6     4
-12       0     0     1    10
-13       1     0     0    10
-14       1     1     0     9
-15       0     0     1    10
-16       0     0     1    10
-17       0     0     1    10
-18       4     0     3     4
-19       2     0     2     7
-20       2     0     2     7
-21       2     0     1     8
-22       4     0     0     7
-23       3     0     0     8
-24       1     1     9     0
-XX
-CC  program: meme
-CC  matrix.nb: 31
-CC  id: MEME_ChIP_30
-CC  ac: MEME_ChIP_30
-CC  name: MEME_ChIP_30
-CC  sites: 11
-CC  meme.E-value: 3.2e-002
-CC  matrix.nb: 31
-CC  consensus.strict: TTtcctTTTTgTTTTTTattTtTG
-CC  consensus.strict.rc: CAAAAATAAAAAACAAAAAGGAAA
-CC  consensus.IUPAC: KTkhywYTTTkTTTTTTdttTwWG
-CC  consensus.IUPAC.rc: CWWAAAHAAAAAAMAAARWRDMAM
-CC  consensus.regexp: [GT]T[gt][act][ct][at][CT]TTT[gt]TTTTTT[agt]ttT[at][AT]G
-CC  consensus.regexp.rc: C[AT][AT]AAA[ACT]AAAAAA[AC]AAA[AG][AT][AG][AGT][AC]A[AC]
-XX
-//
-AC  MEME_ChIP_31
-XX
-ID  MEME_ChIP_31
-XX
-DE  GTGACTCA
-P0       A     C     G     T
-1        0     0    87     0
-2        0     0     0    87
-3        0     0    87     0
-4       87     0     0     0
-5        0    87     0     0
-6        0     0    19    68
-7        0    87     0     0
-8       87     0     0     0
-XX
-CC  program: meme
-CC  matrix.nb: 32
-CC  id: MEME_ChIP_31
-CC  ac: MEME_ChIP_31
-CC  name: MEME_ChIP_31
-CC  sites: 87
-CC  meme.E-value: 3.6e-002
-CC  matrix.nb: 32
-CC  consensus.strict: GTGACTCA
-CC  consensus.strict.rc: TGAGTCAC
-CC  consensus.IUPAC: GTGACTCA
-CC  consensus.IUPAC.rc: TGAGTCAC
-CC  consensus.regexp: GTGACTCA
-CC  consensus.regexp.rc: TGAGTCAC
-XX
-//
-AC  MEME_ChIP_32
-XX
-ID  MEME_ChIP_32
-XX
-DE  aggcagr
-P0       A     C     G     T
-1        1     0     0     0
-2        0     0     1     0
-3        0     0     1     0
-4        0     1     0     0
-5        1     0     0     0
-6        0     0     1     0
-7    0.470085     0 0.529915     0
-XX
-CC  program: meme
-CC  matrix.nb: 33
-CC  id: MEME_ChIP_32
-CC  ac: MEME_ChIP_32
-CC  name: MEME_ChIP_32
-CC  sites: 585
-CC  meme.E-value: 4.8e-002
-CC  matrix.nb: 33
-CC  consensus.strict: aggcagg
-CC  consensus.strict.rc: CCTGCCT
-CC  consensus.IUPAC: aggcagr
-CC  consensus.IUPAC.rc: YCTGCCT
-CC  consensus.regexp: aggcag[ag]
-CC  consensus.regexp.rc: [CT]CTGCCT
+CC  matrix.nb: 2
+CC  id: 1
+CC  ac: 1
+CC  name: 1
+CC  sites: 135
+CC  meme.E-value: 9.9e-122
+CC  matrix.nb: 2
+CC  consensus.strict: aTttGCATaacAAtg
+CC  consensus.strict.rc: CATTGTTATGCAAAT
+CC  consensus.IUPAC: aTtwGCATawsAAwr
+CC  consensus.IUPAC.rc: YWTTSWTATGCWAAT
+CC  consensus.regexp: aTt[at]GCATa[at][cg]AA[at][ag]
+CC  consensus.regexp.rc: [CT][AT]TT[CG][AT]TATGC[AT]AAT
 XX
 //
