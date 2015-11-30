@@ -1,414 +1,92 @@
-AC  oligos_6nt_mkv4_m1
-XX
-ID  oligos_6nt_mkv4_m1
-XX
-DE  cgCGCACGcg
-P0       A     C     G     T
-1       21   152    71    47
-2       58    53   156    24
-3        0   291     0     0
-4        0     0   291     0
-5        0   291     0     0
-6      257     0    34     0
-7        0   291     0     0
-8        0     0   291     0
-9       25   180    46    40
-10      56    57   143    35
-XX
-CC  program: feature
-CC  matrix.nb: 1
-CC  matrix.nb: 1
-CC  sites: 291
-CC  consensus.strict: cgCGCACGcg
-CC  consensus.strict.rc: CGCGTGCGCG
-CC  consensus.IUPAC: cgCGCACGcg
-CC  consensus.IUPAC.rc: CGCGTGCGCG
-CC  consensus.regexp: cgCGCACGcg
-CC  consensus.regexp.rc: CGCGTGCGCG
-XX
-//
-AC  oligos_6nt_mkv4_m2
-XX
-ID  oligos_6nt_mkv4_m2
-XX
-DE  gwdATGCTAAtk
-P0       A     C     G     T
-1       43    52    88    41
-2       83    26    40    75
-3       60    24    70    70
-4      223     0     0     1
-5        0     4     0   220
-6        4     1   219     0
-7        2   207     9     6
-8        0     0     4   220
-9      223     0     0     1
-10     207     4     2    11
-11      44    39    30   111
-12      50    44    65    65
-XX
-CC  program: feature
-CC  matrix.nb: 2
-CC  matrix.nb: 2
-CC  sites: 224
-CC  consensus.strict: gagATGCTAAtg
-CC  consensus.strict.rc: CATTAGCATCTC
-CC  consensus.IUPAC: gwdATGCTAAtk
-CC  consensus.IUPAC.rc: MATTAGCATHWC
-CC  consensus.regexp: g[at][agt]ATGCTAAt[gt]
-CC  consensus.regexp.rc: [AC]ATTAGCAT[ACT][AT]C
-XX
-//
-AC  oligos_6nt_mkv4_m4
-XX
-ID  oligos_6nt_mkv4_m4
-XX
-DE  swTATGCAAATrw
-P0       A     C     G     T
-1       91   126   146    97
-2      193    54    70   143
-3       40    27    12   381
-4      425    10     8    17
-5        7     2     4   447
-6       14     2   425    19
-7        2   409     8    41
-8      411     5     5    39
-9      392    14    25    29
-10     446     4     4     6
-11      20    24    25   391
-12     118    74   176    92
-13     151    93    87   129
-XX
-CC  program: feature
-CC  matrix.nb: 4
-CC  matrix.nb: 4
-CC  sites: 460
-CC  consensus.strict: gaTATGCAAATga
-CC  consensus.strict.rc: TCATTTGCATATC
-CC  consensus.IUPAC: swTATGCAAATrw
-CC  consensus.IUPAC.rc: WYATTTGCATAWS
-CC  consensus.regexp: [cg][at]TATGCAAAT[ag][at]
-CC  consensus.regexp.rc: [AT][CT]ATTTGCATA[AT][CG]
-XX
-//
-AC  local_words_6nt_m1
-XX
-ID  local_words_6nt_m1
-XX
-DE  ksywTTgTTATGCAAAtkw
-P0       A     C     G     T
-1      100   126   156   185
-2       93   205   144   125
-3       74   282    50   161
-4      318    35    41   173
-5       26    31    34   476
-6       40    29    52   446
-7       81   118   311    57
-8      104    18    26   419
-9       58    69    25   415
-10     528     6    17    16
-11       8     6     3   550
-12       9     5   514    39
-13       8   460    22    77
-14     461     9     8    89
-15     425    23    58    61
-16     497    14    26    30
-17      86    71    62   348
-18     139   109   166   153
-19     179   116   119   153
-XX
-CC  program: feature
-CC  matrix.nb: 1
-CC  matrix.nb: 1
-CC  sites: 567
-CC  consensus.strict: tccaTTgTTATGCAAAtga
-CC  consensus.strict.rc: TCATTTGCATAACAATGGA
-CC  consensus.IUPAC: ksywTTgTTATGCAAAtkw
-CC  consensus.IUPAC.rc: WMATTTGCATAACAAWRSM
-CC  consensus.regexp: [gt][cg][ct][at]TTgTTATGCAAAt[gt][at]
-CC  consensus.regexp.rc: [AT][AC]ATTTGCATAACAA[AT][AG][CG][AC]
-XX
-//
-AC  local_words_6nt_m2
-XX
-ID  local_words_6nt_m2
-XX
-DE  wmaTTTGCATAAcAAwrsm
-P0       A     C     G     T
-1      153   118   116   178
-2      152   166   109   138
-3      348    60    71    86
-4       29    26    14   496
-5       61    57    23   424
-6       89     8     9   459
-7       77    22   458     8
-8       39   512     5     9
-9      548     3     6     8
-10      16    17     6   526
-11     415    25    68    57
-12     417    26    18   104
-13      57   310   118    80
-14     444    52    29    40
-15     474    34    31    26
-16     172    41    35   317
-17     160    49   282    74
-18     124   143   205    93
-19     185   155   126    99
-XX
-CC  program: feature
-CC  matrix.nb: 2
-CC  matrix.nb: 2
-CC  sites: 565
-CC  consensus.strict: tcaTTTGCATAAcAAtgga
-CC  consensus.strict.rc: TCCATTGTTATGCAAATGA
-CC  consensus.IUPAC: wmaTTTGCATAAcAAwrsm
-CC  consensus.IUPAC.rc: KSYWTTGTTATGCAAATKW
-CC  consensus.regexp: [at][ac]aTTTGCATAAcAA[at][ag][cg][ac]
-CC  consensus.regexp.rc: [GT][CG][CT][AT]TTGTTATGCAAAT[GT][AT]
-XX
-//
-AC  local_words_6nt_m4
-XX
-ID  local_words_6nt_m4
-XX
-DE  dcaTATGCAAATrw
-P0       A     C     G     T
-1      129    58   138   189
-2      112   173   124   105
-3      337    31    45   101
-4       30    19     5   460
-5      494     7     4     9
-6        4     2     5   503
-7       16     4   467    27
-8       13   441    12    48
-9      448     4    16    46
-10     386    38    39    51
-11     469    10    15    20
-12      51    46    60   357
-13     153    85   171   105
-14     171   102    96   145
-XX
-CC  program: feature
-CC  matrix.nb: 4
-CC  matrix.nb: 4
-CC  sites: 514
-CC  consensus.strict: tcaTATGCAAATga
-CC  consensus.strict.rc: TCATTTGCATATGA
-CC  consensus.IUPAC: dcaTATGCAAATrw
-CC  consensus.IUPAC.rc: WYATTTGCATATGH
-CC  consensus.regexp: [agt]caTATGCAAAT[ag][at]
-CC  consensus.regexp.rc: [AT][CT]ATTTGCATATG[ACT]
-XX
-//
-AC  positions_6nt_m1
-XX
-ID  positions_6nt_m1
-XX
-DE  ywyaTtTGCATATGCAaAtrwr
-P0       A     C     G     T
-1       23    33    18    31
-2       39    14    21    31
-3       10    54    13    28
-4       62    18    13    12
-5        7    15     2    81
-6       21     6    10    68
-7        3     7     2    93
-8        7     2    79    17
-9        4    94     4     3
-10     102     1     1     1
-11       5     2     3    95
-12      95     3     2     5
-13       1     1     1   102
-14       3     4    94     4
-15      16    79     2     8
-16      93     2     7     3
-17      69     9     6    21
-18      81     2    15     7
-19      12    12    18    63
-20      27    13    55    10
-21      31    21    14    39
-22      32    18    33    22
-XX
-CC  program: feature
-CC  matrix.nb: 1
-CC  matrix.nb: 1
-CC  sites: 105
-CC  consensus.strict: cacaTtTGCATATGCAaAtgtg
-CC  consensus.strict.rc: CACATTTGCATATGCAAATGTG
-CC  consensus.IUPAC: ywyaTtTGCATATGCAaAtrwr
-CC  consensus.IUPAC.rc: YWYATTTGCATATGCAAATRWR
-CC  consensus.regexp: [ct][at][ct]aTtTGCATATGCAaAt[ag][at][ag]
-CC  consensus.regexp.rc: [CT][AT][CT]ATTTGCATATGCAAAT[AG][AT][AG]
-XX
-//
-AC  positions_6nt_m2
-XX
-ID  positions_6nt_m2
-XX
-DE  twcATTTGCATAAcAAwr
-P0       A     C     G     T
-1       71    79    65   117
-2       88    76    73    95
-3       56   156    48    72
-4      239    29    33    31
-5       11    11     7   303
-6       36    26     9   261
-7       38     2     3   289
-8       35    10   284     3
-9       10   318     0     4
-10     326     0     2     4
-11       9     8     6   309
-12     276     7    25    24
-13     237    18    10    67
-14      39   194    57    42
-15     245    38    16    33
-16     262    26    23    21
-17     131    36    29   136
-18     109    36   132    55
-XX
-CC  program: feature
-CC  matrix.nb: 2
-CC  matrix.nb: 2
-CC  sites: 332
-CC  consensus.strict: ttcATTTGCATAAcAAtg
-CC  consensus.strict.rc: CATTGTTATGCAAATGAA
-CC  consensus.IUPAC: twcATTTGCATAAcAAwr
-CC  consensus.IUPAC.rc: YWTTGTTATGCAAATGWA
-CC  consensus.regexp: t[at]cATTTGCATAAcAA[at][ag]
-CC  consensus.regexp.rc: [CT][AT]TTGTTATGCAAATG[AT]A
-XX
-//
-AC  positions_6nt_m4
-XX
-ID  positions_6nt_m4
-XX
-DE  wtttTTwTTTTTtaAAAAAwAAww
-P0       A     C     G     T
-1       52    37    38    57
-2       42    41    37    64
-3       36    17    15   116
-4       35    19    15   115
-5       15    12    20   137
-6       24    21     9   130
-7       97    21    20    46
-8       18    17    10   139
-9       22    12     9   141
-10      20    17    17   130
-11      20    11     8   145
-12      15    11    16   142
-13      36    15    10   123
-14     125    10    10    39
-15     143    12    11    18
-16     145     7    11    21
-17     127    13    22    22
-18     134    14    11    25
-19     131    11    20    22
-20      47    16    16   105
-21     131    18    15    20
-22     136    18     8    22
-23      72    25    29    58
-24      65    33    29    57
-XX
-CC  program: feature
-CC  matrix.nb: 4
-CC  matrix.nb: 4
-CC  sites: 184
-CC  consensus.strict: ttttTTaTTTTTtaAAAAAtAAaa
-CC  consensus.strict.rc: TTTTATTTTTTAAAAAATAAAAAA
-CC  consensus.IUPAC: wtttTTwTTTTTtaAAAAAwAAww
-CC  consensus.IUPAC.rc: WWTTWTTTTTTAAAAAAWAAAAAW
-CC  consensus.regexp: [at]tttTT[at]TTTTTtaAAAAA[at]AA[at][at]
-CC  consensus.regexp.rc: [AT][AT]TT[AT]TTTTTTAAAAAA[AT]AAAAA[AT]
-XX
-//
 AC  oligos_7nt_mkv5_m1
 XX
 ID  oligos_7nt_mkv5_m1
 XX
-DE  wtATGCAAATrw
+DE  wwATGCAAATgw
 P0       A     C     G     T
-1      269    76   117   219
-2      151   152    72   306
-3      670     1     4     6
-4        4     3     5   669
-5       16     8   629    28
-6       12   589    22    58
-7      592     6     3    80
-8      564    19    28    70
-9      659     5     7    10
-10      38    46    41   556
-11     176   107   250   148
-12     213   166   127   175
+1      421   135   205   292
+2      272   240   144   397
+3      963    30    20    40
+4       26     5    27   995
+5       34    17   950    52
+6       24   906    35    88
+7      928    13    19    93
+8      845    49    69    90
+9     1000    13    21    19
+10      57    55    65   876
+11     250   163   390   250
+12     310   259   202   282
 XX
 CC  program: feature
 CC  matrix.nb: 1
 CC  matrix.nb: 1
-CC  sites: 681
+CC  sites: 1053
 CC  consensus.strict: atATGCAAATga
 CC  consensus.strict.rc: TCATTTGCATAT
-CC  consensus.IUPAC: wtATGCAAATrw
-CC  consensus.IUPAC.rc: WYATTTGCATAW
-CC  consensus.regexp: [at]tATGCAAAT[ag][at]
-CC  consensus.regexp.rc: [AT][CT]ATTTGCATA[AT]
+CC  consensus.IUPAC: wwATGCAAATgw
+CC  consensus.IUPAC.rc: WCATTTGCATWW
+CC  consensus.regexp: [at][at]ATGCAAATg[at]
+CC  consensus.regexp.rc: [AT]CATTTGCAT[AT][AT]
 XX
 //
 AC  oligos_7nt_mkv5_m2
 XX
 ID  oligos_7nt_mkv5_m2
 XX
-DE  csCGCCCTCbs
+DE  wwATGCTAAtt
 P0       A     C     G     T
-1       48   136    61    52
-2       51   116   107    23
-3        0   297     0     0
-4        0     0   297     0
-5        3   288     0     6
-6        5   270    22     0
-7        4   266    27     0
-8        2     0    16   279
-9        1   296     0     0
-10      30    91    99    77
-11      40   115    95    47
+1      524   218   323   435
+2      436   311   312   441
+3     1324    63    53    60
+4       40    19    51  1390
+5       33    38  1359    70
+6       63  1272    68    97
+7      285    37    17  1161
+8     1291    58   103    48
+9     1378    35    57    30
+10     336   279   291   594
+11     364   324   366   446
 XX
 CC  program: feature
 CC  matrix.nb: 2
 CC  matrix.nb: 2
-CC  sites: 297
-CC  consensus.strict: ccCGCCCTCgc
-CC  consensus.strict.rc: GCGAGGGCGGG
-CC  consensus.IUPAC: csCGCCCTCbs
-CC  consensus.IUPAC.rc: SVGAGGGCGSG
-CC  consensus.regexp: c[cg]CGCCCTC[cgt][cg]
-CC  consensus.regexp.rc: [CG][ACG]GAGGGCG[CG]G
+CC  sites: 1500
+CC  consensus.strict: atATGCTAAtt
+CC  consensus.strict.rc: AATTAGCATAT
+CC  consensus.IUPAC: wwATGCTAAtt
+CC  consensus.IUPAC.rc: AATTAGCATWW
+CC  consensus.regexp: [at][at]ATGCTAAtt
+CC  consensus.regexp.rc: AATTAGCAT[AT][AT]
 XX
 //
 AC  oligos_7nt_mkv5_m3
 XX
 ID  oligos_7nt_mkv5_m3
 XX
-DE  wwATGCTAAtk
+DE  ssCGCCCTCss
 P0       A     C     G     T
-1       96    26    44    73
-2       66    28    45   100
-3      239     0     0     0
-4        0     7     0   232
-5       10     0   229     0
-6        6   198    10    25
-7        0     0     3   236
-8      238     0     0     1
-9      237     1     0     1
-10      47    39    29   124
-11      56    42    68    73
+1      260   667   457   297
+2      281   638   514   248
+3       14  1629    22    16
+4       49    23  1581    28
+5       47  1474    88    72
+6       68  1408   142    63
+7      111  1451    61    58
+8      139   142   173  1227
+9       52  1527    64    38
+10     291   510   475   405
+11     244   599   502   336
 XX
 CC  program: feature
 CC  matrix.nb: 3
 CC  matrix.nb: 3
-CC  sites: 239
-CC  consensus.strict: atATGCTAAtt
-CC  consensus.strict.rc: AATTAGCATAT
-CC  consensus.IUPAC: wwATGCTAAtk
-CC  consensus.IUPAC.rc: MATTAGCATWW
-CC  consensus.regexp: [at][at]ATGCTAAt[gt]
-CC  consensus.regexp.rc: [AC]ATTAGCAT[AT][AT]
+CC  sites: 1681
+CC  consensus.strict: ccCGCCCTCcc
+CC  consensus.strict.rc: GGGAGGGCGGG
+CC  consensus.IUPAC: ssCGCCCTCss
+CC  consensus.IUPAC.rc: SSGAGGGCGSS
+CC  consensus.regexp: [cg][cg]CGCCCTC[cg][cg]
+CC  consensus.regexp.rc: [CG][CG]GAGGGCG[CG][CG]
 XX
 //
 AC  oligos_7nt_mkv5_m4
@@ -417,25 +95,25 @@ ID  oligos_7nt_mkv5_m4
 XX
 DE  rmATAACAATrr
 P0       A     C     G     T
-1      146    79   235    72
-2      144   286    48    54
-3      492    14    13    13
-4       14    11    10   497
-5      407    41    52    32
-6      495     9    11    17
-7       24   453    34    21
-8      512     7     3    10
-9      499    11    14     8
-10      57    10    16   449
-11     172    68   210    82
-12     153   123   166    90
+1      188   106   260   101
+2      177   317    72    89
+3      608    17    14    16
+4       43    19    26   567
+5      518    44    55    38
+6      600    14    16    25
+7       33   533    41    48
+8      610    14    11    20
+9      614    12    14    15
+10      63    19    20   553
+11     208    95   249   103
+12     192   146   192   125
 XX
 CC  program: feature
 CC  matrix.nb: 4
 CC  matrix.nb: 4
-CC  sites: 532
-CC  consensus.strict: gcATAACAATgg
-CC  consensus.strict.rc: CCATTGTTATGC
+CC  sites: 655
+CC  consensus.strict: gcATAACAATga
+CC  consensus.strict.rc: TCATTGTTATGC
 CC  consensus.IUPAC: rmATAACAATrr
 CC  consensus.IUPAC.rc: YYATTGTTATKY
 CC  consensus.regexp: [ag][ac]ATAACAAT[ag][ag]
@@ -446,145 +124,186 @@ AC  local_words_7nt_m1
 XX
 ID  local_words_7nt_m1
 XX
-DE  sywTTgTtATGCAAAtkw
+DE  sywTTgTtATGCAAAtdw
 P0       A     C     G     T
-1       86   210   149   132
-2       88   239    64   186
-3      330    38    39   170
-4       16    25    24   512
-5       34    14    41   488
-6       70   101   359    47
-7      106    23    23   425
-8       70    81    37   389
-9      517    12    17    31
-10      10     5     7   555
-11      12     5   514    46
-12      10   438    27   102
-13     456    10     8   103
-14     444    19    58    56
-15     520    10    20    27
-16      78    63    56   380
-17     138   104   169   166
-18     181   125   125   146
+1      131   276   212   187
+2      127   334    88   257
+3      450    53    59   244
+4       33    43    35   695
+5       52    30    62   662
+6       98   151   472    85
+7      159    37    44   566
+8      100   117    67   522
+9      708    25    30    43
+10      23    10    12   761
+11      19    10   706    71
+12      20   602    47   137
+13     630    13    14   149
+14     599    39    89    79
+15     712    19    34    41
+16     110    88    80   528
+17     203   138   234   231
+18     232   183   177   214
 XX
 CC  program: feature
 CC  matrix.nb: 1
 CC  matrix.nb: 1
-CC  sites: 577
+CC  sites: 806
 CC  consensus.strict: ccaTTgTtATGCAAAtga
 CC  consensus.strict.rc: TCATTTGCATAACAATGG
-CC  consensus.IUPAC: sywTTgTtATGCAAAtkw
-CC  consensus.IUPAC.rc: WMATTTGCATAACAAWRS
-CC  consensus.regexp: [cg][ct][at]TTgTtATGCAAAt[gt][at]
-CC  consensus.regexp.rc: [AT][AC]ATTTGCATAACAA[AT][AG][CG]
+CC  consensus.IUPAC: sywTTgTtATGCAAAtdw
+CC  consensus.IUPAC.rc: WHATTTGCATAACAAWRS
+CC  consensus.regexp: [cg][ct][at]TTgTtATGCAAAt[agt][at]
+CC  consensus.regexp.rc: [AT][ACT]ATTTGCATAACAA[AT][AG][CG]
 XX
 //
 AC  local_words_7nt_m2
 XX
 ID  local_words_7nt_m2
 XX
-DE  wmaTTTGCATaAcAAwrs
+DE  whaTTTGCATaAcAAwrs
 P0       A     C     G     T
-1      145   124   125   181
-2      165   169   104   137
-3      380    56    63    76
-4       27    20    10   518
-5       56    57    19   443
-6      103     8    10   454
-7      102    27   436    10
-8       45   514     5    11
-9      553     7     5    10
-10      31    17    12   515
-11     388    37    80    70
-12     423    23    23   106
-13      47   357   101    70
-14     487    41    14    33
-15     510    24    25    16
-16     170    39    37   329
-17     186    64   238    87
-18     132   149   208    86
+1      211   177   184   231
+2      230   232   138   203
+3      526    79    88   110
+4       42    33    19   709
+5       80    89    39   595
+6      149    14    13   627
+7      136    47   601    19
+8       69   704    11    19
+9      757    12    10    24
+10      42    29    24   708
+11     521    66   116   100
+12     562    44    38   159
+13      84   472   150    97
+14     660    62    30    51
+15     695    35    42    31
+16     245    59    53   446
+17     255    87   332   129
+18     187   209   277   130
 XX
 CC  program: feature
 CC  matrix.nb: 2
 CC  matrix.nb: 2
-CC  sites: 575
+CC  sites: 803
 CC  consensus.strict: tcaTTTGCATaAcAAtgg
 CC  consensus.strict.rc: CCATTGTTATGCAAATGA
-CC  consensus.IUPAC: wmaTTTGCATaAcAAwrs
-CC  consensus.IUPAC.rc: SYWTTGTTATGCAAATKW
-CC  consensus.regexp: [at][ac]aTTTGCATaAcAA[at][ag][cg]
-CC  consensus.regexp.rc: [CG][CT][AT]TTGTTATGCAAAT[GT][AT]
+CC  consensus.IUPAC: whaTTTGCATaAcAAwrs
+CC  consensus.IUPAC.rc: SYWTTGTTATGCAAATDW
+CC  consensus.regexp: [at][act]aTTTGCATaAcAA[at][ag][cg]
+CC  consensus.regexp.rc: [CG][CT][AT]TTGTTATGCAAAT[AGT][AT]
+XX
+//
+AC  local_words_7nt_m3
+XX
+ID  local_words_7nt_m3
+XX
+DE  wsATATGCAAATgw
+P0       A     C     G     T
+1      273   137   267   406
+2      251   354   277   201
+3      773    63    82   165
+4      160    81    66   776
+5      890    49    41   103
+6       33     8    39  1003
+7       49    20   959    55
+8       39   890    46   108
+9      935    14    31   103
+10     797    62    82   142
+11     993    25    28    37
+12      90    72    96   825
+13     260   183   376   264
+14     340   237   206   300
+XX
+CC  program: feature
+CC  matrix.nb: 3
+CC  matrix.nb: 3
+CC  sites: 1083
+CC  consensus.strict: tcATATGCAAATga
+CC  consensus.strict.rc: TCATTTGCATATGA
+CC  consensus.IUPAC: wsATATGCAAATgw
+CC  consensus.IUPAC.rc: WCATTTGCATATSW
+CC  consensus.regexp: [at][cg]ATATGCAAATg[at]
+CC  consensus.regexp.rc: [AT]CATTTGCATAT[CG][AT]
 XX
 //
 AC  local_words_7nt_m4
 XX
 ID  local_words_7nt_m4
 XX
-DE  ksaTATGCAAATrw
+DE  kyaTTgTTaTGCAtAAcAAtrm
 P0       A     C     G     T
-1      147    67   150   229
-2      118   190   159   126
-3      363    43    58   129
-4       54    47    22   470
-5      569     6     7    11
-6        6     3     5   579
-7       22     5   533    33
-8       15   494    16    68
-9      506     7    18    62
-10     472    36    36    49
-11     566     6     6    15
-12      46    47    56   444
-13     174    95   200   124
-14     193   124   107   169
+1       47    47    48    49
+2       43    60    38    50
+3      116    30    14    31
+4       13    15    16   147
+5       16    11    18   146
+6       27    28   114    22
+7       35    15    10   131
+8       13    25     3   150
+9      123    23     7    38
+10      12     9     3   167
+11      14     6   161    10
+12      10   161     6    14
+13     167     3     9    12
+14      38     7    23   123
+15     151     3    25    12
+16     132     9    15    35
+17      22   114    28    27
+18     146    19    11    15
+19     147    16    15    13
+20      31    14    30   116
+21      49    38    60    44
+22      49    48    47    47
 XX
 CC  program: feature
 CC  matrix.nb: 4
 CC  matrix.nb: 4
-CC  sites: 593
-CC  consensus.strict: tcaTATGCAAATga
-CC  consensus.strict.rc: TCATTTGCATATGA
-CC  consensus.IUPAC: ksaTATGCAAATrw
-CC  consensus.IUPAC.rc: WYATTTGCATATSM
-CC  consensus.regexp: [gt][cg]aTATGCAAAT[ag][at]
-CC  consensus.regexp.rc: [AT][CT]ATTTGCATAT[CG][AC]
+CC  sites: 191
+CC  consensus.strict: tcaTTgTTaTGCAtAAcAAtga
+CC  consensus.strict.rc: TCATTGTTATGCATAACAATGA
+CC  consensus.IUPAC: kyaTTgTTaTGCAtAAcAAtrm
+CC  consensus.IUPAC.rc: KYATTGTTATGCATAACAATRM
+CC  consensus.regexp: [gt][ct]aTTgTTaTGCAtAAcAAt[ag][ac]
+CC  consensus.regexp.rc: [GT][CT]ATTGTTATGCATAACAAT[AG][AC]
 XX
 //
 AC  positions_7nt_m1
 XX
 ID  positions_7nt_m1
 XX
-DE  wyaTtTGCATATGCAaAtrw
+DE  wyaTtTgCATATGcAaAtrw
 P0       A     C     G     T
-1       45     8    21    32
-2       14    41    19    32
-3       70    17    12     7
-4        6     9     1    90
-5       21     7    10    68
-6        5     8     4    89
-7       10     1    78    17
-8        6    92     7     1
-9      102     1     1     2
-10       5     2     3    96
-11      96     3     2     5
-12       2     1     1   102
-13       1     7    92     6
-14      17    78     1    10
-15      89     4     8     5
-16      68    10     7    21
-17      90     1     9     6
-18       7    12    17    70
-19      32    19    41    14
-20      32    21     8    45
+1       97    43    67    78
+2       48    98    58    81
+3      177    50    27    31
+4       22    29     7   227
+5       55    23    28   179
+6       18    20    10   237
+7       35     6   193    51
+8       21   225    24    15
+9      262     5     4    14
+10      21    13    13   238
+11     238    13    13    21
+12      14     4     5   262
+13      15    24   225    21
+14      50   193     6    36
+15     237    10    20    18
+16     179    28    23    55
+17     226     7    30    22
+18      31    27    50   177
+19      80    58    98    49
+20      78    67    43    97
 XX
 CC  program: feature
 CC  matrix.nb: 1
 CC  matrix.nb: 1
-CC  sites: 106
-CC  consensus.strict: acaTtTGCATATGCAaAtgt
+CC  sites: 285
+CC  consensus.strict: acaTtTgCATATGcAaAtgt
 CC  consensus.strict.rc: ACATTTGCATATGCAAATGT
-CC  consensus.IUPAC: wyaTtTGCATATGCAaAtrw
+CC  consensus.IUPAC: wyaTtTgCATATGcAaAtrw
 CC  consensus.IUPAC.rc: WYATTTGCATATGCAAATRW
-CC  consensus.regexp: [at][ct]aTtTGCATATGCAaAt[ag][at]
+CC  consensus.regexp: [at][ct]aTtTgCATATGcAaAt[ag][at]
 CC  consensus.regexp.rc: [AT][CT]ATTTGCATATGCAAAT[AG][AT]
 XX
 //
@@ -592,230 +311,230 @@ AC  positions_7nt_m2
 XX
 ID  positions_7nt_m2
 XX
-DE  wmaTTTGCATaACAAtrg
+DE  whaTTTGCATaAcAAwrs
 P0       A     C     G     T
-1       95    78    79   117
-2       98   115    76    80
-3      251    31    40    47
-4       15    14     3   337
-5       29    41    12   287
-6       70     4     8   287
-7       61    19   283     6
-8       28   337     2     2
-9      360     2     2     5
-10      12    14     3   340
-11     246    21    56    46
-12     291    13     9    56
-13      26   262    52    29
-14     335    13     2    19
-15     338    12    14     5
-16      87    15    16   251
-17     128    35   167    39
-18      85    89   147    48
+1      211   167   179   224
+2      217   229   136   199
+3      519    76    84   102
+4       38    34    19   690
+5       80    84    39   578
+6      148    14    13   606
+7      133    45   584    19
+8       65   686    10    20
+9      737    13    11    20
+10      42    25    20   694
+11     503    66   113    99
+12     543    40    36   162
+13      78   458   147    98
+14     640    61    27    53
+15     676    34    41    30
+16     229    52    47   453
+17     252    85   320   124
+18     179   207   267   128
 XX
 CC  program: feature
 CC  matrix.nb: 2
 CC  matrix.nb: 2
-CC  sites: 369
-CC  consensus.strict: tcaTTTGCATaACAAtgg
+CC  sites: 781
+CC  consensus.strict: tcaTTTGCATaAcAAtgg
 CC  consensus.strict.rc: CCATTGTTATGCAAATGA
-CC  consensus.IUPAC: wmaTTTGCATaACAAtrg
-CC  consensus.IUPAC.rc: CYATTGTTATGCAAATKW
-CC  consensus.regexp: [at][ac]aTTTGCATaACAAt[ag]g
-CC  consensus.regexp.rc: C[CT]ATTGTTATGCAAAT[GT][AT]
+CC  consensus.IUPAC: whaTTTGCATaAcAAwrs
+CC  consensus.IUPAC.rc: SYWTTGTTATGCAAATDW
+CC  consensus.regexp: [at][act]aTTTGCATaAcAA[at][ag][cg]
+CC  consensus.regexp.rc: [CG][CT][AT]TTGTTATGCAAAT[AGT][AT]
 XX
 //
 AC  positions_7nt_m4
 XX
 ID  positions_7nt_m4
 XX
-DE  caTATGCGCATAtg
+DE  yaTATGCGCATAtr
 P0       A     C     G     T
-1       56    98    74    75
-2      118    44    75    66
-3       14    37     4   248
-4      263    11    25     4
-5        7     3    10   283
-6        8    16   249    30
-7       21   229    11    42
-8       40    11   231    21
-9       30   249    16     8
-10     285     9     3     6
-11       4    25    10   264
-12     249     4    36    14
-13      68    74    42   119
-14      75    74    97    57
+1       73   127    93   104
+2      134    90    94    79
+3       19    45     7   326
+4      331    22    31    13
+5        9     5    15   368
+6       11    17   334    35
+7       33   288    17    59
+8       58    17   289    33
+9       35   334    17    11
+10     368    15     5     9
+11      13    31    22   331
+12     326     7    45    19
+13      79    94    90   134
+14     104    94   127    72
 XX
 CC  program: feature
 CC  matrix.nb: 4
 CC  matrix.nb: 4
-CC  sites: 303
+CC  sites: 397
 CC  consensus.strict: caTATGCGCATAtg
 CC  consensus.strict.rc: CATATGCGCATATG
-CC  consensus.IUPAC: caTATGCGCATAtg
-CC  consensus.IUPAC.rc: CATATGCGCATATG
-CC  consensus.regexp: caTATGCGCATAtg
-CC  consensus.regexp.rc: CATATGCGCATATG
+CC  consensus.IUPAC: yaTATGCGCATAtr
+CC  consensus.IUPAC.rc: YATATGCGCATATR
+CC  consensus.regexp: [ct]aTATGCGCATAt[ag]
+CC  consensus.regexp.rc: [CT]ATATGCGCATAT[AG]
 XX
 //
 AC  oligos_8nt_mkv6_m1
 XX
 ID  oligos_8nt_mkv6_m1
 XX
-DE  crCGCAsGCGcr
+DE  sgCGCAGGCGss
 P0       A     C     G     T
-1       20   136    50    62
-2       74    16   162    16
-3        0   268     0     0
-4        0     0   268     0
-5        1   259     5     3
-6      196    14    57     1
-7        2    96   123    47
-8        2     3   259     4
-9        0   267     0     1
-10       1     0   267     0
-11      15   175    26    52
-12      68    47   128    25
+1      136   381   304   235
+2      199   218   525   114
+3       25   959    48    24
+4       27    35   974    20
+5       20   960    56    20
+6      797    58   170    31
+7       17   182   729   128
+8       22    58   956    20
+9       26   966    32    32
+10      34    49   941    32
+11     133   486   264   173
+12     234   288   392   142
 XX
 CC  program: feature
 CC  matrix.nb: 1
 CC  matrix.nb: 1
-CC  sites: 268
-CC  consensus.strict: cgCGCAgGCGcg
+CC  sites: 1056
+CC  consensus.strict: cgCGCAGGCGcg
 CC  consensus.strict.rc: CGCGCCTGCGCG
-CC  consensus.IUPAC: crCGCAsGCGcr
-CC  consensus.IUPAC.rc: YGCGCSTGCGYG
-CC  consensus.regexp: c[ag]CGCA[cg]GCGc[ag]
-CC  consensus.regexp.rc: [CT]GCGC[CG]TGCG[CT]G
+CC  consensus.IUPAC: sgCGCAGGCGss
+CC  consensus.IUPAC.rc: SSCGCCTGCGCS
+CC  consensus.regexp: [cg]gCGCAGGCG[cg][cg]
+CC  consensus.regexp.rc: [CG][CG]CGCCTGCGC[CG]
 XX
 //
 AC  oligos_8nt_mkv6_m2
 XX
 ID  oligos_8nt_mkv6_m2
 XX
-DE  csCGCKTCCGss
+DE  ygCGCatGCGcr
 P0       A     C     G     T
-1       20    50    21    16
-2       19    32    42    14
-3        0   107     0     0
-4        0     0   107     0
-5        3   102     1     1
-6        2     4    27    74
-7        5     7     3    92
-8        5    89     9     4
-9        0   106     1     0
-10       0     0   107     0
-11       6    54    35    12
-12      16    31    39    21
+1       94   286   146   233
+2      166    85   456    52
+3       21   700    19    19
+4       30    11   708    10
+5        3   737     7    12
+6      482    77   183    17
+7       17   182    78   482
+8       12     7   737     3
+9       10   708    11    30
+10      19    19   700    21
+11      52   455    86   166
+12     233   146   285    95
 XX
 CC  program: feature
 CC  matrix.nb: 2
 CC  matrix.nb: 2
-CC  sites: 107
-CC  consensus.strict: cgCGCTTCCGcg
-CC  consensus.strict.rc: CGCGGAAGCGCG
-CC  consensus.IUPAC: csCGCKTCCGss
-CC  consensus.IUPAC.rc: SSCGGAMGCGSG
-CC  consensus.regexp: c[cg]CGC[GT]TCCG[cg][cg]
-CC  consensus.regexp.rc: [CG][CG]CGGA[AC]GCG[CG]G
+CC  sites: 759
+CC  consensus.strict: cgCGCatGCGcg
+CC  consensus.strict.rc: CGCGCATGCGCG
+CC  consensus.IUPAC: ygCGCatGCGcr
+CC  consensus.IUPAC.rc: YGCGCATGCGCR
+CC  consensus.regexp: [ct]gCGCatGCGc[ag]
+CC  consensus.regexp.rc: [CT]GCGCATGCGC[AG]
 XX
 //
 AC  oligos_8nt_mkv6_m3
 XX
 ID  oligos_8nt_mkv6_m3
 XX
-DE  yrCGCRYGCGyr
+DE  ssCGCTTCCGss
 P0       A     C     G     T
-1       22   110    38    62
-2       62    15   147     8
-3        0   232     0     0
-4        2     0   230     0
-5        0   227     1     4
-6      163     4    65     0
-7        0    64     4   164
-8        4     3   224     1
-9        0   230     0     2
-10       0     0   232     0
-11       7   149    14    62
-12      62    37   110    23
+1      102   246   197   129
+2       99   219   243   113
+3       26   593    38    17
+4       67    22   549    36
+5        7   631    21    15
+6        8    53    76   537
+7       17    53    37   567
+8       16   594    53    11
+9       27   596    33    18
+10      13    23   617    21
+11      75   284   234    81
+12     115   206   219   134
 XX
 CC  program: feature
 CC  matrix.nb: 3
 CC  matrix.nb: 3
-CC  sites: 232
-CC  consensus.strict: cgCGCATGCGcg
-CC  consensus.strict.rc: CGCGCATGCGCG
-CC  consensus.IUPAC: yrCGCRYGCGyr
-CC  consensus.IUPAC.rc: YRCGCRYGCGYR
-CC  consensus.regexp: [ct][ag]CGC[AG][CT]GCG[ct][ag]
-CC  consensus.regexp.rc: [CT][AG]CGC[AG][CT]GCG[CT][AG]
+CC  sites: 674
+CC  consensus.strict: cgCGCTTCCGcg
+CC  consensus.strict.rc: CGCGGAAGCGCG
+CC  consensus.IUPAC: ssCGCTTCCGss
+CC  consensus.IUPAC.rc: SSCGGAAGCGSS
+CC  consensus.regexp: [cg][cg]CGCTTCCG[cg][cg]
+CC  consensus.regexp.rc: [CG][CG]CGGAAGCG[CG][CG]
 XX
 //
 AC  oligos_8nt_mkv6_m4
 XX
 ID  oligos_8nt_mkv6_m4
 XX
-DE  CGCGCAGCCGcr
+DE  ssCGCAGCCGss
 P0       A     C     G     T
-1        0    16     4     2
-2        4     0    16     2
-3        0    22     0     0
-4        0     0    22     0
-5        0    22     0     0
-6       18     4     0     0
-7        0     0    22     0
-8        0    22     0     0
-9        0    22     0     0
-10       0     0    22     0
-11       3    14     3     2
-12       7     5    10     0
+1      117   333   280   151
+2      126   291   343   121
+3       29   790    31    31
+4       21    46   790    24
+5       20   804    35    22
+6      655   130    63    33
+7        6    55   808    12
+8       22   724   115    20
+9       39   763    44    35
+10      28    35   789    29
+11     111   424   241   105
+12     193   273   295   120
 XX
 CC  program: feature
 CC  matrix.nb: 4
 CC  matrix.nb: 4
-CC  sites: 22
-CC  consensus.strict: CGCGCAGCCGcg
+CC  sites: 881
+CC  consensus.strict: cgCGCAGCCGcg
 CC  consensus.strict.rc: CGCGGCTGCGCG
-CC  consensus.IUPAC: CGCGCAGCCGcr
-CC  consensus.IUPAC.rc: YGCGGCTGCGCG
-CC  consensus.regexp: CGCGCAGCCGc[ag]
-CC  consensus.regexp.rc: [CT]GCGGCTGCGCG
+CC  consensus.IUPAC: ssCGCAGCCGss
+CC  consensus.IUPAC.rc: SSCGGCTGCGSS
+CC  consensus.regexp: [cg][cg]CGCAGCCG[cg][cg]
+CC  consensus.regexp.rc: [CG][CG]CGGCTGCG[CG][CG]
 XX
 //
 AC  local_words_8nt_m1
 XX
 ID  local_words_8nt_m1
 XX
-DE  sywTTgTTATGCAAATdw
+DE  sywTTgTTATGCAAAtdw
 P0       A     C     G     T
-1      107   236   171   152
-2      106   269    74   217
-3      360    43    53   210
-4       23    33    28   582
-5       41    24    49   552
-6       85   112   411    58
-7      127    31    35   473
-8       72    89    42   463
-9      594    16    21    35
-10      18     9    11   628
-11      19     8   583    56
-12      13   498    36   119
-13     518    12    13   123
-14     492    29    76    69
-15     593    15    25    33
-16      81    67    57   461
-17     167   114   197   188
-18     200   149   139   178
+1      120   260   189   175
+2      118   308    83   235
+3      393    52    60   239
+4       24    42    32   646
+5       48    23    57   616
+6       89   134   452    69
+7      148    37    39   520
+8       83   101    49   511
+9      647    25    30    42
+10      23     9    12   700
+11      18     9   652    65
+12      17   563    42   122
+13     584    12    12   136
+14     553    34    81    76
+15     652    21    31    40
+16      95    76    67   506
+17     187   131   216   210
+18     218   168   158   200
 XX
 CC  program: feature
 CC  matrix.nb: 1
 CC  matrix.nb: 1
-CC  sites: 666
-CC  consensus.strict: ccaTTgTTATGCAAATga
+CC  sites: 744
+CC  consensus.strict: ccaTTgTTATGCAAAtga
 CC  consensus.strict.rc: TCATTTGCATAACAATGG
-CC  consensus.IUPAC: sywTTgTTATGCAAATdw
+CC  consensus.IUPAC: sywTTgTTATGCAAAtdw
 CC  consensus.IUPAC.rc: WHATTTGCATAACAAWRS
-CC  consensus.regexp: [cg][ct][at]TTgTTATGCAAAT[agt][at]
+CC  consensus.regexp: [cg][ct][at]TTgTTATGCAAAt[agt][at]
 CC  consensus.regexp.rc: [AT][ACT]ATTTGCATAACAA[AT][AG][CG]
 XX
 //
@@ -825,29 +544,29 @@ ID  local_words_8nt_m2
 XX
 DE  whATTTGCATAAcAAwrs
 P0       A     C     G     T
-1      176   137   152   201
-2      189   195   114   168
-3      463    55    67    81
-4       32    24    15   595
-5       69    75    29   493
-6      122    13    12   519
-7      118    36   497    15
-8       56   583     8    19
-9      628    11     9    18
-10      36    21    17   592
-11     463    43    89    71
-12     472    35    32   127
-13      58   411   113    84
-14     553    49    23    41
-15     581    27    35    23
-16     212    53    43   358
-17     217    74   269   106
-18     151   171   236   108
+1      199   160   167   217
+2      210   218   128   187
+3      506    67    76    94
+4       40    31    21   651
+5       77    81    34   551
+6      136    12    11   584
+7      123    42   561    17
+8       63   653     9    18
+9      699    12     9    23
+10      42    30    26   645
+11     508    49   101    85
+12     521    39    37   146
+13      68   453   133    89
+14     617    56    22    48
+15     645    32    42    24
+16     239    60    53   391
+17     237    83   306   117
+18     175   189   259   120
 XX
 CC  program: feature
 CC  matrix.nb: 2
 CC  matrix.nb: 2
-CC  sites: 666
+CC  sites: 743
 CC  consensus.strict: tcATTTGCATAAcAAtgg
 CC  consensus.strict.rc: CCATTGTTATGCAAATGA
 CC  consensus.IUPAC: whATTTGCATAAcAAwrs
@@ -860,140 +579,140 @@ AC  local_words_8nt_m3
 XX
 ID  local_words_8nt_m3
 XX
-DE  rcATATGCATrw
+DE  dmATATGCATrw
 P0       A     C     G     T
-1       27     8    46    17
-2       23    46     8    21
-3       98     0     0     0
-4        0     0     0    98
-5       98     0     0     0
-6        0     1     0    97
-7       14     0    84     0
-8        1    84     2    11
-9       97     0     1     0
-10       0     0     0    98
-11      38     7    37    16
-12      33    19    14    32
+1      265   140   300   239
+2      254   348   146   196
+3      833    32    28    51
+4       44    33    23   844
+5      665    69    47   163
+6       17    30    11   886
+7       72    10   800    62
+8       39   833    12    60
+9      896     6    26    16
+10      79    41    32   792
+11     406    99   253   186
+12     242   187   143   372
 XX
 CC  program: feature
 CC  matrix.nb: 3
 CC  matrix.nb: 3
-CC  sites: 98
-CC  consensus.strict: gcATATGCATaa
-CC  consensus.strict.rc: TTATGCATATGC
-CC  consensus.IUPAC: rcATATGCATrw
-CC  consensus.IUPAC.rc: WYATGCATATGY
-CC  consensus.regexp: [ag]cATATGCAT[ag][at]
-CC  consensus.regexp.rc: [AT][CT]ATGCATATG[CT]
+CC  sites: 944
+CC  consensus.strict: gcATATGCATat
+CC  consensus.strict.rc: ATATGCATATGC
+CC  consensus.IUPAC: dmATATGCATrw
+CC  consensus.IUPAC.rc: WYATGCATATKH
+CC  consensus.regexp: [agt][ac]ATATGCAT[ag][at]
+CC  consensus.regexp.rc: [AT][CT]ATGCATAT[GT][ACT]
 XX
 //
 AC  positions_8nt_m1
 XX
 ID  positions_8nt_m1
 XX
-DE  cyATTGTTATGCAAATgwr
+DE  syaTTgTtATGCAAATgwm
 P0       A     C     G     T
-1       35   100    57    55
-2       26   114    22    85
-3      176     9    11    51
-4        2    12     5   228
-5       14     2    10   221
-6       19    32   180    16
-7       46     7    11   183
-8       23    33    14   177
-9      229     6     2    10
-10       3     1     0   243
-11       2     1   229    15
-12       3   183    15    46
-13     189     7     3    48
-14     200     7    17    23
-15     227     3     8     9
-16      21    17    12   197
-17      48    26   129    44
-18      76    53    54    64
-19      72    58    63    54
+1       75   202   140   131
+2       79   237    53   179
+3      360    30    29   129
+4       10    28    23   487
+5       34    10    31   473
+6       51    84   365    48
+7       96    25    27   400
+8       63    82    46   357
+9      474    17    20    37
+10      15     5     9   519
+11      12     6   480    50
+12      14   414    29    91
+13     427    11     6   104
+14     396    22    77    53
+15     485    14    22    27
+16      60    47    40   401
+17      96    79   256   117
+18     166   117   118   147
+19     165   140   117   126
 XX
 CC  program: feature
 CC  matrix.nb: 1
 CC  matrix.nb: 1
-CC  sites: 247
-CC  consensus.strict: ccATTGTTATGCAAATgaa
+CC  sites: 548
+CC  consensus.strict: ccaTTgTtATGCAAATgaa
 CC  consensus.strict.rc: TTCATTTGCATAACAATGG
-CC  consensus.IUPAC: cyATTGTTATGCAAATgwr
-CC  consensus.IUPAC.rc: YWCATTTGCATAACAATRG
-CC  consensus.regexp: c[ct]ATTGTTATGCAAATg[at][ag]
-CC  consensus.regexp.rc: [CT][AT]CATTTGCATAACAAT[AG]G
+CC  consensus.IUPAC: syaTTgTtATGCAAATgwm
+CC  consensus.IUPAC.rc: KWCATTTGCATAACAATRS
+CC  consensus.regexp: [cg][ct]aTTgTtATGCAAATg[at][ac]
+CC  consensus.regexp.rc: [GT][AT]CATTTGCATAACAAT[AG][CG]
 XX
 //
 AC  positions_8nt_m2
 XX
 ID  positions_8nt_m2
 XX
-DE  ywyATGCATATGCATrwr
+DE  yayATGCATATGCATrtr
 P0       A     C     G     T
-1       45    89    56    67
-2       94    44    46    73
-3       35   105    25    92
-4      195    18    14    30
-5        5    11     5   236
-6       21     8   207    21
-7       43   196     7    11
-8      243     3     6     5
-9       14    12     4   227
-10     228     4    12    13
-11       5     6     3   243
-12      10     7   197    43
-13      21   207     8    21
-14     236     5    11     5
-15      30    15    18   194
-16      91    25   106    35
-17      73    46    44    94
-18      67    56    89    45
+1       99   158   118   130
+2      189    81   113   122
+3       69   219    41   176
+4      377    37    32    59
+5       21    27    16   441
+6       49    23   368    65
+7       74   371    18    42
+8      453     9    20    23
+9       44    35    12   414
+10     414    12    35    44
+11      23    20     9   453
+12      42    18   371    74
+13      65   368    23    49
+14     441    16    27    21
+15      59    32    38   376
+16     177    41   218    69
+17     121   113    82   189
+18     131   118   157    99
 XX
 CC  program: feature
 CC  matrix.nb: 2
 CC  matrix.nb: 2
-CC  sites: 257
+CC  sites: 505
 CC  consensus.strict: cacATGCATATGCATgtg
 CC  consensus.strict.rc: CACATGCATATGCATGTG
-CC  consensus.IUPAC: ywyATGCATATGCATrwr
-CC  consensus.IUPAC.rc: YWYATGCATATGCATRWR
-CC  consensus.regexp: [ct][at][ct]ATGCATATGCAT[ag][at][ag]
-CC  consensus.regexp.rc: [CT][AT][CT]ATGCATATGCAT[AG][AT][AG]
+CC  consensus.IUPAC: yayATGCATATGCATrtr
+CC  consensus.IUPAC.rc: YAYATGCATATGCATRTR
+CC  consensus.regexp: [ct]a[ct]ATGCATATGCAT[ag]t[ag]
+CC  consensus.regexp.rc: [CT]A[CT]ATGCATATGCAT[AG]T[AG]
 XX
 //
 AC  positions_8nt_m3
 XX
 ID  positions_8nt_m3
 XX
-DE  gcaTATGCGCATAtgc
+DE  gcaTATGCgCATAtgc
 P0       A     C     G     T
-1       52    44    97    57
-2       49    90    52    59
-3      142    21    44    43
-4       11    33     2   204
-5      223     7    16     4
-6        4     2     5   239
-7       14    13   203    20
-8       13   183    10    44
-9       44    10   183    13
-10      20   203    13    14
-11     239     5     2     4
-12       4    16     7   223
-13     204     2    33    11
-14      43    44    21   142
-15      59    52    90    49
-16      57    97    44    52
+1       68    65   124    78
+2       66   114    73    82
+3      198    34    58    45
+4       16    44     6   269
+5      292    10    23    10
+6        7     7     7   314
+7       21    18   265    31
+8       23   229    17    66
+9       67    17   228    23
+10      32   264    18    21
+11     314     7     7     7
+12      10    23    10   292
+13     268     6    45    16
+14      45    58    34   198
+15      83    73   113    66
+16      77   124    66    68
 XX
 CC  program: feature
 CC  matrix.nb: 3
 CC  matrix.nb: 3
-CC  sites: 250
-CC  consensus.strict: gcaTATGCGCATAtgc
+CC  sites: 335
+CC  consensus.strict: gcaTATGCgCATAtgc
 CC  consensus.strict.rc: GCATATGCGCATATGC
-CC  consensus.IUPAC: gcaTATGCGCATAtgc
+CC  consensus.IUPAC: gcaTATGCgCATAtgc
 CC  consensus.IUPAC.rc: GCATATGCGCATATGC
-CC  consensus.regexp: gcaTATGCGCATAtgc
+CC  consensus.regexp: gcaTATGCgCATAtgc
 CC  consensus.regexp.rc: GCATATGCGCATATGC
 XX
 //
@@ -1001,30 +720,30 @@ AC  positions_8nt_m4
 XX
 ID  positions_8nt_m4
 XX
-DE  wrCATgACAAwr
+DE  wrCATGACAAwr
 P0       A     C     G     T
-1       84    48    29   152
-2       87    54   131    41
-3       12   293     0     8
-4      299     2    11     1
-5        1     2     1   309
-6       74    22   183    34
-7      309     0     1     3
-8        4   285     3    21
-9      302     3     5     3
-10     300     5     5     3
-11      81    38    15   179
-12     101    44   123    45
+1      185   126    95   272
+2      174   138   276    90
+3       35   616    17    10
+4      625    27    14    12
+5       24     4    32   618
+6      107    57   468    46
+7      632    10    24    12
+8       19   581    50    28
+9      647    14     7    10
+10     640    15    15     8
+11     220   103    94   261
+12     201   102   271   104
 XX
 CC  program: feature
 CC  matrix.nb: 4
 CC  matrix.nb: 4
-CC  sites: 313
-CC  consensus.strict: tgCATgACAAtg
+CC  sites: 678
+CC  consensus.strict: tgCATGACAAtg
 CC  consensus.strict.rc: CATTGTCATGCA
-CC  consensus.IUPAC: wrCATgACAAwr
+CC  consensus.IUPAC: wrCATGACAAwr
 CC  consensus.IUPAC.rc: YWTTGTCATGYW
-CC  consensus.regexp: [at][ag]CATgACAA[at][ag]
+CC  consensus.regexp: [at][ag]CATGACAA[at][ag]
 CC  consensus.regexp.rc: [CT][AT]TTGTCATG[CT][AT]
 XX
 //
