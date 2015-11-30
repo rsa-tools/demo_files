@@ -814,46 +814,6 @@ AC  MEME_ChIP_25
 XX
 ID  MEME_ChIP_25
 XX
-DE  waddTATGCATAwkddw
-P0       A     C     G     T
-1        8     4     3     6
-2       13     2     2     4
-3        6     3     6     5
-4        7     2     5     6
-5        2     2     1    15
-6       16     2     1     2
-7        0     1     0    19
-8        0     0    19     1
-9        2    18     0     0
-10      20     0     0     0
-11       1     0     0    19
-12      18     0     0     2
-13      13     1     0     5
-14       3     2     5    10
-15       7     3     5     5
-16       7     2     5     5
-17      12     1     2     5
-XX
-CC  program: meme
-CC  matrix.nb: 28
-CC  id: 27
-CC  ac: 27
-CC  name: 27
-CC  sites: 20
-CC  meme.E-value: 0.0e+000
-CC  matrix.nb: 28
-CC  consensus.strict: aaaaTATGCATAataaa
-CC  consensus.strict.rc: TTTATTATGCATATTTT
-CC  consensus.IUPAC: waddTATGCATAwkddw
-CC  consensus.IUPAC.rc: WHHMWTATGCATAHHTW
-CC  consensus.regexp: [at]a[agt][agt]TATGCATA[at][gt][agt][agt][at]
-CC  consensus.regexp.rc: [AT][ACT][ACT][AC][AT]TATGCATA[ACT][ACT]T[AT]
-XX
-//
-AC  MEME_ChIP_26
-XX
-ID  MEME_ChIP_26
-XX
 DE  aTtwGCATawsAAwr
 P0       A     C     G     T
 1       86    13    13    23
