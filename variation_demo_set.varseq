@@ -1,0 +1,55 @@
+; retrieve-variation-seq  -v 2 -species Homo_sapiens -release 84 -assembly GRCh38 -i results/variation_scan_demo/variation_demo_set.varBed -mml 30 -format varBed -o results/variation_scan_demo/variation_demo_set.varseq
+; Program version       	1.18
+; Input files
+;	input        	results/variation_scan_demo/variation_demo_set.varBed
+; Output files
+;	output       	results/variation_scan_demo/variation_demo_set.varseq
+; Column contents
+;	1	chr           	Chromosome
+;	2	start         	Start position
+;	3	end           	End position
+;	4	strand        	Strand
+;	5	id            	identifier
+;	6	soterm        	Sequence ontology (SO) term describing variation type.
+;	7	ref_var       	Reference variant
+;	8	alt_var       	Alternative variant
+;	9	allele_freq   	Frequency of the current allele
+;	10	seq           	Sequence of the current variant, flanked by a user-specified neighbouring region
+#chr	start	end	strand	id	soterm	ref_var	alt_var	allele_freq	seq
+1	10108	10108	+	rs62651026	SNV	C	T	NA	taaccctaaccctaaccctaaccctaaccTaaccctaaccctaaccctaaccctaaccc
+1	10108	10108	+	rs62651026	SNV	C	C	NA	taaccctaaccctaaccctaaccctaaccCaaccctaaccctaaccctaaccctaaccc
+1	10150	10150	+	rs371194064	SNV	C	T	NA	aaccctaaccctaaccctaaccctaacccTtaaccctaaccctaaccctaaccctaacc
+1	10150	10150	+	rs371194064	SNV	C	C	NA	aaccctaaccctaaccctaaccctaacccCtaaccctaaccctaaccctaaccctaacc
+1	10228	10254	+	rs200462216	deletion	AACCCCTAACCCTAACCCTAAACCCTA		NA	aaccctaaccctaaccctaaccctaacccaaaccctaaccctaaccctaaccctaacc
+1	10228	10254	+	rs200462216	deletion	AACCCCTAACCCTAACCCTAAACCCTA		NA	aaccctaaccctaaccctaaccctaacccaaaccctaaccctaaccctaaccctaacc
+1	10228	10254	+	rs200462216	deletion	AACCCCTAACCCTAACCCTAAACCCTA	AACCCCTAACCCTAACCCTAAACCCTA	NA	aaccctaaccctaaccctaaccctaacccAACCCCTAACCCTAACCCTAAACCCTAaaaccctaaccctaaccctaaccctaacc
+1	14542	14542	+	rs1045833	SNV	A	C	NA	gaagtccccgccccagctgtgtggcctcaCgccagccttccgctccttgaagctggtct
+1	14542	14542	+	rs1045833	SNV	A	T	NA	gaagtccccgccccagctgtgtggcctcaTgccagccttccgctccttgaagctggtct
+1	14542	14542	+	rs1045833	SNV	A	A	NA	gaagtccccgccccagctgtgtggcctcaAgccagccttccgctccttgaagctggtct
+1	15817	15817	+	rs2691316	SNV	G	A	NA	ccgctcaccttgctcctgctccttctgctActgcttctccagctttcgctccttcatgc
+1	15817	15817	+	rs2691316	SNV	G	C	NA	ccgctcaccttgctcctgctccttctgctCctgcttctccagctttcgctccttcatgc
+1	15817	15817	+	rs2691316	SNV	G	G	NA	ccgctcaccttgctcctgctccttctgctGctgcttctccagctttcgctccttcatgc
+1	15820	15820	+	rs2691315	SNV	G	A	NA	ctcaccttgctcctgctccttctgctgctActtctccagctttcgctccttcatgctgc
+1	15820	15820	+	rs2691315	SNV	G	C	NA	ctcaccttgctcctgctccttctgctgctCcttctccagctttcgctccttcatgctgc
+1	15820	15820	+	rs2691315	SNV	G	G	NA	ctcaccttgctcctgctccttctgctgctGcttctccagctttcgctccttcatgctgc
+1	24832	24832	+	rs452623	SNV	A	C	NA	ctcctctcgccgcaggtctggctggatgaCgggcacggcataggtctgacctgccaggg
+1	24832	24832	+	rs452623	SNV	A	T	NA	ctcctctcgccgcaggtctggctggatgaTgggcacggcataggtctgacctgccaggg
+1	24832	24832	+	rs452623	SNV	A	A	NA	ctcctctcgccgcaggtctggctggatgaAgggcacggcataggtctgacctgccaggg
+1	13980	13980	+	rs62635296	SNV	T	C	0.02066	gtcacctcccccaccttcttcctgagtcaCtcctgcagccttgctccctaacctgcccc
+1	13980	13980	+	rs62635296	SNV	T	T	0.02066	gtcacctcccccaccttcttcctgagtcaTtcctgcagccttgctccctaacctgcccc
+1	94991	94991	+	rs188832636	SNV	G	A	0.001377	tgagactacaggcacctaccaccacgcctAgctaatttttttttattttttatttttta
+1	94991	94991	+	rs188832636	SNV	G	G	0.001377	tgagactacaggcacctaccaccacgcctGgctaatttttttttattttttatttttta
+1	30923	30923	+	rs806731	SNV	G	A	NA	tttctctctatctcatttctctctctctcActatctcatttttctctctctctctttct
+1	30923	30923	+	rs806731	SNV	G	C	NA	tttctctctatctcatttctctctctctcCctatctcatttttctctctctctctttct
+1	30923	30923	+	rs806731	SNV	G	T	NA	tttctctctatctcatttctctctctctcTctatctcatttttctctctctctctttct
+1	30923	30923	+	rs806731	SNV	G	G	NA	tttctctctatctcatttctctctctctcGctatctcatttttctctctctctctttct
+; Total variations	10
+; Total variants	27
+; Host name	caminante.local
+; Job started	2016-07-22.053618
+; Job done	2016-07-22.053626
+; Seconds	0.39
+;	user	0.39
+;	system	0.36
+;	cuser	3.13
+;	csystem	1.44
