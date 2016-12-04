@@ -1,0 +1,12 @@
+; convert-variations  -i $RSAT/public_html/demo_files/variation_demo_set.vcf -e_version 72 -v 2 -from vcf -to rsat-var -o $RSAT/public_html/demo_files/variation_demo_set.rsat-var
+#chr	start	end	strand	id	ref	alt	so_term	validate	minor_allele_freq	is_supvar	in_supvar
+1	10108	10108	+	rs62651026	C	T	SNV	0	NA	0	0
+1	10150	10150	+	rs371194064	C	T	SNV	0	NA	0	0
+1	10229	10255	+	rs200462216	AACCCCTAACCCTAACCCTAAACCCTA	,	deletion	0	NA	0	0
+1	14542	14542	+	rs1045833	A	C,T	SNV	0	NA	0	0
+1	15817	15817	+	rs2691316	G	A,C	SNV	0	NA	0	0
+1	15820	15820	+	rs2691315	G	A,C	SNV	0	NA	0	0
+1	24832	24832	+	rs452623	A	C,T	SNV	0	NA	0	0
+1	13980	13980	+	rs62635296	T	C	SNV	0	0.02066	0	0
+1	94991	94991	+	rs188832636	G	A	SNV	0	0.001377	0	0
+1	30923	30923	+	rs806731	G	A,C,T	SNV	0	NA	0	0
