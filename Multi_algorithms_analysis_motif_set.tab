@@ -9,6 +9,6 @@
 ;   make -f ${RSAT}/makefiles/matrix-clustering_demo.mk cluster_HOMER_MEME_RSAT_Oct4_motifs
 ; 
 ; matrix-clustering -v 2 -file_table $RSAT/public_html/demo_files/Multi_algorithms_analysis.tab -title 'Oct4 motifs from RSAT|MEME-ChIP|Homer' -lth Ncor 0.5 -lth cor 0.7 -lth w 5 -hclust_method average -label_in_tree name -metric_build_tree Ncor -return heatmap,align_consensus -o results/matrix-clustering_results/Oct4_RSAT_MEME_HOMER/average_linkage/Ncor0.4_cor0.6/Oct4_RSAT_MEME_HOMER
-${RSAT}/public_html/demo_files/MEME_ChIP_Oct4_matrices.tf	tf	MEME_ChIP
-${RSAT}/public_html/demo_files/Homer_l13_mis3_hyper_Oct4_matrices.tf	tf	HOMER
-${RSAT}/public_html/demo_files/RSAT_peak-motifs_Oct4_matrices.tf	tf	RSAT_peak_motifs
+${RSAT}/public_html/demo_files/MEME_ChIP_Oct4_matrices.tf	MEME_ChIP
+${RSAT}/public_html/demo_files/Homer_l13_mis3_hyper_Oct4_matrices.tf	HOMER
+${RSAT}/public_html/demo_files/RSAT_peak-motifs_Oct4_matrices.tf	RSAT_peak_motifs
