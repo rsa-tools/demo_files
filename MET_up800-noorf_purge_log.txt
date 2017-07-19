@@ -1,0 +1,9 @@
+# sequence length: 10633, number of masked symbols: 50 (0.47 percent of the sequences)
+; Host name	caminante.local
+; Job started	2015-04-14.102817
+; Job done	2015-04-14.102818
+; Seconds	0.12
+;	user	0.12
+;	system	0.03
+;	cuser	0.18
+;	csystem	0.06
