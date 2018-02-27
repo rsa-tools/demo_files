@@ -1,4 +1,4 @@
-AC  FoxA1_Motif
+AC  FOXA1_Motif
 XX
 ID  do463+do466_mmus_foxa1_liver_meme_top_m1
 XX
@@ -434,7 +434,7 @@ CC  consensus.regexp: c[at][ag][at]GT[ac]AA[CT]A
 CC  consensus.regexp.rc: T[AG]TT[GT]AC[AT][CT][AT]G
 XX
 //
-AC  CEBPalpha_Motif
+AC  CEBP-alpha_Motif
 XX
 ID  do560+do843_mmus_cebpa_liver_meme_top_m1
 XX
@@ -905,7 +905,7 @@ CC  consensus.regexp: [ag]TTGCac[ac]A[ct][ac]
 CC  consensus.regexp.rc: [GT][AG]T[GT]GTGCAA[CT]
 XX
 //
-AC  HNF4alpha_Motif
+AC  HNF4-alpha_Motif
 XX
 ID  do562+do732_mmus_hnf4a_liver_meme_top_m1
 XX
