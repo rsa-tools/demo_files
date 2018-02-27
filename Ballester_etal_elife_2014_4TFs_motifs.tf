@@ -1,4 +1,4 @@
-AC  do463+do466_mmus_foxa1_liver_meme_top_m1
+AC  FoxA1_Motif
 XX
 ID  do463+do466_mmus_foxa1_liver_meme_top_m1
 XX
@@ -434,7 +434,7 @@ CC  consensus.regexp: c[at][ag][at]GT[ac]AA[CT]A
 CC  consensus.regexp.rc: T[AG]TT[GT]AC[AT][CT][AT]G
 XX
 //
-AC  do560+do843_mmus_cebpa_liver_meme_top_m1
+AC  CEBPalpha_Motif
 XX
 ID  do560+do843_mmus_cebpa_liver_meme_top_m1
 XX
@@ -905,7 +905,7 @@ CC  consensus.regexp: [ag]TTGCac[ac]A[ct][ac]
 CC  consensus.regexp.rc: [GT][AG]T[GT]GTGCAA[CT]
 XX
 //
-AC  do562+do732_mmus_hnf4a_liver_meme_top_m1
+AC  HNF4alpha_Motif
 XX
 ID  do562+do732_mmus_hnf4a_liver_meme_top_m1
 XX
@@ -1304,7 +1304,7 @@ CC  consensus.regexp: [ag]G[gt][cg]CA[ag]AG[gt][ct]CAg[ag]
 CC  consensus.regexp.rc: [CT]CTG[AG][AC]CT[CT]TG[CG][AC]C[CT]
 XX
 //
-AC  do798+do735_mmus_hnf6_liver_meme_top_m1
+AC  HNF6_Motif
 XX
 ID  do798+do735_mmus_hnf6_liver_meme_top_m1
 XX
