@@ -1,15 +1,15 @@
-AC  matrix_m1
+AC  CACGTGx50
 XX
-ID  matrix_m1
+ID  CACGTGx50
 XX
 DE  CACGTG
 P0           a         c         g         t
-1            0       100         0         0
-2          100         0         0         0
-3            0       100         0         0
-4            0         0       100         0
-5            0         0         0       100
-6            0         0       100         0
+1            0        50         0         0
+2           50         0         0         0
+3            0        50         0         0
+4            0         0        50         0
+5            0         0         0        50
+6            0         0        50         0
 XX
 CC  matrix.nb: 1
 CC  matrix.nb: 1
@@ -22,9 +22,9 @@ CC  consensus.regexp: CACGTG
 CC  consensus.regexp.rc: CACGTG
 XX
 //
-AC  matrix_m1
+AC  CACGTTx50
 XX
-ID  matrix_m1
+ID  CACGTTx50
 XX
 DE  CACGTT
 P0           a         c         g         t

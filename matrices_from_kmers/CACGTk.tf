@@ -1,6 +1,6 @@
-AC  merged
+AC  CACGTk
 XX
-ID  merged
+ID  CACGTk
 XX
 DE  CACGTk
 P0           a         c         g         t
@@ -9,7 +9,7 @@ P0           a         c         g         t
 3         0.00    150.00      0.00      0.00
 4         0.00      0.00    150.00      0.00
 5         0.00      0.00      0.00    150.00
-6         0.00      0.00    100.00     50.00
+6         0.00      0.00     50.00    100.00
 XX
 CC  consensus.strict: CACGTg
 CC  consensus.strict.rc: CACGTG

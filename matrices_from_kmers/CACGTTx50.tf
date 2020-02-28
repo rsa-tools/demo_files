@@ -1,6 +1,6 @@
-AC  matrix_m1
+AC  CACGTTx50
 XX
-ID  matrix_m1
+ID  CACGTTx50
 XX
 DE  CACGTT
 P0           a         c         g         t
